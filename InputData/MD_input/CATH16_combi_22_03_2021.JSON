@@ -1,0 +1,7819 @@
+{
+  "info": {
+    "detector": {},
+    "detection_completion_time": ["2020-10-06 13:59:46"],
+    "format_version": ["1.0"]
+  },
+  "detection_categories": {
+    "1": ["animal"],
+    "2": ["person"],
+    "3": ["vehicle"]
+  },
+  "classification_categories": {},
+  "images": [
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.1013, 0.0026, 0.2938, 0.9288]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-11-43.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.998,
+          "bbox": [0.5362, 0.0138, 0.2978, 0.8943]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-11-44.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-04__13-11-46.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.3819, 0, 0.3235, 0.9169]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-17-31.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.4082, 0.0182, 0.33, 0.8963]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-17-32.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.99,
+          "bbox": [0.8074, 0.3411, 0.1912, 0.5456]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-17-34.jpg",
+      "max_detection_conf": 0.99
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.998,
+          "bbox": [0.145, 0.0146, 0.2871, 0.7215]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-19-33.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.998,
+          "bbox": [0.4732, 0.0104, 0.2684, 0.72]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-19-35.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.998,
+          "bbox": [0.5061, 0.0178, 0.2503, 0.7357]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-19-38.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.998,
+          "bbox": [0.5255, 0.0182, 0.2572, 0.7305]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-19-40.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.998,
+          "bbox": [0.556, 0.0083, 0.2501, 0.7526]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-19-45.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.131,
+          "bbox": [0.4661, 0.2462, 0.024, 0.0182]
+        }
+      ],
+      "file": "CATH16__2019-07-04__13-19-46.jpg",
+      "max_detection_conf": 0.131
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-05__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-06__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.937,
+          "bbox": [0.7076, 0.235, 0.0246, 0.042]
+        }
+      ],
+      "file": "CATH16__2019-07-07__12-00-00.jpg",
+      "max_detection_conf": 0.937
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-08__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-09__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-10__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.158,
+          "bbox": [0.4607, 0.2348, 0.0163, 0.0167]
+        }
+      ],
+      "file": "CATH16__2019-07-11__12-00-00.jpg",
+      "max_detection_conf": 0.158
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-12__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-13__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-14__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-15__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-16__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-17__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-18__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-19__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-20__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3545, 0.8008, 0.0751, 0.1371]
+        }
+      ],
+      "file": "CATH16__2019-07-20__18-23-34.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.994,
+          "bbox": [0.1414, 0.854, 0.1072, 0.0762]
+        }
+      ],
+      "file": "CATH16__2019-07-20__18-23-38.jpg",
+      "max_detection_conf": 0.994
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-21__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-21__13-04-57.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.986,
+          "bbox": [0.0007, 0.7007, 0.1541, 0.1637]
+        }
+      ],
+      "file": "CATH16__2019-07-21__16-13-38.jpg",
+      "max_detection_conf": 0.986
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0418, 0.7265, 0.1492, 0.1449]
+        }
+      ],
+      "file": "CATH16__2019-07-22__01-05-36.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.987,
+          "bbox": [0.865, 0.5692, 0.0777, 0.08]
+        }
+      ],
+      "file": "CATH16__2019-07-22__01-05-51.jpg",
+      "max_detection_conf": 0.987
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-22__01-06-01.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-22__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0993, 0.0376, 0.3318, 0.5538]
+        }
+      ],
+      "file": "CATH16__2019-07-23__03-16-53.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.977,
+          "bbox": [0.0003, 0.0595, 0.1625, 0.5778]
+        },
+        {
+          "category": "1",
+          "conf": 0.964,
+          "bbox": [0.3073, 0.078, 0.1589, 0.3679]
+        },
+        {
+          "category": "1",
+          "conf": 0.867,
+          "bbox": [0.0147, 0.0747, 0.43, 0.5182]
+        },
+        {
+          "category": "1",
+          "conf": 0.415,
+          "bbox": [0.2097, 0.0824, 0.2593, 0.3696]
+        },
+        {
+          "category": "1",
+          "conf": 0.221,
+          "bbox": [0.1025, 0.0885, 0.308, 0.3873]
+        },
+        {
+          "category": "1",
+          "conf": 0.219,
+          "bbox": [0.002, 0.1026, 0.3016, 0.5227]
+        },
+        {
+          "category": "1",
+          "conf": 0.178,
+          "bbox": [0.0051, 0.218, 0.1499, 0.3754]
+        }
+      ],
+      "file": "CATH16__2019-07-23__03-16-56.jpg",
+      "max_detection_conf": 0.977
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.3501, 0.0697, 0.1488, 0.4004]
+        }
+      ],
+      "file": "CATH16__2019-07-23__03-16-57.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0, 0.0597, 0.3487, 0.5379]
+        }
+      ],
+      "file": "CATH16__2019-07-23__03-17-00.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-23__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-24__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-25__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-26__08-42-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-26__08-42-02.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-26__10-05-05.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-26__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-27__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-28__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-29__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-30__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-07-31__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-01__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-02__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.13, 0.7197, 0.1621, 0.139]
+        }
+      ],
+      "file": "CATH16__2019-08-03__02-53-07.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.4849, 0.6667, 0.1453, 0.1388]
+        }
+      ],
+      "file": "CATH16__2019-08-03__02-53-08.jpg",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-03__10-43-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-03__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.842,
+          "bbox": [0.0543, 0.7063, 0.0312, 0.0873]
+        }
+      ],
+      "file": "CATH16__2019-08-04__11-56-44.jpg",
+      "max_detection_conf": 0.842
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-04__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.995,
+          "bbox": [0.7018, 0.5664, 0.077, 0.0755]
+        },
+        {
+          "category": "1",
+          "conf": 0.255,
+          "bbox": [0.6984, 0.5562, 0.1151, 0.0885]
+        }
+      ],
+      "file": "CATH16__2019-08-05__03-44-20.jpg",
+      "max_detection_conf": 0.995
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.916,
+          "bbox": [0.0009, 0.5794, 0.0582, 0.0572]
+        },
+        {
+          "category": "1",
+          "conf": 0.222,
+          "bbox": [0, 0.576, 0.08, 0.0709]
+        }
+      ],
+      "file": "CATH16__2019-08-05__03-44-27.jpg",
+      "max_detection_conf": 0.916
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-05__11-43-37.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-05__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.946,
+          "bbox": [0.4891, 0.9395, 0.1194, 0.0396]
+        }
+      ],
+      "file": "CATH16__2019-08-05__17-49-41.jpg",
+      "max_detection_conf": 0.946
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.49,
+          "bbox": [0.0002, 0.6643, 0.0292, 0.0868]
+        }
+      ],
+      "file": "CATH16__2019-08-05__17-49-44.jpg",
+      "max_detection_conf": 0.49
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.987,
+          "bbox": [0.9326, 0.514, 0.0659, 0.0993]
+        }
+      ],
+      "file": "CATH16__2019-08-05__23-38-27.jpg",
+      "max_detection_conf": 0.987
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.99,
+          "bbox": [0.0459, 0.6131, 0.0898, 0.0937]
+        },
+        {
+          "category": "1",
+          "conf": 0.162,
+          "bbox": [0.0642, 0.6146, 0.1005, 0.0937]
+        }
+      ],
+      "file": "CATH16__2019-08-06__02-02-37.jpg",
+      "max_detection_conf": 0.99
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-06__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1173, 0.8364, 0.1333, 0.1389]
+        }
+      ],
+      "file": "CATH16__2019-08-07__02-40-49.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.967,
+          "bbox": [0.0011, 0.8262, 0.0832, 0.1495]
+        }
+      ],
+      "file": "CATH16__2019-08-07__02-40-50.jpg",
+      "max_detection_conf": 0.967
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-07__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.987,
+          "bbox": [0.9147, 0.5379, 0.0816, 0.0832]
+        },
+        {
+          "category": "1",
+          "conf": 0.201,
+          "bbox": [0.9546, 0.5373, 0.0428, 0.0945]
+        }
+      ],
+      "file": "CATH16__2019-08-07__22-29-43.jpg",
+      "max_detection_conf": 0.987
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.994,
+          "bbox": [0.7775, 0.5647, 0.0564, 0.0799]
+        }
+      ],
+      "file": "CATH16__2019-08-08__00-29-58.jpg",
+      "max_detection_conf": 0.994
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-08__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-08__12-39-21.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0111, 0.8441, 0.1015, 0.1326]
+        }
+      ],
+      "file": "CATH16__2019-08-09__00-50-00.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1364, 0.8844, 0.1369, 0.0922]
+        }
+      ],
+      "file": "CATH16__2019-08-09__00-50-02.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0314, 0.8091, 0.1868, 0.1664]
+        }
+      ],
+      "file": "CATH16__2019-08-09__00-50-25.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1765, 0.1748, 0.2845, 0.4963]
+        },
+        {
+          "category": "1",
+          "conf": 0.16,
+          "bbox": [0.0155, 0.0209, 0.053, 0.0385]
+        }
+      ],
+      "file": "CATH16__2019-08-09__06-03-22.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-09__06-03-23.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-09__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.98,
+          "bbox": [0.9392, 0.5146, 0.0601, 0.1092]
+        }
+      ],
+      "file": "CATH16__2019-08-09__23-05-23.jpg",
+      "max_detection_conf": 0.98
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-10__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.1844, 0.8091, 0.1214, 0.1619]
+        }
+      ],
+      "file": "CATH16__2019-08-11__00-01-14.jpg",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.116,
+          "bbox": [0.0196, 0.0192, 0.0516, 0.0438]
+        }
+      ],
+      "file": "CATH16__2019-08-11__12-00-00.jpg",
+      "max_detection_conf": 0.116
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-12__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-13__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.979,
+          "bbox": [0.8566, 0.5952, 0.0667, 0.0783]
+        },
+        {
+          "category": "1",
+          "conf": 0.103,
+          "bbox": [0.866, 0.5909, 0.0598, 0.0634]
+        }
+      ],
+      "file": "CATH16__2019-08-14__01-46-40.jpg",
+      "max_detection_conf": 0.979
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-14__01-46-41.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.104,
+          "bbox": [0.9442, 0.19, 0.0493, 0.0994]
+        }
+      ],
+      "file": "CATH16__2019-08-14__12-00-00.jpg",
+      "max_detection_conf": 0.104
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.45,
+          "bbox": [0.9362, 0.1911, 0.0567, 0.0973]
+        }
+      ],
+      "file": "CATH16__2019-08-15__12-00-00.jpg",
+      "max_detection_conf": 0.45
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.453,
+          "bbox": [0.9376, 0.1894, 0.0525, 0.0988]
+        },
+        {
+          "category": "1",
+          "conf": 0.387,
+          "bbox": [0.1562, 0.3282, 0.0349, 0.1044]
+        }
+      ],
+      "file": "CATH16__2019-08-16__12-00-00.jpg",
+      "max_detection_conf": 0.453
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.101,
+          "bbox": [0.0189, 0.0202, 0.0523, 0.0411]
+        }
+      ],
+      "file": "CATH16__2019-08-17__12-00-00.jpg",
+      "max_detection_conf": 0.101
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-18__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.103,
+          "bbox": [0.1103, 0.4963, 0.0307, 0.0672]
+        }
+      ],
+      "file": "CATH16__2019-08-18__13-35-59.jpg",
+      "max_detection_conf": 0.103
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-19__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-20__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-21__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.1,
+          "bbox": [0.9383, 0.1905, 0.0533, 0.0991]
+        }
+      ],
+      "file": "CATH16__2019-08-21__17-45-13.jpg",
+      "max_detection_conf": 0.1
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-22__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-23__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.182,
+          "bbox": [0.015, 0.0201, 0.0561, 0.0446]
+        }
+      ],
+      "file": "CATH16__2019-08-24__12-00-00.jpg",
+      "max_detection_conf": 0.182
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.157,
+          "bbox": [0.0185, 0.0187, 0.0546, 0.0458]
+        }
+      ],
+      "file": "CATH16__2019-08-25__12-00-00.jpg",
+      "max_detection_conf": 0.157
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.9446, 0.4053, 0.0553, 0.1796]
+        }
+      ],
+      "file": "CATH16__2019-08-25__22-16-27.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1773, 0.312, 0.6189, 0.592]
+        }
+      ],
+      "file": "CATH16__2019-08-25__22-16-29.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0018, 0.3109, 0.3363, 0.5019]
+        }
+      ],
+      "file": "CATH16__2019-08-25__22-16-30.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-25__22-16-32.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0021, 0.309, 0.1298, 0.3059]
+        }
+      ],
+      "file": "CATH16__2019-08-25__22-16-37.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0705, 0.2764, 0.296, 0.3376]
+        }
+      ],
+      "file": "CATH16__2019-08-25__22-16-39.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-26__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.1326, 0.344, 0.5121]
+        }
+      ],
+      "file": "CATH16__2019-08-26__21-17-56.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0114, 0.0863, 0.5114, 0.56]
+        }
+      ],
+      "file": "CATH16__2019-08-26__21-17-58.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2609, 0.0931, 0.3651, 0.5176]
+        }
+      ],
+      "file": "CATH16__2019-08-26__21-17-59.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.398, 0.1279, 0.2963, 0.4517]
+        }
+      ],
+      "file": "CATH16__2019-08-26__21-18-00.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5247, 0.2345, 0.2162, 0.3018]
+        }
+      ],
+      "file": "CATH16__2019-08-26__21-18-01.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6057, 0.137, 0.1328, 0.3721]
+        }
+      ],
+      "file": "CATH16__2019-08-26__21-18-03.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5519, 0.1618, 0.1374, 0.3206]
+        }
+      ],
+      "file": "CATH16__2019-08-26__21-18-04.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.992,
+          "bbox": [0.0169, 0.577, 0.1147, 0.1229]
+        }
+      ],
+      "file": "CATH16__2019-08-27__01-15-26.jpg",
+      "max_detection_conf": 0.992
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2553, 0.5907, 0.1089, 0.0932]
+        }
+      ],
+      "file": "CATH16__2019-08-27__01-15-27.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.6889, 0.5342, 0.0835, 0.0796]
+        }
+      ],
+      "file": "CATH16__2019-08-27__01-15-30.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.992,
+          "bbox": [0.8284, 0.5182, 0.0882, 0.0851]
+        }
+      ],
+      "file": "CATH16__2019-08-27__01-15-31.jpg",
+      "max_detection_conf": 0.992
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.104,
+          "bbox": [0.9623, 0.5025, 0.0376, 0.0648]
+        }
+      ],
+      "file": "CATH16__2019-08-27__01-15-32.jpg",
+      "max_detection_conf": 0.104
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-27__01-29-35.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.8071, 0.7639, 0.1912, 0.1695]
+        }
+      ],
+      "file": "CATH16__2019-08-27__01-30-03.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.461, 0.7454, 0.1723, 0.1506]
+        }
+      ],
+      "file": "CATH16__2019-08-27__01-30-04.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2913, 0.714, 0.1339, 0.1341]
+        }
+      ],
+      "file": "CATH16__2019-08-27__01-30-05.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-27__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.135,
+          "bbox": [0.5559, 0.4635, 0.0209, 0.0508]
+        }
+      ],
+      "file": "CATH16__2019-08-28__12-00-00.jpg",
+      "max_detection_conf": 0.135
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.984,
+          "bbox": [0.8254, 0.51, 0.0773, 0.0768]
+        }
+      ],
+      "file": "CATH16__2019-08-28__23-05-30.jpg",
+      "max_detection_conf": 0.984
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-29__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.1055, 0.7351, 0.198, 0.1543]
+        }
+      ],
+      "file": "CATH16__2019-08-29__23-40-05.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.992,
+          "bbox": [0.8826, 0.5689, 0.0852, 0.0776]
+        }
+      ],
+      "file": "CATH16__2019-08-29__23-40-10.jpg",
+      "max_detection_conf": 0.992
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-29__23-40-11.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2993, 0.1864, 0.1426, 0.4376]
+        }
+      ],
+      "file": "CATH16__2019-08-30__04-02-38.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-30__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.995,
+          "bbox": [0.6884, 0.3964, 0.0811, 0.0767]
+        }
+      ],
+      "file": "CATH16__2019-08-31__02-44-17.jpg",
+      "max_detection_conf": 0.995
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-08-31__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.11,
+          "bbox": [0.1547, 0.3416, 0.0358, 0.0978]
+        }
+      ],
+      "file": "CATH16__2019-09-01__12-00-00.jpg",
+      "max_detection_conf": 0.11
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.639,
+          "bbox": [0.9536, 0.5606, 0.0452, 0.077]
+        },
+        {
+          "category": "1",
+          "conf": 0.376,
+          "bbox": [0.9569, 0.5674, 0.0275, 0.0671]
+        }
+      ],
+      "file": "CATH16__2019-09-01__22-18-09.jpg",
+      "max_detection_conf": 0.639
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.808, 0.559, 0.1227, 0.1203]
+        }
+      ],
+      "file": "CATH16__2019-09-01__22-18-11.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-02__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-03__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.572,
+          "bbox": [0.9508, 0.1901, 0.0381, 0.1014]
+        }
+      ],
+      "file": "CATH16__2019-09-04__12-00-00.jpg",
+      "max_detection_conf": 0.572
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-05__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.16, 0.0185, 0.8353, 0.9331]
+        },
+        {
+          "category": "1",
+          "conf": 0.732,
+          "bbox": [0.5879, 0.0356, 0.412, 0.9168]
+        },
+        {
+          "category": "1",
+          "conf": 0.115,
+          "bbox": [0.1646, 0.0229, 0.5478, 0.7627]
+        }
+      ],
+      "file": "CATH16__2019-09-06__06-58-24.jpg",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.016, 0.9991, 0.9646]
+        }
+      ],
+      "file": "CATH16__2019-09-06__06-58-25.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0163, 1, 0.9621]
+        }
+      ],
+      "file": "CATH16__2019-09-06__06-58-28.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0017, 0.0175, 0.9905, 0.9585]
+        }
+      ],
+      "file": "CATH16__2019-09-06__06-58-29.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.372,
+          "bbox": [0.9405, 0.1901, 0.0495, 0.1016]
+        }
+      ],
+      "file": "CATH16__2019-09-06__06-58-31.jpg",
+      "max_detection_conf": 0.372
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.524,
+          "bbox": [0.9394, 0.1904, 0.0514, 0.1023]
+        }
+      ],
+      "file": "CATH16__2019-09-06__06-58-33.jpg",
+      "max_detection_conf": 0.524
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-06__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7829, 0.2519, 0.1665, 0.3105]
+        }
+      ],
+      "file": "CATH16__2019-09-07__00-55-41.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.8345, 0.2574, 0.1594, 0.3466]
+        }
+      ],
+      "file": "CATH16__2019-09-07__00-55-43.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3211, 0.242, 0.1801, 0.2739]
+        },
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7377, 0.204, 0.1981, 0.2267]
+        }
+      ],
+      "file": "CATH16__2019-09-07__00-59-02.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1889, 0.2373, 0.2623, 0.3003]
+        },
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7387, 0.2045, 0.1683, 0.2303]
+        }
+      ],
+      "file": "CATH16__2019-09-07__00-59-03.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1234, 0.2461, 0.3105, 0.3263]
+        },
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.7391, 0.2047, 0.1674, 0.2318]
+        }
+      ],
+      "file": "CATH16__2019-09-07__00-59-04.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0078, 0.2432, 0.3757, 0.3421]
+        },
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.7396, 0.2061, 0.1847, 0.2219]
+        }
+      ],
+      "file": "CATH16__2019-09-07__00-59-05.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0005, 0.2374, 0.2648, 0.3747]
+        },
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7384, 0.2043, 0.1865, 0.2228]
+        }
+      ],
+      "file": "CATH16__2019-09-07__00-59-07.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7389, 0.2041, 0.182, 0.2348]
+        },
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0015, 0.2447, 0.1378, 0.3658]
+        }
+      ],
+      "file": "CATH16__2019-09-07__00-59-08.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.739, 0.2063, 0.184, 0.2298]
+        }
+      ],
+      "file": "CATH16__2019-09-07__00-59-09.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7386, 0.2042, 0.1955, 0.2271]
+        }
+      ],
+      "file": "CATH16__2019-09-07__00-59-10.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7859, 0.2627, 0.2136, 0.3756]
+        }
+      ],
+      "file": "CATH16__2019-09-07__04-50-04.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.8023, 0.2637, 0.1918, 0.4247]
+        }
+      ],
+      "file": "CATH16__2019-09-07__04-50-05.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7119, 0.2126, 0.2528, 0.5009]
+        }
+      ],
+      "file": "CATH16__2019-09-07__04-50-07.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7678, 0.2499, 0.2307, 0.5216]
+        }
+      ],
+      "file": "CATH16__2019-09-07__04-50-08.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.8217, 0.2385, 0.1781, 0.5344]
+        }
+      ],
+      "file": "CATH16__2019-09-07__04-50-09.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.101,
+          "bbox": [0.424, 0.4627, 0.0531, 0.0533]
+        }
+      ],
+      "file": "CATH16__2019-09-07__04-50-11.jpg",
+      "max_detection_conf": 0.101
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-07__04-50-13.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.7798, 0.471, 0.124, 0.1962]
+        }
+      ],
+      "file": "CATH16__2019-09-07__08-14-54.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.392, 0.5122, 0.2308, 0.2934]
+        }
+      ],
+      "file": "CATH16__2019-09-07__08-14-57.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.034, 0.5587, 0.3569, 0.3262]
+        }
+      ],
+      "file": "CATH16__2019-09-07__08-14-58.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-07__08-15-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.149,
+          "bbox": [0.0105, 0.0187, 0.0573, 0.0426]
+        },
+        {
+          "category": "1",
+          "conf": 0.145,
+          "bbox": [0.9422, 0.1863, 0.0462, 0.1002]
+        }
+      ],
+      "file": "CATH16__2019-09-07__12-00-00.jpg",
+      "max_detection_conf": 0.149
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.9431, 0.297, 0.0566, 0.3417]
+        },
+        {
+          "category": "1",
+          "conf": 0.19,
+          "bbox": [0.0162, 0.0203, 0.0516, 0.0417]
+        }
+      ],
+      "file": "CATH16__2019-09-07__17-15-19.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.186,
+          "bbox": [0.016, 0.0208, 0.0515, 0.0403]
+        }
+      ],
+      "file": "CATH16__2019-09-07__17-15-21.jpg",
+      "max_detection_conf": 0.186
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4636, 0.1338, 0.5333, 0.5821]
+        },
+        {
+          "category": "1",
+          "conf": 0.936,
+          "bbox": [0.428, 0.1671, 0.1271, 0.2196]
+        },
+        {
+          "category": "1",
+          "conf": 0.242,
+          "bbox": [0.3214, 0.1346, 0.0578, 0.1499]
+        },
+        {
+          "category": "1",
+          "conf": 0.15,
+          "bbox": [0.2937, 0.1318, 0.0876, 0.1951]
+        }
+      ],
+      "file": "CATH16__2019-09-07__23-03-51.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.4294, 0.1379, 0.1309, 0.2537]
+        },
+        {
+          "category": "1",
+          "conf": 0.508,
+          "bbox": [0.3099, 0.1477, 0.0679, 0.1728]
+        },
+        {
+          "category": "1",
+          "conf": 0.252,
+          "bbox": [0.2743, 0.1417, 0.1014, 0.1925]
+        }
+      ],
+      "file": "CATH16__2019-09-07__23-03-52.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-08__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.0801, 0.5444, 0.0867, 0.085]
+        }
+      ],
+      "file": "CATH16__2019-09-09__00-04-20.jpg",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.2241, 0.542, 0.1111, 0.0947]
+        }
+      ],
+      "file": "CATH16__2019-09-09__00-04-31.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.8513, 0.5899, 0.1044, 0.0888]
+        }
+      ],
+      "file": "CATH16__2019-09-09__00-05-07.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-09__00-05-08.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.9281, 0.3726, 0.0718, 0.4465]
+        }
+      ],
+      "file": "CATH16__2019-09-09__00-33-23.jpg",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0008, 0.5956, 0.1712, 0.3811]
+        }
+      ],
+      "file": "CATH16__2019-09-09__00-33-24.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-09__00-33-30.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4443, 0.8895, 0.2233, 0.0881]
+        }
+      ],
+      "file": "CATH16__2019-09-09__06-22-35.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.602,
+          "bbox": [0.941, 0.2078, 0.0501, 0.0994]
+        }
+      ],
+      "file": "CATH16__2019-09-09__12-00-00.jpg",
+      "max_detection_conf": 0.602
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-10__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.108,
+          "bbox": [0.9424, 0.2113, 0.0447, 0.0969]
+        }
+      ],
+      "file": "CATH16__2019-09-11__12-00-00.jpg",
+      "max_detection_conf": 0.108
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.4455, 0.2409, 0.1169, 0.2658]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-36-41.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4697, 0.2407, 0.0911, 0.2676]
+        },
+        {
+          "category": "1",
+          "conf": 0.111,
+          "bbox": [0.9752, 0.1373, 0.0248, 0.0834]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-36-44.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4846, 0.2412, 0.1828, 0.2605]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-36-45.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5352, 0.2534, 0.2941, 0.2652]
+        },
+        {
+          "category": "1",
+          "conf": 0.961,
+          "bbox": [0.9118, 0.3181, 0.0881, 0.1539]
+        },
+        {
+          "category": "1",
+          "conf": 0.209,
+          "bbox": [0.9272, 0.2049, 0.0632, 0.1129]
+        },
+        {
+          "category": "1",
+          "conf": 0.109,
+          "bbox": [0.5747, 0.24, 0.028, 0.0223]
+        },
+        {
+          "category": "1",
+          "conf": 0.101,
+          "bbox": [0.5818, 0.2395, 0.0186, 0.0199]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-36-47.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6712, 0.2692, 0.3065, 0.2805]
+        },
+        {
+          "category": "1",
+          "conf": 0.713,
+          "bbox": [0.9251, 0.3219, 0.0749, 0.1521]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-36-48.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7746, 0.2657, 0.2253, 0.32]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-36-50.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.994,
+          "bbox": [0.9066, 0.3215, 0.0925, 0.1515]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-36-52.jpg",
+      "max_detection_conf": 0.994
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.954,
+          "bbox": [0.9125, 0.39, 0.0874, 0.2618]
+        },
+        {
+          "category": "1",
+          "conf": 0.471,
+          "bbox": [0.914, 0.5598, 0.0845, 0.0872]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-39.jpg",
+      "max_detection_conf": 0.954
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.7785, 0.4089, 0.2192, 0.4071]
+        },
+        {
+          "category": "1",
+          "conf": 0.519,
+          "bbox": [0.9544, 0.4844, 0.0438, 0.3286]
+        },
+        {
+          "category": "1",
+          "conf": 0.117,
+          "bbox": [0.9651, 0.5053, 0.0281, 0.3047]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-41.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.7895, 0.4317, 0.2097, 0.387]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-42.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7683, 0.3921, 0.231, 0.4557]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-44.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5046, 0.0251, 0.4842, 0.952]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-45.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0046, 0.0282, 0.9892, 0.9404]
+        },
+        {
+          "category": "1",
+          "conf": 0.22,
+          "bbox": [0.293, 0.2676, 0.7069, 0.6923]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-46.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0025, 0.0346, 0.5598, 0.9464]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-48.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0054, 0.0368, 0.5324, 0.9445]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-50.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0044, 0.0394, 0.5324, 0.9387]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-52.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.039, 0.5279, 0.9513]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-54.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.052, 0.534, 0.9264]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-57.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0024, 0.3788, 0.9756]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-39-59.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0008, 0.1225, 0.2404, 0.8538]
+        }
+      ],
+      "file": "CATH16__2019-09-12__07-40-03.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-12__07-40-04.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.5988, 0.0871, 0.2071, 0.5001]
+        },
+        {
+          "category": "1",
+          "conf": 0.983,
+          "bbox": [0.4868, 0.186, 0.0442, 0.1656]
+        }
+      ],
+      "file": "CATH16__2019-09-12__10-41-56.jpg",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.6005, 0.1208, 0.1594, 0.3365]
+        }
+      ],
+      "file": "CATH16__2019-09-12__10-41-57.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5237, 0.1767, 0.2724, 0.3455]
+        },
+        {
+          "category": "1",
+          "conf": 0.189,
+          "bbox": [0.7368, 0.2496, 0.0204, 0.039]
+        }
+      ],
+      "file": "CATH16__2019-09-12__10-42-12.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.215, 0.2145, 0.3499, 0.3747]
+        },
+        {
+          "category": "1",
+          "conf": 0.367,
+          "bbox": [0.5172, 0.2637, 0.0343, 0.027]
+        }
+      ],
+      "file": "CATH16__2019-09-12__10-42-13.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0022, 0.2589, 0.3105, 0.3963]
+        }
+      ],
+      "file": "CATH16__2019-09-12__10-42-15.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-12__10-42-16.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.995,
+          "bbox": [0.8469, 0.0208, 0.153, 0.6436]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-19.jpg",
+      "max_detection_conf": 0.995
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2466, 0.0189, 0.7525, 0.9474]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-20.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2609, 0.0136, 0.7336, 0.9675]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-21.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.4425, 0.0075, 0.5524, 0.9762]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-23.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3812, 0.0158, 0.6187, 0.9668]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-24.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.022, 0.0146, 0.9777, 0.9652]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-26.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0847, 0.0158, 0.9117, 0.9597]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-27.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.4372, 0.0195, 0.5602, 0.9482]
+        },
+        {
+          "category": "1",
+          "conf": 0.281,
+          "bbox": [0.1201, 0.2397, 0.8798, 0.7358]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-28.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3226, 0.016, 0.6653, 0.9593]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-33.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.6645, 0.0197, 0.334, 0.9469]
+        },
+        {
+          "category": "1",
+          "conf": 0.106,
+          "bbox": [0.1122, 0, 0.8877, 0.9397]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-34.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3067, 0.0176, 0.6796, 0.9573]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-36.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0167, 1, 0.9619]
+        },
+        {
+          "category": "1",
+          "conf": 0.197,
+          "bbox": [0.3557, 0.0349, 0.6181, 0.9473]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-39.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0027, 0.0157, 0.9885, 0.9514]
+        },
+        {
+          "category": "1",
+          "conf": 0.204,
+          "bbox": [0.9646, 0.0202, 0.0353, 0.1234]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-41.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.002, 0.0183, 0.5344, 0.9533]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-43.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0027, 0.019, 0.5399, 0.9475]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-46.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0001, 0.02, 0.6269, 0.9543]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-48.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0196, 0.4252, 0.9581]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-49.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0137, 0.0163, 0.4718, 0.965]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-50.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0993, 0.1198, 0.6139, 0.8606]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-51.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3246, 0.2093, 0.6721, 0.7277]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-53.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4787, 0.2195, 0.5212, 0.7282]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-54.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6785, 0.2183, 0.321, 0.7354]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-56.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.995,
+          "bbox": [0.8861, 0.3226, 0.1116, 0.61]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-00-58.jpg",
+      "max_detection_conf": 0.995
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0043, 0.018, 0.9956, 0.6404]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-48-44.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0149, 0.9974, 0.969]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-48-45.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.138,
+          "bbox": [0.9459, 0.2062, 0.0403, 0.0965]
+        }
+      ],
+      "file": "CATH16__2019-09-12__11-48-47.jpg",
+      "max_detection_conf": 0.138
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.309,
+          "bbox": [0.9488, 0.2017, 0.0383, 0.1011]
+        }
+      ],
+      "file": "CATH16__2019-09-12__12-00-00.jpg",
+      "max_detection_conf": 0.309
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.582, 0.218, 0.2297, 0.4104]
+        }
+      ],
+      "file": "CATH16__2019-09-13__08-34-46.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2692, 0.2044, 0.3672, 0.519]
+        }
+      ],
+      "file": "CATH16__2019-09-13__08-34-47.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0018, 0.1646, 0.4515, 0.5692]
+        }
+      ],
+      "file": "CATH16__2019-09-13__08-34-48.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.0016, 0.4856, 0.1095, 0.2244]
+        }
+      ],
+      "file": "CATH16__2019-09-13__08-34-50.jpg",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.104,
+          "bbox": [0.9369, 0.2056, 0.0493, 0.1012]
+        }
+      ],
+      "file": "CATH16__2019-09-13__12-00-00.jpg",
+      "max_detection_conf": 0.104
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-14__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.435,
+          "bbox": [0.9391, 0.2024, 0.0474, 0.1031]
+        }
+      ],
+      "file": "CATH16__2019-09-14__15-52-33.jpg",
+      "max_detection_conf": 0.435
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6303, 0.2647, 0.2835, 0.2903]
+        },
+        {
+          "category": "1",
+          "conf": 0.612,
+          "bbox": [0.9392, 0.2011, 0.049, 0.1037]
+        },
+        {
+          "category": "1",
+          "conf": 0.314,
+          "bbox": [0.7, 0.2608, 0.0313, 0.0438]
+        }
+      ],
+      "file": "CATH16__2019-09-14__15-52-36.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4612, 0.2496, 0.296, 0.3088]
+        },
+        {
+          "category": "1",
+          "conf": 0.563,
+          "bbox": [0.9383, 0.2034, 0.049, 0.1045]
+        }
+      ],
+      "file": "CATH16__2019-09-14__15-52-46.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2276, 0.2746, 0.3452, 0.3272]
+        },
+        {
+          "category": "1",
+          "conf": 0.751,
+          "bbox": [0.6996, 0.2623, 0.0282, 0.0431]
+        },
+        {
+          "category": "1",
+          "conf": 0.664,
+          "bbox": [0.9377, 0.2029, 0.0498, 0.1031]
+        }
+      ],
+      "file": "CATH16__2019-09-14__15-52-48.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0002, 0.2099, 0.3867, 0.4215]
+        },
+        {
+          "category": "1",
+          "conf": 0.425,
+          "bbox": [0.9375, 0.2026, 0.0492, 0.1031]
+        }
+      ],
+      "file": "CATH16__2019-09-14__15-52-49.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0013, 0.2648, 0.1399, 0.3665]
+        },
+        {
+          "category": "1",
+          "conf": 0.68,
+          "bbox": [0.7, 0.2579, 0.0284, 0.0489]
+        },
+        {
+          "category": "1",
+          "conf": 0.342,
+          "bbox": [0.9377, 0.2025, 0.0486, 0.1033]
+        }
+      ],
+      "file": "CATH16__2019-09-14__15-52-50.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.19,
+          "bbox": [0.9365, 0.1995, 0.05, 0.1058]
+        }
+      ],
+      "file": "CATH16__2019-09-14__15-52-52.jpg",
+      "max_detection_conf": 0.19
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-15__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.83,
+          "bbox": [0.447, 0.8981, 0.0776, 0.0799]
+        },
+        {
+          "category": "1",
+          "conf": 0.175,
+          "bbox": [0.6992, 0.2533, 0.027, 0.0592]
+        }
+      ],
+      "file": "CATH16__2019-09-16__06-35-10.jpg",
+      "max_detection_conf": 0.83
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.688,
+          "bbox": [0.3683, 0.9329, 0.2513, 0.0443]
+        },
+        {
+          "category": "1",
+          "conf": 0.157,
+          "bbox": [0.4782, 0.9456, 0.1448, 0.0316]
+        },
+        {
+          "category": "1",
+          "conf": 0.127,
+          "bbox": [0.6999, 0.2532, 0.0264, 0.0583]
+        }
+      ],
+      "file": "CATH16__2019-09-16__06-35-13.jpg",
+      "max_detection_conf": 0.688
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.978,
+          "bbox": [0.4096, 0.9282, 0.1201, 0.0492]
+        }
+      ],
+      "file": "CATH16__2019-09-16__06-35-14.jpg",
+      "max_detection_conf": 0.978
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.106,
+          "bbox": [0.9416, 0.2085, 0.0471, 0.101]
+        }
+      ],
+      "file": "CATH16__2019-09-16__06-35-25.jpg",
+      "max_detection_conf": 0.106
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3838, 0.7948, 0.2249, 0.1812]
+        }
+      ],
+      "file": "CATH16__2019-09-16__06-35-27.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1589, 0.8301, 0.259, 0.1474]
+        }
+      ],
+      "file": "CATH16__2019-09-16__06-35-28.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.395,
+          "bbox": [0.0011, 0.869, 0.089, 0.108]
+        },
+        {
+          "category": "1",
+          "conf": 0.38,
+          "bbox": [0.0022, 0.8716, 0.0874, 0.1059]
+        }
+      ],
+      "file": "CATH16__2019-09-16__06-35-30.jpg",
+      "max_detection_conf": 0.395
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.991,
+          "bbox": [0.3501, 0.8762, 0.0707, 0.0997]
+        },
+        {
+          "category": "1",
+          "conf": 0.134,
+          "bbox": [0.7002, 0.2697, 0.0206, 0.0388]
+        },
+        {
+          "category": "1",
+          "conf": 0.123,
+          "bbox": [0.9404, 0.2073, 0.0468, 0.1005]
+        }
+      ],
+      "file": "CATH16__2019-09-16__06-36-09.jpg",
+      "max_detection_conf": 0.991
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.927,
+          "bbox": [0.3708, 0.8621, 0.0697, 0.1138]
+        }
+      ],
+      "file": "CATH16__2019-09-16__06-36-10.jpg",
+      "max_detection_conf": 0.927
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-16__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-17__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0004, 0.2553, 0.2396, 0.3597]
+        },
+        {
+          "category": "1",
+          "conf": 0.724,
+          "bbox": [0.626, 0.2184, 0.0419, 0.0872]
+        }
+      ],
+      "file": "CATH16__2019-09-17__16-55-12.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.551, 0.1804, 0.3117, 0.5327]
+        },
+        {
+          "category": "1",
+          "conf": 0.188,
+          "bbox": [0.9368, 0.1994, 0.0487, 0.1093]
+        }
+      ],
+      "file": "CATH16__2019-09-17__16-55-31.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4455, 0.1602, 0.3219, 0.5922]
+        },
+        {
+          "category": "1",
+          "conf": 0.167,
+          "bbox": [0.9374, 0.1998, 0.0476, 0.1075]
+        }
+      ],
+      "file": "CATH16__2019-09-17__16-55-32.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3656, 0.0948, 0.2894, 0.7465]
+        }
+      ],
+      "file": "CATH16__2019-09-17__16-55-33.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0024, 0.1051, 0.5812, 0.791]
+        }
+      ],
+      "file": "CATH16__2019-09-17__16-55-34.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.1835, 0.2329, 0.7621]
+        }
+      ],
+      "file": "CATH16__2019-09-17__16-55-35.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.105,
+          "bbox": [0.1546, 0.3344, 0.049, 0.1201]
+        }
+      ],
+      "file": "CATH16__2019-09-17__16-55-36.jpg",
+      "max_detection_conf": 0.105
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.7904, 0.0622, 0.2095, 0.8302]
+        },
+        {
+          "category": "1",
+          "conf": 0.471,
+          "bbox": [0.7014, 0.2495, 0.0264, 0.0566]
+        }
+      ],
+      "file": "CATH16__2019-09-17__17-05-14.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0317, 0.1683, 0.8627, 0.8106]
+        },
+        {
+          "category": "1",
+          "conf": 0.365,
+          "bbox": [0.9373, 0.2011, 0.05, 0.1043]
+        }
+      ],
+      "file": "CATH16__2019-09-17__17-05-15.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.1391, 1, 0.8392]
+        }
+      ],
+      "file": "CATH16__2019-09-17__17-05-17.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.157,
+          "bbox": [0.7015, 0.2484, 0.0282, 0.057]
+        }
+      ],
+      "file": "CATH16__2019-09-17__17-05-19.jpg",
+      "max_detection_conf": 0.157
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-18__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.123,
+          "bbox": [0.2987, 0.29, 0.0216, 0.0208]
+        }
+      ],
+      "file": "CATH16__2019-09-19__12-00-00.jpg",
+      "max_detection_conf": 0.123
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.525,
+          "bbox": [0.9437, 0.2085, 0.0427, 0.0958]
+        },
+        {
+          "category": "1",
+          "conf": 0.135,
+          "bbox": [0.7006, 0.2672, 0.0239, 0.0405]
+        }
+      ],
+      "file": "CATH16__2019-09-20__12-00-00.jpg",
+      "max_detection_conf": 0.525
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.988,
+          "bbox": [0.1357, 0.5664, 0.1144, 0.1151]
+        }
+      ],
+      "file": "CATH16__2019-09-21__00-12-23.jpg",
+      "max_detection_conf": 0.988
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-21__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.213,
+          "bbox": [0.9398, 0.1974, 0.046, 0.1028]
+        }
+      ],
+      "file": "CATH16__2019-09-22__12-00-00.jpg",
+      "max_detection_conf": 0.213
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.992,
+          "bbox": [0.9205, 0.5541, 0.0783, 0.0934]
+        }
+      ],
+      "file": "CATH16__2019-09-22__20-31-28.jpg",
+      "max_detection_conf": 0.992
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2698, 0.746, 0.1435, 0.1708]
+        }
+      ],
+      "file": "CATH16__2019-09-22__20-31-35.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0008, 0.7571, 0.2373, 0.2206]
+        }
+      ],
+      "file": "CATH16__2019-09-22__20-31-36.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-23__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.989,
+          "bbox": [0.8741, 0.8686, 0.1253, 0.1072]
+        }
+      ],
+      "file": "CATH16__2019-09-24__06-46-35.jpg",
+      "max_detection_conf": 0.989
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.1364, 0.8855, 0.0832, 0.0916]
+        }
+      ],
+      "file": "CATH16__2019-09-24__06-46-54.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-24__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.982,
+          "bbox": [0.1018, 0.4944, 0.0563, 0.0955]
+        },
+        {
+          "category": "1",
+          "conf": 0.844,
+          "bbox": [0.0607, 0.5279, 0.0421, 0.0585]
+        },
+        {
+          "category": "1",
+          "conf": 0.154,
+          "bbox": [0.0851, 0.5321, 0.0273, 0.0537]
+        }
+      ],
+      "file": "CATH16__2019-09-25__10-14-26.jpg",
+      "max_detection_conf": 0.982
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-25__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.304,
+          "bbox": [0.9473, 0.2015, 0.04, 0.0978]
+        }
+      ],
+      "file": "CATH16__2019-09-26__12-00-00.jpg",
+      "max_detection_conf": 0.304
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-27__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-28__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-29__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-09-30__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-01__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5907, 0.2853, 0.4092, 0.2795]
+        }
+      ],
+      "file": "CATH16__2019-10-01__19-13-09.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3752, 0.2883, 0.4643, 0.2782]
+        }
+      ],
+      "file": "CATH16__2019-10-01__19-13-11.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2059, 0.2743, 0.3983, 0.2815]
+        }
+      ],
+      "file": "CATH16__2019-10-01__19-13-12.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0023, 0.2565, 0.4141, 0.2994]
+        }
+      ],
+      "file": "CATH16__2019-10-01__19-13-13.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0026, 0.2427, 0.1626, 0.3294]
+        }
+      ],
+      "file": "CATH16__2019-10-01__19-13-15.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-02__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0027, 0.0331, 0.4908, 0.7742]
+        }
+      ],
+      "file": "CATH16__2019-10-03__04-44-55.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7137, 0.2116, 0.2287, 0.4256]
+        }
+      ],
+      "file": "CATH16__2019-10-03__04-44-56.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.995,
+          "bbox": [0.881, 0.2623, 0.1169, 0.2791]
+        }
+      ],
+      "file": "CATH16__2019-10-03__04-44-57.jpg",
+      "max_detection_conf": 0.995
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-03__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-04__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0014, 0.1225, 0.2988, 0.6834]
+        }
+      ],
+      "file": "CATH16__2019-10-05__04-54-16.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7004, 0.2965, 0.2989, 0.4062]
+        }
+      ],
+      "file": "CATH16__2019-10-05__04-54-18.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-05__04-54-21.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-05__04-54-22.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-05__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.297,
+          "bbox": [0.5027, 0.5495, 0.0494, 0.0471]
+        }
+      ],
+      "file": "CATH16__2019-10-05__12-09-35.jpg",
+      "max_detection_conf": 0.297
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-06__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-07__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.316,
+          "bbox": [0.1456, 0.1959, 0.0841, 0.2586]
+        }
+      ],
+      "file": "CATH16__2019-10-08__12-00-00.jpg",
+      "max_detection_conf": 0.316
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-09__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-10__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-10__15-34-44.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.187,
+          "bbox": [0.0089, 0.6629, 0.9818, 0.3156]
+        }
+      ],
+      "file": "CATH16__2019-10-11__12-00-00.jpg",
+      "max_detection_conf": 0.187
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2237, 0.249, 0.3797, 0.294]
+        }
+      ],
+      "file": "CATH16__2019-10-11__14-09-51.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4488, 0.3054, 0.3786, 0.2343]
+        }
+      ],
+      "file": "CATH16__2019-10-11__14-09-53.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6899, 0.2815, 0.31, 0.2403]
+        }
+      ],
+      "file": "CATH16__2019-10-11__14-09-54.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1952, 0.224, 0.4217, 0.3202]
+        }
+      ],
+      "file": "CATH16__2019-10-11__14-29-56.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4439, 0.2108, 0.4015, 0.3308]
+        }
+      ],
+      "file": "CATH16__2019-10-11__14-29-57.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-12__07-33-13.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-12__07-34-20.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-12__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.3599, 0.4474, 0.121, 0.1]
+        }
+      ],
+      "file": "CATH16__2019-10-13__05-25-39.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.99,
+          "bbox": [0.0043, 0.4622, 0.1332, 0.0912]
+        }
+      ],
+      "file": "CATH16__2019-10-13__05-25-41.jpg",
+      "max_detection_conf": 0.99
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.516, 0.4636, 0.1013, 0.1166]
+        }
+      ],
+      "file": "CATH16__2019-10-13__05-38-22.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.201,
+          "bbox": [0.1257, 0.4694, 0.0402, 0.1234]
+        }
+      ],
+      "file": "CATH16__2019-10-13__07-07-25.jpg",
+      "max_detection_conf": 0.201
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-13__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-13__12-11-09.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.994,
+          "bbox": [0.0005, 0.7035, 0.0414, 0.17]
+        }
+      ],
+      "file": "CATH16__2019-10-13__12-11-14.jpg",
+      "max_detection_conf": 0.994
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-13__13-04-18.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-14__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-15__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.2313, 0.285, 0.3536]
+        }
+      ],
+      "file": "CATH16__2019-10-15__22-28-33.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1316, 0.2181, 0.3728, 0.3464]
+        }
+      ],
+      "file": "CATH16__2019-10-15__22-29-02.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.289, 0.2217, 0.3819, 0.2841]
+        }
+      ],
+      "file": "CATH16__2019-10-15__22-29-04.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4325, 0.2134, 0.376, 0.2693]
+        }
+      ],
+      "file": "CATH16__2019-10-15__22-29-05.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.525, 0.2126, 0.3869, 0.2656]
+        }
+      ],
+      "file": "CATH16__2019-10-15__22-29-06.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6022, 0.207, 0.3275, 0.2596]
+        }
+      ],
+      "file": "CATH16__2019-10-15__22-29-08.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2385, 0.7469, 0.0846, 0.176]
+        }
+      ],
+      "file": "CATH16__2019-10-16__08-34-01.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-16__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1011, 0.6234, 0.0473, 0.1162]
+        }
+      ],
+      "file": "CATH16__2019-10-16__14-10-57.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.2453, 0.8566, 0.0949, 0.1193]
+        }
+      ],
+      "file": "CATH16__2019-10-17__09-45-27.jpg",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.113,
+          "bbox": [0.6953, 0.247, 0.02, 0.0329]
+        }
+      ],
+      "file": "CATH16__2019-10-17__09-45-28.jpg",
+      "max_detection_conf": 0.113
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3899, 0.7863, 0.1084, 0.1832]
+        },
+        {
+          "category": "1",
+          "conf": 0.159,
+          "bbox": [0.6933, 0.2525, 0.0133, 0.0264]
+        },
+        {
+          "category": "1",
+          "conf": 0.119,
+          "bbox": [0.6934, 0.2497, 0.0219, 0.0302]
+        }
+      ],
+      "file": "CATH16__2019-10-17__10-18-33.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-17__11-36-55.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-17__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.948,
+          "bbox": [0.3888, 0.8655, 0.0935, 0.1102]
+        }
+      ],
+      "file": "CATH16__2019-10-17__13-19-32.jpg",
+      "max_detection_conf": 0.948
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-17__13-20-01.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.3682, 0.6282, 0.0802, 0.0773]
+        },
+        {
+          "category": "1",
+          "conf": 0.368,
+          "bbox": [0.6904, 0.2497, 0.0177, 0.0303]
+        },
+        {
+          "category": "1",
+          "conf": 0.14,
+          "bbox": [0.6933, 0.247, 0.0208, 0.0342]
+        }
+      ],
+      "file": "CATH16__2019-10-17__16-18-46.jpg",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0007, 0.8022, 0.1241, 0.1245]
+        },
+        {
+          "category": "1",
+          "conf": 0.115,
+          "bbox": [0.6888, 0.2526, 0.0165, 0.0267]
+        }
+      ],
+      "file": "CATH16__2019-10-17__16-19-12.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1987, 0.7601, 0.1085, 0.1173]
+        }
+      ],
+      "file": "CATH16__2019-10-17__16-19-16.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.265,
+          "bbox": [0.6933, 0.2416, 0.0239, 0.0387]
+        },
+        {
+          "category": "1",
+          "conf": 0.153,
+          "bbox": [0.6899, 0.2505, 0.0168, 0.028]
+        }
+      ],
+      "file": "CATH16__2019-10-17__16-19-50.jpg",
+      "max_detection_conf": 0.265
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.103,
+          "bbox": [0.6936, 0.2528, 0.0114, 0.0259]
+        }
+      ],
+      "file": "CATH16__2019-10-17__16-21-59.jpg",
+      "max_detection_conf": 0.103
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-18__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-19__11-10-39.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-19__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-20__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-21__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0974, 0.6105, 0.0899, 0.1914]
+        }
+      ],
+      "file": "CATH16__2019-10-22__11-26-26.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-22__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-22__17-06-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-23__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.4456, 0.0221, 0.5543, 0.4454]
+        },
+        {
+          "category": "1",
+          "conf": 0.992,
+          "bbox": [0.2373, 0.1861, 0.2334, 0.2296]
+        },
+        {
+          "category": "1",
+          "conf": 0.131,
+          "bbox": [0.4147, 0.0567, 0.584, 0.7404]
+        }
+      ],
+      "file": "CATH16__2019-10-24__07-00-33.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0334, 0.0214, 0.8194, 0.7387]
+        }
+      ],
+      "file": "CATH16__2019-10-24__07-00-34.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.993,
+          "bbox": [0.0025, 0.1214, 0.2444, 0.5503]
+        },
+        {
+          "category": "1",
+          "conf": 0.989,
+          "bbox": [0.2219, 0.1226, 0.2476, 0.2873]
+        }
+      ],
+      "file": "CATH16__2019-10-24__07-00-37.jpg",
+      "max_detection_conf": 0.993
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-24__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-25__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-26__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-27__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-27__15-50-39.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0011, 0.2594, 0.1443, 0.3475]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-26.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0016, 0.0976, 0.3287, 0.5385]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-27.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0942, 0.1738, 0.4245, 0.5166]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-29.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3194, 0.0221, 0.6805, 0.7697]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-30.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4422, 0.0221, 0.5577, 0.7612]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-33.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5381, 0.0198, 0.4618, 0.9366]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-34.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.1931, 0.0124, 0.7592, 0.9753]
+        },
+        {
+          "category": "1",
+          "conf": 0.994,
+          "bbox": [0.4958, 0.0157, 0.4856, 0.9842]
+        },
+        {
+          "category": "1",
+          "conf": 0.49,
+          "bbox": [0.0842, 0.0155, 0.834, 0.3752]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-35.jpg",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.408, 0.0172, 0.5882, 0.971]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-38.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4539, 0.0232, 0.5435, 0.9617]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-42.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0157, 0.9631, 0.962]
+        },
+        {
+          "category": "1",
+          "conf": 0.133,
+          "bbox": [0.8549, 0.0157, 0.1421, 0.9169]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-46.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4525, 0.0198, 0.5449, 0.9595]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-49.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1064, 0.0245, 0.8842, 0.9291]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-52.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0196, 1, 0.9524]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-54.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0228, 0.9943, 0.9458]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-58.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0204, 0.9921, 0.9457]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-50-59.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0193, 0.995, 0.9457]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-51-00.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0218, 0.9918, 0.938]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-51-13.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0036, 0.0137, 0.9964, 0.9117]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-51-14.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0114, 0.0385, 0.2496, 0.6764]
+        }
+      ],
+      "file": "CATH16__2019-10-28__02-51-15.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-28__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-29__07-56-22.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-29__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-30__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.995,
+          "bbox": [0.5794, 0.4258, 0.0481, 0.0906]
+        }
+      ],
+      "file": "CATH16__2019-10-31__00-11-02.jpg",
+      "max_detection_conf": 0.995
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.8021, 0.4512, 0.1471, 0.1648]
+        }
+      ],
+      "file": "CATH16__2019-10-31__00-11-03.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.01, 0.6105, 0.0641, 0.1318]
+        }
+      ],
+      "file": "CATH16__2019-10-31__11-45-40.jpg",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-10-31__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-01__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-02__10-28-33.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-02__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0019, 0.7864, 0.0933, 0.1907]
+        }
+      ],
+      "file": "CATH16__2019-11-03__11-11-59.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.994,
+          "bbox": [0.2184, 0.8896, 0.3355, 0.0877]
+        },
+        {
+          "category": "1",
+          "conf": 0.183,
+          "bbox": [0.6866, 0.2363, 0.0239, 0.0419]
+        }
+      ],
+      "file": "CATH16__2019-11-03__11-13-31.jpg",
+      "max_detection_conf": 0.994
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.99,
+          "bbox": [0.709, 0.9082, 0.2898, 0.0748]
+        },
+        {
+          "category": "1",
+          "conf": 0.156,
+          "bbox": [0.6857, 0.2395, 0.0212, 0.0377]
+        }
+      ],
+      "file": "CATH16__2019-11-03__11-13-32.jpg",
+      "max_detection_conf": 0.99
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-03__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0023, 0.2705, 0.1504, 0.3457]
+        }
+      ],
+      "file": "CATH16__2019-11-04__04-40-49.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0019, 0.2168, 0.2755, 0.4056]
+        }
+      ],
+      "file": "CATH16__2019-11-04__04-40-50.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2068, 0.2023, 0.2178, 0.3623]
+        }
+      ],
+      "file": "CATH16__2019-11-04__04-40-52.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-04__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-04__17-12-54.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.001, 0.023, 0.1769, 0.5676]
+        }
+      ],
+      "file": "CATH16__2019-11-04__18-42-23.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0009, 0.0838, 0.2999, 0.5367]
+        }
+      ],
+      "file": "CATH16__2019-11-04__18-42-24.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.211,
+          "bbox": [0.6899, 0.2385, 0.0245, 0.0408]
+        },
+        {
+          "category": "1",
+          "conf": 0.175,
+          "bbox": [0.687, 0.2479, 0.015, 0.03]
+        }
+      ],
+      "file": "CATH16__2019-11-05__09-08-13.jpg",
+      "max_detection_conf": 0.211
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-05__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-06__07-36-54.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-06__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-07__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.113,
+          "bbox": [0.1428, 0.3088, 0.0415, 0.0998]
+        }
+      ],
+      "file": "CATH16__2019-11-08__12-00-00.jpg",
+      "max_detection_conf": 0.113
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-08__12-45-37.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-09__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-10__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-11__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.178,
+          "bbox": [0.6939, 0.249, 0.0194, 0.0378]
+        }
+      ],
+      "file": "CATH16__2019-11-12__12-00-00.jpg",
+      "max_detection_conf": 0.178
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.468,
+          "bbox": [0.6898, 0.2556, 0.0171, 0.0344]
+        },
+        {
+          "category": "1",
+          "conf": 0.141,
+          "bbox": [0.6909, 0.2464, 0.0244, 0.0443]
+        },
+        {
+          "category": "1",
+          "conf": 0.127,
+          "bbox": [0.1429, 0.317, 0.04, 0.0965]
+        }
+      ],
+      "file": "CATH16__2019-11-13__08-04-31.jpg",
+      "max_detection_conf": 0.468
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-13__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-14__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.127,
+          "bbox": [0.045, 0.5076, 0.051, 0.0392]
+        }
+      ],
+      "file": "CATH16__2019-11-15__12-00-00.jpg",
+      "max_detection_conf": 0.127
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-16__11-18-20.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-16__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-17__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-18__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1795, 0.6226, 0.0793, 0.1599]
+        }
+      ],
+      "file": "CATH16__2019-11-18__13-56-19.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0017, 0.0394, 0.2393, 0.5947]
+        }
+      ],
+      "file": "CATH16__2019-11-18__22-46-31.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.986,
+          "bbox": [0.0771, 0.1591, 0.2802, 0.4427]
+        }
+      ],
+      "file": "CATH16__2019-11-18__22-46-33.jpg",
+      "max_detection_conf": 0.986
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-19__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-20__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-21__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-22__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-23__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-24__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-25__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-26__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.124,
+          "bbox": [0, 0.3362, 1, 0.6361]
+        }
+      ],
+      "file": "CATH16__2019-11-27__12-00-00.jpg",
+      "max_detection_conf": 0.124
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7241, 0.7546, 0.1013, 0.2212]
+        }
+      ],
+      "file": "CATH16__2019-11-27__20-59-12.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-28__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-29__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-11-30__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-01__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-02__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-03__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.987,
+          "bbox": [0.3706, 0.5613, 0.0493, 0.0714]
+        }
+      ],
+      "file": "CATH16__2019-12-04__01-45-13.jpg",
+      "max_detection_conf": 0.987
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-04__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-05__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-06__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-07__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-08__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-09__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-10__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-11__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-12__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-13__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-14__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-15__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-16__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-17__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-18__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.2136, 0.6315, 0.0964, 0.0932]
+        }
+      ],
+      "file": "CATH16__2019-12-19__00-30-13.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-19__00-30-14.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-19__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.44,
+          "bbox": [0, 0.1654, 1, 0.8114]
+        }
+      ],
+      "file": "CATH16__2019-12-20__12-00-00.jpg",
+      "max_detection_conf": 0.44
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-21__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-22__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.302,
+          "bbox": [0.0313, 0.0391, 0.9575, 0.9328]
+        }
+      ],
+      "file": "CATH16__2019-12-23__12-00-00.jpg",
+      "max_detection_conf": 0.302
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-24__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-25__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-26__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-27__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-28__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.259,
+          "bbox": [0.0167, 0.3059, 0.9827, 0.6654]
+        }
+      ],
+      "file": "CATH16__2019-12-29__12-00-00.jpg",
+      "max_detection_conf": 0.259
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2019-12-30__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.4991, 0.3978, 0.4961, 0.5834]
+        },
+        {
+          "category": "1",
+          "conf": 0.274,
+          "bbox": [0.0176, 0.3964, 0.5968, 0.5817]
+        },
+        {
+          "category": "1",
+          "conf": 0.212,
+          "bbox": [0.1004, 0.3744, 0.8456, 0.6101]
+        }
+      ],
+      "file": "CATH16__2019-12-31__12-00-00.jpg",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.952,
+          "bbox": [0.4668, 0.287, 0.5233, 0.5304]
+        },
+        {
+          "category": "1",
+          "conf": 0.888,
+          "bbox": [0.1953, 0.2717, 0.7682, 0.6957]
+        }
+      ],
+      "file": "CATH16__2020-01-01__12-00-00.jpg",
+      "max_detection_conf": 0.952
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.87,
+          "bbox": [0.519, 0.323, 0.2989, 0.3373]
+        },
+        {
+          "category": "1",
+          "conf": 0.555,
+          "bbox": [0, 0.183, 0.9938, 0.7674]
+        },
+        {
+          "category": "1",
+          "conf": 0.182,
+          "bbox": [0.5145, 0.2957, 0.4573, 0.4873]
+        }
+      ],
+      "file": "CATH16__2020-01-02__12-00-00.jpg",
+      "max_detection_conf": 0.87
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.345,
+          "bbox": [0.0004, 0.0736, 0.9482, 0.9075]
+        }
+      ],
+      "file": "CATH16__2020-01-03__12-00-00.jpg",
+      "max_detection_conf": 0.345
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.684,
+          "bbox": [0, 0.0165, 0.9985, 0.9834]
+        }
+      ],
+      "file": "CATH16__2020-01-04__12-00-00.jpg",
+      "max_detection_conf": 0.684
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-01-05__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.643,
+          "bbox": [0, 0.0108, 1, 0.9892]
+        }
+      ],
+      "file": "CATH16__2020-01-06__12-00-00.jpg",
+      "max_detection_conf": 0.643
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.568,
+          "bbox": [0, 0.0306, 0.9968, 0.9693]
+        }
+      ],
+      "file": "CATH16__2020-01-07__12-00-00.jpg",
+      "max_detection_conf": 0.568
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.783,
+          "bbox": [0, 0.0133, 0.9916, 0.9867]
+        }
+      ],
+      "file": "CATH16__2020-01-08__12-00-00.jpg",
+      "max_detection_conf": 0.783
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.36,
+          "bbox": [0.0552, 0.0315, 0.9448, 0.9652]
+        }
+      ],
+      "file": "CATH16__2020-01-09__12-00-00.jpg",
+      "max_detection_conf": 0.36
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.776,
+          "bbox": [0, 0.0132, 0.9944, 0.9867]
+        }
+      ],
+      "file": "CATH16__2020-01-10__12-00-00.jpg",
+      "max_detection_conf": 0.776
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.662,
+          "bbox": [0, 0.0165, 1, 0.9834]
+        }
+      ],
+      "file": "CATH16__2020-01-11__12-00-00.jpg",
+      "max_detection_conf": 0.662
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.24,
+          "bbox": [0, 0.0236, 1, 0.9719]
+        }
+      ],
+      "file": "CATH16__2020-01-12__12-00-00.jpg",
+      "max_detection_conf": 0.24
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.306,
+          "bbox": [0, 0.0246, 1, 0.9753]
+        }
+      ],
+      "file": "CATH16__2020-01-13__12-00-00.jpg",
+      "max_detection_conf": 0.306
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.523,
+          "bbox": [0, 0.0177, 1, 0.9802]
+        }
+      ],
+      "file": "CATH16__2020-01-14__12-00-00.jpg",
+      "max_detection_conf": 0.523
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.429,
+          "bbox": [0, 0.0214, 0.9974, 0.9785]
+        }
+      ],
+      "file": "CATH16__2020-01-15__12-00-00.jpg",
+      "max_detection_conf": 0.429
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.718,
+          "bbox": [0.0086, 0.0182, 0.968, 0.9682]
+        },
+        {
+          "category": "1",
+          "conf": 0.193,
+          "bbox": [0.967, 0.1817, 0.033, 0.0446]
+        }
+      ],
+      "file": "CATH16__2020-01-16__12-00-00.jpg",
+      "max_detection_conf": 0.718
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.641,
+          "bbox": [0.0073, 0.0353, 0.9736, 0.9647]
+        },
+        {
+          "category": "1",
+          "conf": 0.112,
+          "bbox": [0.1258, 0.1771, 0.7089, 0.788]
+        }
+      ],
+      "file": "CATH16__2020-01-17__12-00-00.jpg",
+      "max_detection_conf": 0.641
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.852,
+          "bbox": [0, 0.0136, 0.8839, 0.9678]
+        }
+      ],
+      "file": "CATH16__2020-01-18__12-00-00.jpg",
+      "max_detection_conf": 0.852
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.615,
+          "bbox": [0, 0.0143, 0.9569, 0.969]
+        }
+      ],
+      "file": "CATH16__2020-01-19__12-00-00.jpg",
+      "max_detection_conf": 0.615
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-01-20__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.906,
+          "bbox": [0.0841, 0.0154, 0.8582, 0.9657]
+        },
+        {
+          "category": "1",
+          "conf": 0.546,
+          "bbox": [0.8511, 0.6284, 0.1488, 0.2352]
+        },
+        {
+          "category": "1",
+          "conf": 0.167,
+          "bbox": [0.3953, 0.0186, 0.6046, 0.934]
+        }
+      ],
+      "file": "CATH16__2020-01-21__12-00-00.jpg",
+      "max_detection_conf": 0.906
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.79,
+          "bbox": [0, 0.0145, 0.9959, 0.9775]
+        }
+      ],
+      "file": "CATH16__2020-01-22__12-00-00.jpg",
+      "max_detection_conf": 0.79
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.989,
+          "bbox": [0.3537, 0.4862, 0.3846, 0.3779]
+        }
+      ],
+      "file": "CATH16__2020-01-23__12-00-00.jpg",
+      "max_detection_conf": 0.989
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-01-24__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.669,
+          "bbox": [0, 0.0222, 1, 0.9634]
+        }
+      ],
+      "file": "CATH16__2020-01-25__12-00-00.jpg",
+      "max_detection_conf": 0.669
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.716,
+          "bbox": [0.5742, 0.7531, 0.0306, 0.0768]
+        },
+        {
+          "category": "1",
+          "conf": 0.311,
+          "bbox": [0, 0.0134, 0.9783, 0.9866]
+        },
+        {
+          "category": "1",
+          "conf": 0.135,
+          "bbox": [0.965, 0.6197, 0.0344, 0.0594]
+        }
+      ],
+      "file": "CATH16__2020-01-26__12-00-00.jpg",
+      "max_detection_conf": 0.716
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.406,
+          "bbox": [0, 0.018, 1, 0.982]
+        }
+      ],
+      "file": "CATH16__2020-01-27__12-00-00.jpg",
+      "max_detection_conf": 0.406
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.929,
+          "bbox": [0, 0.0128, 0.9984, 0.9666]
+        }
+      ],
+      "file": "CATH16__2020-01-28__12-00-00.jpg",
+      "max_detection_conf": 0.929
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.205,
+          "bbox": [0, 0.0125, 0.9847, 0.9875]
+        },
+        {
+          "category": "1",
+          "conf": 0.157,
+          "bbox": [0.3088, 0.4718, 0.1512, 0.0528]
+        }
+      ],
+      "file": "CATH16__2020-01-29__12-00-00.jpg",
+      "max_detection_conf": 0.205
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.434,
+          "bbox": [0.3053, 0.5186, 0.1501, 0.051]
+        },
+        {
+          "category": "1",
+          "conf": 0.187,
+          "bbox": [0, 0.0158, 1, 0.9841]
+        }
+      ],
+      "file": "CATH16__2020-01-30__12-00-00.jpg",
+      "max_detection_conf": 0.434
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.349,
+          "bbox": [0.1053, 0.0219, 0.8946, 0.9723]
+        }
+      ],
+      "file": "CATH16__2020-01-31__12-00-00.jpg",
+      "max_detection_conf": 0.349
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.877,
+          "bbox": [0, 0, 0.95, 0.992]
+        }
+      ],
+      "file": "CATH16__2020-02-01__12-00-00.jpg",
+      "max_detection_conf": 0.877
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.812,
+          "bbox": [0, 0.0171, 0.9996, 0.9654]
+        }
+      ],
+      "file": "CATH16__2020-02-02__12-00-00.jpg",
+      "max_detection_conf": 0.812
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.804,
+          "bbox": [0, 0.0189, 1, 0.9588]
+        }
+      ],
+      "file": "CATH16__2020-02-03__12-00-00.jpg",
+      "max_detection_conf": 0.804
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.833,
+          "bbox": [0.0048, 0.0198, 0.9815, 0.9515]
+        }
+      ],
+      "file": "CATH16__2020-02-04__12-00-00.jpg",
+      "max_detection_conf": 0.833
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.785,
+          "bbox": [0, 0.019, 0.9902, 0.9488]
+        }
+      ],
+      "file": "CATH16__2020-02-05__12-00-00.jpg",
+      "max_detection_conf": 0.785
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.867,
+          "bbox": [0, 0.0313, 0.9966, 0.9437]
+        }
+      ],
+      "file": "CATH16__2020-02-06__12-00-00.jpg",
+      "max_detection_conf": 0.867
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.81,
+          "bbox": [0, 0.0215, 1, 0.9599]
+        }
+      ],
+      "file": "CATH16__2020-02-07__12-00-00.jpg",
+      "max_detection_conf": 0.81
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.826,
+          "bbox": [0.0016, 0.0196, 0.988, 0.9511]
+        }
+      ],
+      "file": "CATH16__2020-02-08__12-00-00.jpg",
+      "max_detection_conf": 0.826
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.839,
+          "bbox": [0, 0.0187, 1, 0.9594]
+        }
+      ],
+      "file": "CATH16__2020-02-09__12-00-00.jpg",
+      "max_detection_conf": 0.839
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.866,
+          "bbox": [0, 0.0201, 0.9885, 0.9536]
+        }
+      ],
+      "file": "CATH16__2020-02-10__12-00-00.jpg",
+      "max_detection_conf": 0.866
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.943,
+          "bbox": [0, 0.0105, 0.9418, 0.9662]
+        }
+      ],
+      "file": "CATH16__2020-02-11__12-00-00.jpg",
+      "max_detection_conf": 0.943
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.93,
+          "bbox": [0, 0.0121, 0.8269, 0.9741]
+        }
+      ],
+      "file": "CATH16__2020-02-12__12-00-00.jpg",
+      "max_detection_conf": 0.93
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.919,
+          "bbox": [0, 0.0293, 0.9941, 0.946]
+        }
+      ],
+      "file": "CATH16__2020-02-13__12-00-00.jpg",
+      "max_detection_conf": 0.919
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.93,
+          "bbox": [0, 0, 0.9125, 0.9733]
+        }
+      ],
+      "file": "CATH16__2020-02-14__12-00-00.jpg",
+      "max_detection_conf": 0.93
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.931,
+          "bbox": [0, 0.0015, 0.8908, 0.9878]
+        }
+      ],
+      "file": "CATH16__2020-02-15__12-00-00.jpg",
+      "max_detection_conf": 0.931
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.924,
+          "bbox": [0, 0, 0.952, 0.9881]
+        }
+      ],
+      "file": "CATH16__2020-02-16__12-00-00.jpg",
+      "max_detection_conf": 0.924
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.928,
+          "bbox": [0, 0.0161, 0.9964, 0.9659]
+        }
+      ],
+      "file": "CATH16__2020-02-17__12-00-00.jpg",
+      "max_detection_conf": 0.928
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.92,
+          "bbox": [0, 0, 0.9471, 0.9911]
+        }
+      ],
+      "file": "CATH16__2020-02-18__12-00-00.jpg",
+      "max_detection_conf": 0.92
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.906,
+          "bbox": [0, 0.0072, 0.8431, 0.9788]
+        }
+      ],
+      "file": "CATH16__2020-02-19__12-00-00.jpg",
+      "max_detection_conf": 0.906
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.918,
+          "bbox": [0, 0.02, 0.9944, 0.9537]
+        }
+      ],
+      "file": "CATH16__2020-02-20__12-00-00.jpg",
+      "max_detection_conf": 0.918
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.927,
+          "bbox": [0, 0, 0.952, 0.9911]
+        }
+      ],
+      "file": "CATH16__2020-02-21__12-00-00.jpg",
+      "max_detection_conf": 0.927
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.918,
+          "bbox": [0, 0, 0.9407, 0.9914]
+        }
+      ],
+      "file": "CATH16__2020-02-22__12-00-00.jpg",
+      "max_detection_conf": 0.918
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.912,
+          "bbox": [0, 0.0313, 0.9996, 0.9434]
+        }
+      ],
+      "file": "CATH16__2020-02-23__12-00-00.jpg",
+      "max_detection_conf": 0.912
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.908,
+          "bbox": [0, 0.0057, 0.8392, 0.9804]
+        }
+      ],
+      "file": "CATH16__2020-02-24__12-00-00.jpg",
+      "max_detection_conf": 0.908
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.928,
+          "bbox": [0, 0.0074, 0.8434, 0.9798]
+        },
+        {
+          "category": "1",
+          "conf": 0.224,
+          "bbox": [0.2842, 0.0157, 0.7157, 0.9595]
+        }
+      ],
+      "file": "CATH16__2020-02-25__12-00-00.jpg",
+      "max_detection_conf": 0.928
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.915,
+          "bbox": [0, 0.0196, 0.9977, 0.9557]
+        }
+      ],
+      "file": "CATH16__2020-02-26__12-00-00.jpg",
+      "max_detection_conf": 0.915
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.901,
+          "bbox": [0, 0, 0.9543, 0.9859]
+        }
+      ],
+      "file": "CATH16__2020-02-27__12-00-00.jpg",
+      "max_detection_conf": 0.901
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.908,
+          "bbox": [0.0002, 0.0506, 0.9976, 0.9274]
+        }
+      ],
+      "file": "CATH16__2020-02-28__12-00-00.jpg",
+      "max_detection_conf": 0.908
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.898,
+          "bbox": [0, 0.0453, 0.9985, 0.9305]
+        }
+      ],
+      "file": "CATH16__2020-02-29__12-00-00.jpg",
+      "max_detection_conf": 0.898
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.907,
+          "bbox": [0.0083, 0.0185, 0.984, 0.9332]
+        }
+      ],
+      "file": "CATH16__2020-03-01__12-00-00.jpg",
+      "max_detection_conf": 0.907
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.9,
+          "bbox": [0, 0.0338, 0.9993, 0.9437]
+        }
+      ],
+      "file": "CATH16__2020-03-02__12-00-00.jpg",
+      "max_detection_conf": 0.9
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.931,
+          "bbox": [0, 0.0045, 0.8402, 0.9825]
+        },
+        {
+          "category": "1",
+          "conf": 0.341,
+          "bbox": [0.2695, 0.0128, 0.7304, 0.9686]
+        }
+      ],
+      "file": "CATH16__2020-03-03__12-00-00.jpg",
+      "max_detection_conf": 0.931
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.924,
+          "bbox": [0, 0.018, 0.9917, 0.9563]
+        }
+      ],
+      "file": "CATH16__2020-03-04__12-00-00.jpg",
+      "max_detection_conf": 0.924
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.914,
+          "bbox": [0, 0, 0.9709, 0.9902]
+        }
+      ],
+      "file": "CATH16__2020-03-05__12-00-00.jpg",
+      "max_detection_conf": 0.914
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.916,
+          "bbox": [0, 0.0075, 0.8372, 0.9787]
+        }
+      ],
+      "file": "CATH16__2020-03-06__12-00-00.jpg",
+      "max_detection_conf": 0.916
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.913,
+          "bbox": [0, 0.02, 0.9968, 0.9586]
+        }
+      ],
+      "file": "CATH16__2020-03-07__12-00-00.jpg",
+      "max_detection_conf": 0.913
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.928,
+          "bbox": [0, 0, 0.9512, 0.9938]
+        }
+      ],
+      "file": "CATH16__2020-03-08__12-00-00.jpg",
+      "max_detection_conf": 0.928
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.896,
+          "bbox": [0, 0, 0.9519, 0.9873]
+        }
+      ],
+      "file": "CATH16__2020-03-09__12-00-00.jpg",
+      "max_detection_conf": 0.896
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.915,
+          "bbox": [0, 0.0199, 0.9943, 0.9619]
+        }
+      ],
+      "file": "CATH16__2020-03-10__12-00-00.jpg",
+      "max_detection_conf": 0.915
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.917,
+          "bbox": [0.0001, 0.0203, 0.9954, 0.9622]
+        }
+      ],
+      "file": "CATH16__2020-03-11__12-00-00.jpg",
+      "max_detection_conf": 0.917
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.918,
+          "bbox": [0, 0.001, 0.9562, 0.9895]
+        }
+      ],
+      "file": "CATH16__2020-03-12__12-00-00.jpg",
+      "max_detection_conf": 0.918
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.915,
+          "bbox": [0.0006, 0.0203, 0.9949, 0.9631]
+        }
+      ],
+      "file": "CATH16__2020-03-13__12-00-00.jpg",
+      "max_detection_conf": 0.915
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.892,
+          "bbox": [0, 0.0213, 1, 0.9576]
+        }
+      ],
+      "file": "CATH16__2020-03-14__12-00-00.jpg",
+      "max_detection_conf": 0.892
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.905,
+          "bbox": [0, 0.019, 0.996, 0.9547]
+        }
+      ],
+      "file": "CATH16__2020-03-15__12-00-00.jpg",
+      "max_detection_conf": 0.905
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.898,
+          "bbox": [0, 0.0182, 0.9945, 0.9538]
+        }
+      ],
+      "file": "CATH16__2020-03-16__12-00-00.jpg",
+      "max_detection_conf": 0.898
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.873,
+          "bbox": [0, 0.0215, 1, 0.9538]
+        }
+      ],
+      "file": "CATH16__2020-03-17__12-00-00.jpg",
+      "max_detection_conf": 0.873
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.888,
+          "bbox": [0, 0.0523, 0.9982, 0.9244]
+        }
+      ],
+      "file": "CATH16__2020-03-18__12-00-00.jpg",
+      "max_detection_conf": 0.888
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.898,
+          "bbox": [0, 0.0189, 0.9988, 0.9553]
+        }
+      ],
+      "file": "CATH16__2020-03-19__12-00-00.jpg",
+      "max_detection_conf": 0.898
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.893,
+          "bbox": [0, 0.0208, 1, 0.9572]
+        }
+      ],
+      "file": "CATH16__2020-03-20__12-00-00.jpg",
+      "max_detection_conf": 0.893
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.884,
+          "bbox": [0, 0.0209, 1, 0.9585]
+        }
+      ],
+      "file": "CATH16__2020-03-21__12-00-00.jpg",
+      "max_detection_conf": 0.884
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.9,
+          "bbox": [0, 0, 0.9542, 0.9894]
+        }
+      ],
+      "file": "CATH16__2020-03-22__12-00-00.jpg",
+      "max_detection_conf": 0.9
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.887,
+          "bbox": [0, 0.0211, 1, 0.955]
+        }
+      ],
+      "file": "CATH16__2020-03-23__12-00-00.jpg",
+      "max_detection_conf": 0.887
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.91,
+          "bbox": [0, 0, 0.9458, 0.9893]
+        }
+      ],
+      "file": "CATH16__2020-03-24__12-00-00.jpg",
+      "max_detection_conf": 0.91
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.899,
+          "bbox": [0, 0.0195, 1, 0.9602]
+        }
+      ],
+      "file": "CATH16__2020-03-25__12-00-00.jpg",
+      "max_detection_conf": 0.899
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.896,
+          "bbox": [0, 0.0197, 1, 0.9568]
+        }
+      ],
+      "file": "CATH16__2020-03-26__12-00-00.jpg",
+      "max_detection_conf": 0.896
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.899,
+          "bbox": [0, 0.001, 0.9563, 0.9842]
+        }
+      ],
+      "file": "CATH16__2020-03-27__12-00-00.jpg",
+      "max_detection_conf": 0.899
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.917,
+          "bbox": [0, 0, 0.9538, 0.9903]
+        }
+      ],
+      "file": "CATH16__2020-03-28__12-00-00.jpg",
+      "max_detection_conf": 0.917
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.918,
+          "bbox": [0, 0.0012, 0.9519, 0.99]
+        }
+      ],
+      "file": "CATH16__2020-03-29__12-00-00.jpg",
+      "max_detection_conf": 0.918
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.918,
+          "bbox": [0, 0, 0.9483, 0.991]
+        }
+      ],
+      "file": "CATH16__2020-03-30__12-00-00.jpg",
+      "max_detection_conf": 0.918
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.918,
+          "bbox": [0, 0.004, 0.9491, 0.986]
+        }
+      ],
+      "file": "CATH16__2020-03-31__12-00-00.jpg",
+      "max_detection_conf": 0.918
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.912,
+          "bbox": [0.0021, 0.0232, 0.9865, 0.9224]
+        }
+      ],
+      "file": "CATH16__2020-04-01__12-00-00.jpg",
+      "max_detection_conf": 0.912
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.934,
+          "bbox": [0.0074, 0.0225, 0.9804, 0.9121]
+        }
+      ],
+      "file": "CATH16__2020-04-02__12-00-00.jpg",
+      "max_detection_conf": 0.934
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.938,
+          "bbox": [0.002, 0.0221, 0.9868, 0.924]
+        }
+      ],
+      "file": "CATH16__2020-04-03__12-00-00.jpg",
+      "max_detection_conf": 0.938
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.932,
+          "bbox": [0, 0.0169, 0.9982, 0.9641]
+        }
+      ],
+      "file": "CATH16__2020-04-04__12-00-00.jpg",
+      "max_detection_conf": 0.932
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.943,
+          "bbox": [0, 0.005, 0.9, 0.9841]
+        },
+        {
+          "category": "1",
+          "conf": 0.426,
+          "bbox": [0.2901, 0.0113, 0.7098, 0.9725]
+        }
+      ],
+      "file": "CATH16__2020-04-05__12-00-00.jpg",
+      "max_detection_conf": 0.943
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.963,
+          "bbox": [0, 0.01, 0.9043, 0.9765]
+        }
+      ],
+      "file": "CATH16__2020-04-06__12-00-00.jpg",
+      "max_detection_conf": 0.963
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.957,
+          "bbox": [0, 0.0121, 0.8996, 0.9671]
+        }
+      ],
+      "file": "CATH16__2020-04-07__12-00-00.jpg",
+      "max_detection_conf": 0.957
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.949,
+          "bbox": [0, 0.0099, 0.9038, 0.9761]
+        }
+      ],
+      "file": "CATH16__2020-04-08__12-00-00.jpg",
+      "max_detection_conf": 0.949
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.928,
+          "bbox": [0, 0.0055, 0.8343, 0.9819]
+        },
+        {
+          "category": "1",
+          "conf": 0.634,
+          "bbox": [0.2413, 0.0125, 0.7586, 0.9774]
+        }
+      ],
+      "file": "CATH16__2020-04-09__12-00-00.jpg",
+      "max_detection_conf": 0.928
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.935,
+          "bbox": [0, 0.0167, 0.9956, 0.9657]
+        }
+      ],
+      "file": "CATH16__2020-04-10__12-00-00.jpg",
+      "max_detection_conf": 0.935
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.941,
+          "bbox": [0, 0.0177, 0.996, 0.9643]
+        }
+      ],
+      "file": "CATH16__2020-04-11__12-00-00.jpg",
+      "max_detection_conf": 0.941
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.935,
+          "bbox": [0, 0.0073, 0.9033, 0.9798]
+        },
+        {
+          "category": "1",
+          "conf": 0.247,
+          "bbox": [0.2903, 0.0125, 0.7096, 0.9667]
+        }
+      ],
+      "file": "CATH16__2020-04-12__12-00-00.jpg",
+      "max_detection_conf": 0.935
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.963,
+          "bbox": [0, 0.009, 0.9063, 0.9725]
+        }
+      ],
+      "file": "CATH16__2020-04-13__12-00-00.jpg",
+      "max_detection_conf": 0.963
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.957,
+          "bbox": [0, 0.0088, 0.9092, 0.9707]
+        }
+      ],
+      "file": "CATH16__2020-04-14__12-00-00.jpg",
+      "max_detection_conf": 0.957
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.906,
+          "bbox": [0, 0.0008, 0.9521, 0.9887]
+        }
+      ],
+      "file": "CATH16__2020-04-15__12-00-00.jpg",
+      "max_detection_conf": 0.906
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.922,
+          "bbox": [0, 0, 0.9584, 0.9908]
+        }
+      ],
+      "file": "CATH16__2020-04-16__12-00-00.jpg",
+      "max_detection_conf": 0.922
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.911,
+          "bbox": [0, 0.0209, 0.9975, 0.9546]
+        }
+      ],
+      "file": "CATH16__2020-04-17__12-00-00.jpg",
+      "max_detection_conf": 0.911
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.921,
+          "bbox": [0, 0.0204, 0.9973, 0.9597]
+        }
+      ],
+      "file": "CATH16__2020-04-18__12-00-00.jpg",
+      "max_detection_conf": 0.921
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.923,
+          "bbox": [0, 0, 0.9519, 0.9914]
+        }
+      ],
+      "file": "CATH16__2020-04-19__12-00-00.jpg",
+      "max_detection_conf": 0.923
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.921,
+          "bbox": [0, 0, 0.9508, 0.9907]
+        }
+      ],
+      "file": "CATH16__2020-04-20__12-00-00.jpg",
+      "max_detection_conf": 0.921
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.947,
+          "bbox": [0, 0.0101, 0.9497, 0.9706]
+        }
+      ],
+      "file": "CATH16__2020-04-21__12-00-00.jpg",
+      "max_detection_conf": 0.947
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.846,
+          "bbox": [0, 0.0188, 0.999, 0.9635]
+        }
+      ],
+      "file": "CATH16__2020-04-22__12-00-00.jpg",
+      "max_detection_conf": 0.846
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.899,
+          "bbox": [0.0006, 0.0165, 0.9915, 0.9604]
+        }
+      ],
+      "file": "CATH16__2020-04-23__12-00-00.jpg",
+      "max_detection_conf": 0.899
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.934,
+          "bbox": [0, 0.0356, 0.9935, 0.9386]
+        }
+      ],
+      "file": "CATH16__2020-04-24__12-00-00.jpg",
+      "max_detection_conf": 0.934
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.931,
+          "bbox": [0, 0.0207, 1, 0.9517]
+        }
+      ],
+      "file": "CATH16__2020-04-25__12-00-00.jpg",
+      "max_detection_conf": 0.931
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.934,
+          "bbox": [0, 0.0208, 1, 0.9543]
+        }
+      ],
+      "file": "CATH16__2020-04-26__12-00-00.jpg",
+      "max_detection_conf": 0.934
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.894,
+          "bbox": [0, 0, 0.9445, 0.991]
+        }
+      ],
+      "file": "CATH16__2020-04-27__12-00-00.jpg",
+      "max_detection_conf": 0.894
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.961,
+          "bbox": [0, 0.0057, 0.8927, 0.9832]
+        }
+      ],
+      "file": "CATH16__2020-04-28__12-00-00.jpg",
+      "max_detection_conf": 0.961
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.968,
+          "bbox": [0, 0.0137, 0.8794, 0.9702]
+        },
+        {
+          "category": "1",
+          "conf": 0.251,
+          "bbox": [0.271, 0.02, 0.7289, 0.961]
+        }
+      ],
+      "file": "CATH16__2020-04-29__12-00-00.jpg",
+      "max_detection_conf": 0.968
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-04-30__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-01__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-02__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.132,
+          "bbox": [0, 0.0243, 1, 0.9659]
+        }
+      ],
+      "file": "CATH16__2020-05-03__12-00-00.jpg",
+      "max_detection_conf": 0.132
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.122,
+          "bbox": [0, 0.0135, 1, 0.984]
+        }
+      ],
+      "file": "CATH16__2020-05-04__12-00-00.jpg",
+      "max_detection_conf": 0.122
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-05__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.398,
+          "bbox": [0, 0.0241, 0.9408, 0.9602]
+        }
+      ],
+      "file": "CATH16__2020-05-06__12-00-00.jpg",
+      "max_detection_conf": 0.398
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.471,
+          "bbox": [0, 0.023, 0.9989, 0.9599]
+        }
+      ],
+      "file": "CATH16__2020-05-07__12-00-00.jpg",
+      "max_detection_conf": 0.471
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.763,
+          "bbox": [0, 0.047, 1, 0.9146]
+        }
+      ],
+      "file": "CATH16__2020-05-08__12-00-00.jpg",
+      "max_detection_conf": 0.763
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.916,
+          "bbox": [0, 0.0154, 1, 0.9614]
+        }
+      ],
+      "file": "CATH16__2020-05-09__12-00-00.jpg",
+      "max_detection_conf": 0.916
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.747,
+          "bbox": [0, 0.0151, 1, 0.962]
+        },
+        {
+          "category": "2",
+          "conf": 0.631,
+          "bbox": [0, 0.0196, 1, 0.9589]
+        }
+      ],
+      "file": "CATH16__2020-05-10__12-00-00.jpg",
+      "max_detection_conf": 0.747
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.167,
+          "bbox": [0.1191, 0.0306, 0.8808, 0.9118]
+        }
+      ],
+      "file": "CATH16__2020-05-11__12-00-00.jpg",
+      "max_detection_conf": 0.167
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.102,
+          "bbox": [0.0443, 0.0414, 0.8807, 0.9314]
+        }
+      ],
+      "file": "CATH16__2020-05-12__12-00-00.jpg",
+      "max_detection_conf": 0.102
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.22,
+          "bbox": [0.5664, 0.7897, 0.3247, 0.1864]
+        }
+      ],
+      "file": "CATH16__2020-05-13__12-00-00.jpg",
+      "max_detection_conf": 0.22
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-14__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.233,
+          "bbox": [0.6355, 0.5718, 0.064, 0.0838]
+        }
+      ],
+      "file": "CATH16__2020-05-15__12-00-00.jpg",
+      "max_detection_conf": 0.233
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-16__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.571,
+          "bbox": [0.2251, 0.2127, 0.0814, 0.0383]
+        }
+      ],
+      "file": "CATH16__2020-05-17__12-00-00.jpg",
+      "max_detection_conf": 0.571
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.878,
+          "bbox": [0.2393, 0.2419, 0.0835, 0.0443]
+        },
+        {
+          "category": "1",
+          "conf": 0.637,
+          "bbox": [0.9485, 0.1016, 0.0514, 0.2481]
+        },
+        {
+          "category": "1",
+          "conf": 0.138,
+          "bbox": [0.9309, 0.0576, 0.0686, 0.3174]
+        }
+      ],
+      "file": "CATH16__2020-05-18__12-00-00.jpg",
+      "max_detection_conf": 0.878
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.586,
+          "bbox": [0.6086, 0.8136, 0.1096, 0.162]
+        },
+        {
+          "category": "1",
+          "conf": 0.292,
+          "bbox": [0.939, 0.2335, 0.0609, 0.1733]
+        },
+        {
+          "category": "1",
+          "conf": 0.173,
+          "bbox": [0.9386, 0.2318, 0.0614, 0.0846]
+        },
+        {
+          "category": "1",
+          "conf": 0.137,
+          "bbox": [0.9393, 0.1729, 0.0607, 0.1581]
+        }
+      ],
+      "file": "CATH16__2020-05-19__12-00-00.jpg",
+      "max_detection_conf": 0.586
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.987,
+          "bbox": [0.0109, 0.8064, 0.1885, 0.1724]
+        },
+        {
+          "category": "1",
+          "conf": 0.477,
+          "bbox": [0.0216, 0.8108, 0.4954, 0.1639]
+        }
+      ],
+      "file": "CATH16__2020-05-20__09-16-53.jpg",
+      "max_detection_conf": 0.987
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-20__09-16-54.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-20__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-21__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.941,
+          "bbox": [0.768, 0.022, 0.2303, 0.1577]
+        },
+        {
+          "category": "1",
+          "conf": 0.729,
+          "bbox": [0.1154, 0.0227, 0.8845, 0.9717]
+        }
+      ],
+      "file": "CATH16__2020-05-22__12-00-00.jpg",
+      "max_detection_conf": 0.941
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-23__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-24__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-24__12-52-09.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-25__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-26__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-27__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-28__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0003, 0.0229, 0.1154, 0.388]
+        }
+      ],
+      "file": "CATH16__2020-05-29__07-19-54.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-29__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-30__10-19-08.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-30__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-05-31__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2412, 0.1788, 0.1312, 0.2907]
+        }
+      ],
+      "file": "CATH16__2020-06-01__09-09-19.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-01__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-02__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-03__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.348,
+          "bbox": [0.8345, 0.4997, 0.1029, 0.0784]
+        }
+      ],
+      "file": "CATH16__2020-06-04__12-00-00.jpg",
+      "max_detection_conf": 0.348
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-05__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-06__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.106,
+          "bbox": [0, 0.2249, 0.9927, 0.7538]
+        }
+      ],
+      "file": "CATH16__2020-06-07__12-00-00.jpg",
+      "max_detection_conf": 0.106
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-08__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.247,
+          "bbox": [0.6846, 0.7555, 0.0219, 0.0261]
+        }
+      ],
+      "file": "CATH16__2020-06-09__12-00-00.jpg",
+      "max_detection_conf": 0.247
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-10__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.0029, 0.4314, 0.1387, 0.1212]
+        }
+      ],
+      "file": "CATH16__2020-06-10__21-18-36.jpg",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4257, 0.3872, 0.1689, 0.1013]
+        }
+      ],
+      "file": "CATH16__2020-06-10__21-18-41.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-11__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-12__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-13__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.461,
+          "bbox": [0.3677, 0.4582, 0.0182, 0.0165]
+        }
+      ],
+      "file": "CATH16__2020-06-14__12-00-00.jpg",
+      "max_detection_conf": 0.461
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-15__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-16__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-17__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.211,
+          "bbox": [0.4989, 0.262, 0.0195, 0.0164]
+        }
+      ],
+      "file": "CATH16__2020-06-18__10-55-21.jpg",
+      "max_detection_conf": 0.211
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-18__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-19__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-20__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-21__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.987,
+          "bbox": [0.004, 0.5234, 0.0981, 0.1013]
+        }
+      ],
+      "file": "CATH16__2020-06-22__02-11-50.jpg",
+      "max_detection_conf": 0.987
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.304, 0.5386, 0.0851, 0.0857]
+        }
+      ],
+      "file": "CATH16__2020-06-22__02-11-51.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.995,
+          "bbox": [0.7757, 0.4554, 0.1039, 0.091]
+        }
+      ],
+      "file": "CATH16__2020-06-22__02-11-55.jpg",
+      "max_detection_conf": 0.995
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-22__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-23__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.188,
+          "bbox": [0.0296, 0.531, 0.0415, 0.0644]
+        }
+      ],
+      "file": "CATH16__2020-06-24__12-00-00.jpg",
+      "max_detection_conf": 0.188
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-25__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-26__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-27__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-28__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-29__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-06-30__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-01__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-02__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0455, 0.5973, 0.1504, 0.1168]
+        }
+      ],
+      "file": "CATH16__2020-07-03__02-27-55.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2964, 0.6109, 0.0432, 0.1148]
+        }
+      ],
+      "file": "CATH16__2020-07-03__02-28-10.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.3773, 0.5942, 0.0915, 0.1265]
+        },
+        {
+          "category": "1",
+          "conf": 0.987,
+          "bbox": [0.7636, 0.569, 0.1376, 0.1098]
+        }
+      ],
+      "file": "CATH16__2020-07-03__02-28-20.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.987,
+          "bbox": [0.0029, 0.7933, 0.1311, 0.1327]
+        },
+        {
+          "category": "1",
+          "conf": 0.18,
+          "bbox": [0.6823, 0.9292, 0.0914, 0.0484]
+        },
+        {
+          "category": "1",
+          "conf": 0.136,
+          "bbox": [0.0131, 0.7329, 0.2175, 0.1664]
+        }
+      ],
+      "file": "CATH16__2020-07-03__02-28-33.jpg",
+      "max_detection_conf": 0.987
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.106,
+          "bbox": [0.682, 0.9281, 0.1022, 0.0506]
+        }
+      ],
+      "file": "CATH16__2020-07-03__02-28-43.jpg",
+      "max_detection_conf": 0.106
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.286,
+          "bbox": [0.4285, 0.2795, 0.0192, 0.0184]
+        }
+      ],
+      "file": "CATH16__2020-07-03__12-00-00.jpg",
+      "max_detection_conf": 0.286
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.578,
+          "bbox": [0.426, 0.276, 0.0187, 0.0196]
+        }
+      ],
+      "file": "CATH16__2020-07-04__12-00-00.jpg",
+      "max_detection_conf": 0.578
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.236,
+          "bbox": [0.427, 0.2697, 0.0229, 0.0239]
+        }
+      ],
+      "file": "CATH16__2020-07-05__12-00-00.jpg",
+      "max_detection_conf": 0.236
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0019, 0.2255, 0.2555, 0.5294]
+        }
+      ],
+      "file": "CATH16__2020-07-05__14-03-37.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-06__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.148,
+          "bbox": [0.4253, 0.279, 0.021, 0.0152]
+        }
+      ],
+      "file": "CATH16__2020-07-07__12-00-00.jpg",
+      "max_detection_conf": 0.148
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.194,
+          "bbox": [0.4258, 0.2751, 0.0234, 0.0206]
+        }
+      ],
+      "file": "CATH16__2020-07-08__12-00-00.jpg",
+      "max_detection_conf": 0.194
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-09__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.325,
+          "bbox": [0.4229, 0.2756, 0.0227, 0.0192]
+        }
+      ],
+      "file": "CATH16__2020-07-10__12-00-00.jpg",
+      "max_detection_conf": 0.325
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.4535, 0.8399, 0.0542, 0.1337]
+        }
+      ],
+      "file": "CATH16__2020-07-10__17-32-06.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.993,
+          "bbox": [0.3724, 0.8795, 0.0917, 0.0891]
+        }
+      ],
+      "file": "CATH16__2020-07-10__17-32-12.jpg",
+      "max_detection_conf": 0.993
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0015, 0.0422, 0.643, 0.901]
+        }
+      ],
+      "file": "CATH16__2020-07-10__19-50-05.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.243, 0.2161, 0.7527, 0.757]
+        }
+      ],
+      "file": "CATH16__2020-07-10__19-50-06.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-10__19-50-07.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-11__11-23-38.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.2034, 0.0182, 0.7751, 0.7362]
+        }
+      ],
+      "file": "CATH16__2020-07-11__11-23-57.jpg",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-11__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-12__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.124,
+          "bbox": [0.9093, 0.2189, 0.0447, 0.0958]
+        }
+      ],
+      "file": "CATH16__2020-07-12__14-11-08.jpg",
+      "max_detection_conf": 0.124
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-13__11-16-21.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.251,
+          "bbox": [0.9117, 0.22, 0.0416, 0.0952]
+        },
+        {
+          "category": "1",
+          "conf": 0.22,
+          "bbox": [0.4244, 0.2739, 0.021, 0.0208]
+        }
+      ],
+      "file": "CATH16__2020-07-13__12-00-00.jpg",
+      "max_detection_conf": 0.251
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-13__14-23-37.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4742, 0.7147, 0.1212, 0.1187]
+        }
+      ],
+      "file": "CATH16__2020-07-13__23-52-11.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4232, 0.7219, 0.1344, 0.1327]
+        }
+      ],
+      "file": "CATH16__2020-07-13__23-52-12.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0906, 0.7544, 0.2263, 0.1692]
+        }
+      ],
+      "file": "CATH16__2020-07-13__23-52-13.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-14__00-34-12.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7137, 0.7101, 0.0964, 0.1664]
+        }
+      ],
+      "file": "CATH16__2020-07-14__00-34-16.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.4465, 0.7048, 0.165, 0.1651]
+        }
+      ],
+      "file": "CATH16__2020-07-14__00-34-18.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-14__00-34-19.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-14__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.988,
+          "bbox": [0.4761, 0.7204, 0.0794, 0.0959]
+        }
+      ],
+      "file": "CATH16__2020-07-14__12-19-38.jpg",
+      "max_detection_conf": 0.988
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.99,
+          "bbox": [0.6837, 0.569, 0.3144, 0.4106]
+        }
+      ],
+      "file": "CATH16__2020-07-14__17-53-05.jpg",
+      "max_detection_conf": 0.99
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-15__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.2275, 0.8522, 0.0728, 0.1231]
+        }
+      ],
+      "file": "CATH16__2020-07-16__09-28-45.jpg",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.994,
+          "bbox": [0.4929, 0.917, 0.1359, 0.0596]
+        }
+      ],
+      "file": "CATH16__2020-07-16__09-28-51.jpg",
+      "max_detection_conf": 0.994
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-16__09-28-52.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.206,
+          "bbox": [0.9122, 0.2243, 0.0413, 0.0866]
+        },
+        {
+          "category": "1",
+          "conf": 0.129,
+          "bbox": [0.8807, 0.2399, 0.0242, 0.0432]
+        }
+      ],
+      "file": "CATH16__2020-07-16__12-00-00.jpg",
+      "max_detection_conf": 0.206
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.987,
+          "bbox": [0.9208, 0.5125, 0.0744, 0.0776]
+        },
+        {
+          "category": "1",
+          "conf": 0.144,
+          "bbox": [0.9646, 0.5128, 0.031, 0.0956]
+        }
+      ],
+      "file": "CATH16__2020-07-17__00-50-00.jpg",
+      "max_detection_conf": 0.987
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.4988, 0.4019, 0.0722, 0.0577]
+        }
+      ],
+      "file": "CATH16__2020-07-17__02-00-16.jpg",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-17__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.4504, 0.4114, 0.0683, 0.05]
+        }
+      ],
+      "file": "CATH16__2020-07-18__01-33-35.jpg",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.7805, 0.5603, 0.0988, 0.1069]
+        }
+      ],
+      "file": "CATH16__2020-07-18__01-36-41.jpg",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.4991, 0.3924, 0.0254, 0.0655]
+        }
+      ],
+      "file": "CATH16__2020-07-18__01-37-30.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-18__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.995,
+          "bbox": [0.4038, 0.4229, 0.0621, 0.0497]
+        }
+      ],
+      "file": "CATH16__2020-07-19__01-33-19.jpg",
+      "max_detection_conf": 0.995
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3956, 0.2371, 0.1667, 0.2437]
+        },
+        {
+          "category": "1",
+          "conf": 0.307,
+          "bbox": [0.675, 0.2702, 0.0191, 0.0589]
+        },
+        {
+          "category": "1",
+          "conf": 0.18,
+          "bbox": [0.6674, 0.2625, 0.0281, 0.0655]
+        }
+      ],
+      "file": "CATH16__2020-07-19__05-40-25.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3941, 0.2421, 0.1654, 0.2365]
+        },
+        {
+          "category": "1",
+          "conf": 0.389,
+          "bbox": [0.6733, 0.2701, 0.0209, 0.0593]
+        },
+        {
+          "category": "1",
+          "conf": 0.15,
+          "bbox": [0.6629, 0.2633, 0.0331, 0.0648]
+        }
+      ],
+      "file": "CATH16__2020-07-19__05-40-27.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.321, 0.2561, 0.1818, 0.2919]
+        }
+      ],
+      "file": "CATH16__2020-07-19__05-40-33.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.126, 0.1852, 0.3267, 0.4223]
+        }
+      ],
+      "file": "CATH16__2020-07-19__05-40-34.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0003, 0.2111, 0.347, 0.4113]
+        },
+        {
+          "category": "1",
+          "conf": 0.112,
+          "bbox": [0.678, 0.2727, 0.0154, 0.0573]
+        }
+      ],
+      "file": "CATH16__2020-07-19__05-40-35.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.978,
+          "bbox": [0.0013, 0.2979, 0.0705, 0.3577]
+        },
+        {
+          "category": "1",
+          "conf": 0.362,
+          "bbox": [0.0026, 0.306, 0.032, 0.3326]
+        },
+        {
+          "category": "1",
+          "conf": 0.256,
+          "bbox": [0.0029, 0.4226, 0.0617, 0.1958]
+        },
+        {
+          "category": "1",
+          "conf": 0.227,
+          "bbox": [0.0028, 0.4347, 0.0302, 0.2144]
+        },
+        {
+          "category": "1",
+          "conf": 0.117,
+          "bbox": [0.0017, 0.3791, 0.1001, 0.2709]
+        }
+      ],
+      "file": "CATH16__2020-07-19__05-40-37.jpg",
+      "max_detection_conf": 0.978
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-19__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-20__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-21__11-19-37.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.109,
+          "bbox": [0.3691, 0.5136, 0.0216, 0.0382]
+        }
+      ],
+      "file": "CATH16__2020-07-21__12-00-00.jpg",
+      "max_detection_conf": 0.109
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.227,
+          "bbox": [0.3688, 0.5155, 0.0187, 0.033]
+        }
+      ],
+      "file": "CATH16__2020-07-22__12-00-00.jpg",
+      "max_detection_conf": 0.227
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.142,
+          "bbox": [0.3708, 0.515, 0.0162, 0.0281]
+        }
+      ],
+      "file": "CATH16__2020-07-23__12-00-00.jpg",
+      "max_detection_conf": 0.142
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.713,
+          "bbox": [0.3691, 0.51, 0.0204, 0.0329]
+        }
+      ],
+      "file": "CATH16__2020-07-24__10-01-21.jpg",
+      "max_detection_conf": 0.713
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-24__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-25__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-26__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-27__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.445,
+          "bbox": [0.6684, 0.2547, 0.0434, 0.0756]
+        }
+      ],
+      "file": "CATH16__2020-07-28__12-00-00.jpg",
+      "max_detection_conf": 0.445
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-29__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-30__11-56-35.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-30__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-30__12-41-38.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-30__14-07-08.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-31__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-31__14-47-04.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-07-31__14-47-06.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-01__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-02__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-03__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-04__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-05__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.13,
+          "bbox": [0.8938, 0.2262, 0.0553, 0.0932]
+        }
+      ],
+      "file": "CATH16__2020-08-06__12-00-00.jpg",
+      "max_detection_conf": 0.13
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4934, 0.2654, 0.2631, 0.2404]
+        },
+        {
+          "category": "1",
+          "conf": 0.829,
+          "bbox": [0.8968, 0.2308, 0.0514, 0.0922]
+        }
+      ],
+      "file": "CATH16__2020-08-07__07-12-46.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5322, 0.2622, 0.2028, 0.2464]
+        },
+        {
+          "category": "1",
+          "conf": 0.893,
+          "bbox": [0.8972, 0.235, 0.051, 0.0866]
+        }
+      ],
+      "file": "CATH16__2020-08-07__07-12-48.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.505, 0.2577, 0.1494, 0.2149]
+        },
+        {
+          "category": "1",
+          "conf": 0.689,
+          "bbox": [0.8975, 0.2326, 0.0507, 0.0878]
+        },
+        {
+          "category": "1",
+          "conf": 0.159,
+          "bbox": [0.5031, 0.2917, 0.0414, 0.0871]
+        }
+      ],
+      "file": "CATH16__2020-08-07__07-12-52.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-07__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-08__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-09__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-10__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.169,
+          "bbox": [0.2231, 0.3803, 0.0392, 0.037]
+        }
+      ],
+      "file": "CATH16__2020-08-11__12-00-00.jpg",
+      "max_detection_conf": 0.169
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__12-00-00.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.998,
+          "bbox": [0, 0.0208, 0.1687, 0.7435]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-11-08.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.998,
+          "bbox": [0.3354, 0.0149, 0.2437, 0.7478]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-11-09.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.5195, 0.1239, 0.235, 0.6486]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-11-10.jpg",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.998,
+          "bbox": [0.4976, 0.0146, 0.2568, 0.7628]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-11-11.jpg",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "3",
+          "conf": 0.867,
+          "bbox": [0.9474, 0.0125, 0.0526, 0.2573]
+        },
+        {
+          "category": "1",
+          "conf": 0.693,
+          "bbox": [0.8919, 0.6319, 0.108, 0.1736]
+        },
+        {
+          "category": "2",
+          "conf": 0.467,
+          "bbox": [0.9404, 0.0367, 0.0595, 0.6983]
+        },
+        {
+          "category": "2",
+          "conf": 0.148,
+          "bbox": [0.9086, 0.0551, 0.0911, 0.7787]
+        },
+        {
+          "category": "1",
+          "conf": 0.143,
+          "bbox": [0.9008, 0.6849, 0.0977, 0.0942]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-11-13.jpg",
+      "max_detection_conf": 0.867
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-15-16.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-15-18.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-15-20.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-15-23.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-15-24.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-15-26.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-15-29.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-15-31.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-15-32.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.673,
+          "bbox": [1.169e-06, 0.0226, 0.0739, 0.5102]
+        },
+        {
+          "category": "1",
+          "conf": 0.245,
+          "bbox": [0.0013, 0.907, 0.0365, 0.0747]
+        },
+        {
+          "category": "2",
+          "conf": 0.22,
+          "bbox": [0.0012, 0.9025, 0.0362, 0.0775]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-15-47.jpg",
+      "max_detection_conf": 0.673
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.743,
+          "bbox": [0.0022, 0.0184, 0.286, 0.9555]
+        },
+        {
+          "category": "1",
+          "conf": 0.661,
+          "bbox": [0, 0.0247, 0.2953, 0.9654]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-15-49.jpg",
+      "max_detection_conf": 0.743
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.784,
+          "bbox": [0, 0.0155, 0.4012, 0.9649]
+        },
+        {
+          "category": "2",
+          "conf": 0.778,
+          "bbox": [0, 0.0139, 0.4034, 0.9542]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-15-50.jpg",
+      "max_detection_conf": 0.784
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-15-51.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.139,
+          "bbox": [0.2662, 0.42, 0.0357, 0.0307]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-16-18.jpg",
+      "max_detection_conf": 0.139
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.413,
+          "bbox": [0, 0.0102, 0.9518, 0.9612]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-16-20.jpg",
+      "max_detection_conf": 0.413
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.777,
+          "bbox": [0.1641, 0.0288, 0.8335, 0.9512]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-16-25.jpg",
+      "max_detection_conf": 0.777
+    },
+    {
+      "detections": [],
+      "file": "CATH16__2020-08-12__13-16-26.jpg",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.852,
+          "bbox": [0, 0.0214, 0.5716, 0.9721]
+        },
+        {
+          "category": "1",
+          "conf": 0.441,
+          "bbox": [0.0018, 0.0154, 0.5129, 0.9734]
+        },
+        {
+          "category": "1",
+          "conf": 0.207,
+          "bbox": [0, 0.0044, 0.8635, 0.9618]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-16-28.jpg",
+      "max_detection_conf": 0.852
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.504,
+          "bbox": [0.7238, 0.5038, 0.2733, 0.4846]
+        }
+      ],
+      "file": "CATH16__2020-08-12__13-16-30.jpg",
+      "max_detection_conf": 0.504
+    }
+  ]
+}

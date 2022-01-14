@@ -1,0 +1,6972 @@
+{
+  "info": {
+    "detector": {},
+    "detection_completion_time": ["2020-10-06 13:59:46"],
+    "format_version": ["1.0"]
+  },
+  "detection_categories": {
+    "1": ["animal"],
+    "2": ["person"],
+    "3": ["vehicle"]
+  },
+  "classification_categories": {},
+  "images": [
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.404,
+          "bbox": [0.9324, 0.2946, 0.0675, 0.4833]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-54-50(1).JPG",
+      "max_detection_conf": 0.404
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.176,
+          "bbox": [0.4774, 0.9546, 0.151, 0.025]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-55-32(1).JPG",
+      "max_detection_conf": 0.176
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-01__13-55-35(2).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-01__13-55-36(3).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.101,
+          "bbox": [0.9827, 0.546, 0.0173, 0.2139]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-55-37(4).JPG",
+      "max_detection_conf": 0.101
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-01__13-55-39(5).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.118,
+          "bbox": [0.3237, 0.7403, 0.0369, 0.0372]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-55-42(6).JPG",
+      "max_detection_conf": 0.118
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.468,
+          "bbox": [0.1373, 0.4228, 0.0346, 0.0758]
+        },
+        {
+          "category": "1",
+          "conf": 0.211,
+          "bbox": [0.1338, 0.4251, 0.0403, 0.1083]
+        },
+        {
+          "category": "1",
+          "conf": 0.101,
+          "bbox": [0.1377, 0.4237, 0.0671, 0.1205]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-55-44(7).JPG",
+      "max_detection_conf": 0.468
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.798,
+          "bbox": [0.4393, 0.6566, 0.1445, 0.1115]
+        },
+        {
+          "category": "1",
+          "conf": 0.426,
+          "bbox": [0.1254, 0.4201, 0.0333, 0.0806]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-55-58(8).JPG",
+      "max_detection_conf": 0.798
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.635,
+          "bbox": [0.441, 0.656, 0.1564, 0.1085]
+        },
+        {
+          "category": "1",
+          "conf": 0.275,
+          "bbox": [0.128, 0.4253, 0.031, 0.0973]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-56-39(1).JPG",
+      "max_detection_conf": 0.635
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.979,
+          "bbox": [0.0004, 0.0218, 0.324, 0.9567]
+        }
+      ],
+      "file": "CATH23__2019-10-01__14-03-40(1).JPG",
+      "max_detection_conf": 0.979
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-01__14-03-42(2).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-02__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.832,
+          "bbox": [0.4506, 0.6554, 0.1518, 0.116]
+        },
+        {
+          "category": "2",
+          "conf": 0.109,
+          "bbox": [0.2136, 0.6482, 0.0266, 0.0806]
+        }
+      ],
+      "file": "CATH23__2019-10-03__12-00-00(1).JPG",
+      "max_detection_conf": 0.832
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0171, 1, 0.9652]
+        }
+      ],
+      "file": "CATH23__2019-10-04__00-15-45(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.021, 0.8934, 0.9582]
+        }
+      ],
+      "file": "CATH23__2019-10-04__00-15-49(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0, 0.0228, 0.4618, 0.9602]
+        }
+      ],
+      "file": "CATH23__2019-10-04__00-15-50(3).JPG",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.922,
+          "bbox": [0.0097, 0.7701, 0.5878, 0.1913]
+        },
+        {
+          "category": "1",
+          "conf": 0.404,
+          "bbox": [0.142, 0.7723, 0.4394, 0.1523]
+        },
+        {
+          "category": "1",
+          "conf": 0.135,
+          "bbox": [0.02, 0.7911, 0.4105, 0.1809]
+        }
+      ],
+      "file": "CATH23__2019-10-04__00-15-56(4).JPG",
+      "max_detection_conf": 0.922
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-04__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-05__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.917,
+          "bbox": [0.9577, 0.5414, 0.0419, 0.0935]
+        },
+        {
+          "category": "1",
+          "conf": 0.224,
+          "bbox": [0.9584, 0.4908, 0.0396, 0.1257]
+        }
+      ],
+      "file": "CATH23__2019-10-05__17-31-25(1).JPG",
+      "max_detection_conf": 0.917
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7388, 0.3525, 0.2611, 0.4877]
+        }
+      ],
+      "file": "CATH23__2019-10-05__17-31-26(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5361, 0.3693, 0.4627, 0.4841]
+        }
+      ],
+      "file": "CATH23__2019-10-05__17-31-28(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4001, 0.3818, 0.5776, 0.4936]
+        },
+        {
+          "category": "1",
+          "conf": 0.192,
+          "bbox": [0.5732, 0.3993, 0.0209, 0.0418]
+        }
+      ],
+      "file": "CATH23__2019-10-05__17-31-29(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1998, 0.4064, 0.647, 0.5297]
+        }
+      ],
+      "file": "CATH23__2019-10-05__17-31-30(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.4393, 0.5891, 0.5153]
+        }
+      ],
+      "file": "CATH23__2019-10-05__17-31-31(6).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0009, 0.4879, 0.3472, 0.4881]
+        }
+      ],
+      "file": "CATH23__2019-10-05__17-31-33(7).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.138,
+          "bbox": [0.4586, 0.6501, 0.1253, 0.0627]
+        }
+      ],
+      "file": "CATH23__2019-10-05__17-31-34(8).JPG",
+      "max_detection_conf": 0.138
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.179,
+          "bbox": [0.4507, 0.6419, 0.1322, 0.0799]
+        }
+      ],
+      "file": "CATH23__2019-10-06__12-00-00(1).JPG",
+      "max_detection_conf": 0.179
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.117,
+          "bbox": [0.2327, 0.8751, 0.0322, 0.0629]
+        }
+      ],
+      "file": "CATH23__2019-10-07__12-00-00(1).JPG",
+      "max_detection_conf": 0.117
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-08__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-09__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-10__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.245,
+          "bbox": [0.9513, 0.5051, 0.0487, 0.2337]
+        },
+        {
+          "category": "2",
+          "conf": 0.205,
+          "bbox": [0.9688, 0.5001, 0.0312, 0.1472]
+        },
+        {
+          "category": "2",
+          "conf": 0.189,
+          "bbox": [0.9476, 0.0946, 0.0523, 0.6394]
+        }
+      ],
+      "file": "CATH23__2019-10-11__12-00-00(1).JPG",
+      "max_detection_conf": 0.245
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.1538, 0.9963, 0.8265]
+        }
+      ],
+      "file": "CATH23__2019-10-11__23-54-25(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0142, 0.995, 0.9635]
+        }
+      ],
+      "file": "CATH23__2019-10-11__23-54-29(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0031, 0.0103, 0.9938, 0.9678]
+        },
+        {
+          "category": "1",
+          "conf": 0.109,
+          "bbox": [0.3983, 0.0279, 0.6016, 0.9308]
+        }
+      ],
+      "file": "CATH23__2019-10-11__23-54-31(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.977,
+          "bbox": [0.0013, 0.0078, 0.8813, 0.9694]
+        },
+        {
+          "category": "2",
+          "conf": 0.162,
+          "bbox": [0, 0.1224, 1, 0.852]
+        }
+      ],
+      "file": "CATH23__2019-10-11__23-54-34(4).JPG",
+      "max_detection_conf": 0.977
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.967,
+          "bbox": [0.0057, 0.0089, 0.9943, 0.9674]
+        }
+      ],
+      "file": "CATH23__2019-10-11__23-54-37(5).JPG",
+      "max_detection_conf": 0.967
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0, 0.0243, 0.8476, 0.9501]
+        }
+      ],
+      "file": "CATH23__2019-10-11__23-54-40(6).JPG",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.213,
+          "bbox": [0.0192, 0.8048, 0.3477, 0.1662]
+        },
+        {
+          "category": "1",
+          "conf": 0.171,
+          "bbox": [0.253, 0.8024, 0.1172, 0.1037]
+        },
+        {
+          "category": "1",
+          "conf": 0.138,
+          "bbox": [0.201, 0.7991, 0.1914, 0.1257]
+        },
+        {
+          "category": "1",
+          "conf": 0.102,
+          "bbox": [0.243, 0.7978, 0.2107, 0.1274]
+        }
+      ],
+      "file": "CATH23__2019-10-11__23-54-41(7).JPG",
+      "max_detection_conf": 0.213
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.123,
+          "bbox": [0.9329, 0.5373, 0.027, 0.0185]
+        }
+      ],
+      "file": "CATH23__2019-10-12__12-00-00(1).JPG",
+      "max_detection_conf": 0.123
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.617,
+          "bbox": [0.4211, 0.665, 0.1886, 0.126]
+        },
+        {
+          "category": "1",
+          "conf": 0.191,
+          "bbox": [0.419, 0.7404, 0.0394, 0.0545]
+        },
+        {
+          "category": "1",
+          "conf": 0.141,
+          "bbox": [0.2295, 0.8739, 0.0454, 0.0763]
+        }
+      ],
+      "file": "CATH23__2019-10-13__12-00-00(1).JPG",
+      "max_detection_conf": 0.617
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-14__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.43,
+          "bbox": [0.2283, 0.8648, 0.0495, 0.1042]
+        },
+        {
+          "category": "1",
+          "conf": 0.213,
+          "bbox": [0.3974, 0.6963, 0.219, 0.1016]
+        }
+      ],
+      "file": "CATH23__2019-10-15__12-00-00(1).JPG",
+      "max_detection_conf": 0.43
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.949,
+          "bbox": [0.2236, 0.8665, 0.0538, 0.1042]
+        },
+        {
+          "category": "1",
+          "conf": 0.528,
+          "bbox": [0.3692, 0.8264, 0.071, 0.1062]
+        }
+      ],
+      "file": "CATH23__2019-10-16__12-00-00(1).JPG",
+      "max_detection_conf": 0.949
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-17__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-18__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-19__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.229,
+          "bbox": [0.0338, 0.7239, 0.0447, 0.1099]
+        }
+      ],
+      "file": "CATH23__2019-10-20__12-00-00(1).JPG",
+      "max_detection_conf": 0.229
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-21__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-22__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-23__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-24__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.981,
+          "bbox": [0.4127, 0.6934, 0.0866, 0.1198]
+        },
+        {
+          "category": "1",
+          "conf": 0.172,
+          "bbox": [0.3611, 0.8201, 0.0959, 0.127]
+        },
+        {
+          "category": "1",
+          "conf": 0.132,
+          "bbox": [0.4122, 0.7363, 0.048, 0.0756]
+        }
+      ],
+      "file": "CATH23__2019-10-25__12-00-00(1).JPG",
+      "max_detection_conf": 0.981
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.7868, 0.0205, 0.2131, 0.6434]
+        },
+        {
+          "category": "1",
+          "conf": 0.961,
+          "bbox": [0.0039, 0.8339, 0.2464, 0.1479]
+        },
+        {
+          "category": "1",
+          "conf": 0.287,
+          "bbox": [0.0147, 0.799, 0.4073, 0.1764]
+        },
+        {
+          "category": "1",
+          "conf": 0.233,
+          "bbox": [0.247, 0.8004, 0.2938, 0.1137]
+        },
+        {
+          "category": "1",
+          "conf": 0.229,
+          "bbox": [0.3788, 0.8058, 0.1646, 0.1]
+        }
+      ],
+      "file": "CATH23__2019-10-25__20-24-01(1).JPG",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.962,
+          "bbox": [0.0028, 0.8271, 0.2414, 0.1536]
+        },
+        {
+          "category": "1",
+          "conf": 0.948,
+          "bbox": [0.3781, 0.8045, 0.1653, 0.1063]
+        },
+        {
+          "category": "1",
+          "conf": 0.258,
+          "bbox": [0.0114, 0.7998, 0.3571, 0.1756]
+        },
+        {
+          "category": "1",
+          "conf": 0.238,
+          "bbox": [0.2364, 0.7994, 0.114, 0.0942]
+        },
+        {
+          "category": "1",
+          "conf": 0.21,
+          "bbox": [0.2043, 0.795, 0.1609, 0.1129]
+        }
+      ],
+      "file": "CATH23__2019-10-25__20-24-02(2).JPG",
+      "max_detection_conf": 0.962
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.942,
+          "bbox": [0.0035, 0.8325, 0.2336, 0.1482]
+        },
+        {
+          "category": "1",
+          "conf": 0.918,
+          "bbox": [0.7578, 0.2879, 0.2411, 0.5759]
+        },
+        {
+          "category": "1",
+          "conf": 0.54,
+          "bbox": [0.9118, 0.4852, 0.0865, 0.3896]
+        },
+        {
+          "category": "1",
+          "conf": 0.506,
+          "bbox": [0.0095, 0.8079, 0.3356, 0.1694]
+        }
+      ],
+      "file": "CATH23__2019-10-25__20-25-09(1).JPG",
+      "max_detection_conf": 0.942
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0134, 0.2931, 0.9865, 0.6811]
+        }
+      ],
+      "file": "CATH23__2019-10-25__20-25-10(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0022, 0.3762, 0.7628, 0.6025]
+        }
+      ],
+      "file": "CATH23__2019-10-25__20-25-12(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0011, 0.3336, 0.5857, 0.6441]
+        }
+      ],
+      "file": "CATH23__2019-10-25__20-25-14(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0021, 0.3754, 0.2399, 0.5952]
+        },
+        {
+          "category": "1",
+          "conf": 0.2,
+          "bbox": [0.3785, 0.805, 0.1549, 0.0994]
+        },
+        {
+          "category": "1",
+          "conf": 0.11,
+          "bbox": [0.2331, 0.7954, 0.2961, 0.1156]
+        }
+      ],
+      "file": "CATH23__2019-10-25__20-25-15(5).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.931,
+          "bbox": [0.0021, 0.8291, 0.2506, 0.1526]
+        },
+        {
+          "category": "1",
+          "conf": 0.867,
+          "bbox": [0.3745, 0.8059, 0.1716, 0.0994]
+        },
+        {
+          "category": "1",
+          "conf": 0.547,
+          "bbox": [0.0118, 0.8044, 0.3461, 0.175]
+        },
+        {
+          "category": "1",
+          "conf": 0.126,
+          "bbox": [0.235, 0.796, 0.3076, 0.1074]
+        }
+      ],
+      "file": "CATH23__2019-10-25__20-26-51(1).JPG",
+      "max_detection_conf": 0.931
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.535,
+          "bbox": [0.119, 0.4448, 0.062, 0.0791]
+        }
+      ],
+      "file": "CATH23__2019-10-26__12-00-00(1).JPG",
+      "max_detection_conf": 0.535
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.103,
+          "bbox": [0.4552, 0.6603, 0.13, 0.08]
+        }
+      ],
+      "file": "CATH23__2019-10-27__12-00-00(1).JPG",
+      "max_detection_conf": 0.103
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-28__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-29__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-30__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-31__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-01__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-02__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.253,
+          "bbox": [0.4109, 0.727, 0.0742, 0.0892]
+        }
+      ],
+      "file": "CATH23__2019-11-03__12-00-00(1).JPG",
+      "max_detection_conf": 0.253
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-04__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-05__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-06__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.123,
+          "bbox": [0.4092, 0.7165, 0.0789, 0.1063]
+        }
+      ],
+      "file": "CATH23__2019-11-07__12-00-00(1).JPG",
+      "max_detection_conf": 0.123
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.227,
+          "bbox": [0.8739, 0.9072, 0.0155, 0.0354]
+        }
+      ],
+      "file": "CATH23__2019-11-08__12-00-00(1).JPG",
+      "max_detection_conf": 0.227
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-09__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-10__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-11__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-12__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-13__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-14__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.46,
+          "bbox": [0.4162, 0.7531, 0.0607, 0.0785]
+        },
+        {
+          "category": "1",
+          "conf": 0.151,
+          "bbox": [0.4139, 0.7117, 0.0667, 0.1221]
+        }
+      ],
+      "file": "CATH23__2019-11-15__12-00-00(1).JPG",
+      "max_detection_conf": 0.46
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-16__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-17__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.706,
+          "bbox": [0.4403, 0.7593, 0.0375, 0.0755]
+        },
+        {
+          "category": "1",
+          "conf": 0.582,
+          "bbox": [0.418, 0.7524, 0.0598, 0.0844]
+        },
+        {
+          "category": "1",
+          "conf": 0.195,
+          "bbox": [0.2107, 0.6943, 0.0226, 0.0307]
+        }
+      ],
+      "file": "CATH23__2019-11-18__12-00-00(1).JPG",
+      "max_detection_conf": 0.706
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.106,
+          "bbox": [0.3979, 0.6777, 0.0266, 0.0703]
+        }
+      ],
+      "file": "CATH23__2019-11-19__12-00-00(1).JPG",
+      "max_detection_conf": 0.106
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.148,
+          "bbox": [0.9411, 0.6044, 0.0567, 0.2763]
+        },
+        {
+          "category": "1",
+          "conf": 0.131,
+          "bbox": [0.9593, 0.6049, 0.0397, 0.2294]
+        },
+        {
+          "category": "1",
+          "conf": 0.11,
+          "bbox": [0.9661, 0.6052, 0.0335, 0.1625]
+        }
+      ],
+      "file": "CATH23__2019-11-20__12-00-00(1).JPG",
+      "max_detection_conf": 0.148
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-21__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.76,
+          "bbox": [0.9843, 0.5006, 0.0143, 0.0598]
+        },
+        {
+          "category": "1",
+          "conf": 0.525,
+          "bbox": [0.9798, 0.4977, 0.0196, 0.1002]
+        },
+        {
+          "category": "2",
+          "conf": 0.301,
+          "bbox": [0.9805, 0.2451, 0.0194, 0.3344]
+        },
+        {
+          "category": "1",
+          "conf": 0.16,
+          "bbox": [0.9729, 0.4959, 0.0268, 0.1248]
+        }
+      ],
+      "file": "CATH23__2019-11-22__12-00-00(1).JPG",
+      "max_detection_conf": 0.76
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-23__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-24__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.575,
+          "bbox": [0.4316, 0.7738, 0.0456, 0.0402]
+        }
+      ],
+      "file": "CATH23__2019-11-25__12-00-00(1).JPG",
+      "max_detection_conf": 0.575
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.189,
+          "bbox": [0.4217, 0.7487, 0.0572, 0.059]
+        }
+      ],
+      "file": "CATH23__2019-11-26__12-00-00(1).JPG",
+      "max_detection_conf": 0.189
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.865,
+          "bbox": [0, 0.0074, 0.96, 0.9647]
+        }
+      ],
+      "file": "CATH23__2019-11-27__12-00-00(1).JPG",
+      "max_detection_conf": 0.865
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-28__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-29__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.948,
+          "bbox": [0.5739, 0.843, 0.1925, 0.1303]
+        },
+        {
+          "category": "1",
+          "conf": 0.106,
+          "bbox": [0.0073, 0.823, 0.2518, 0.1496]
+        }
+      ],
+      "file": "CATH23__2019-11-30__00-39-37(1).JPG",
+      "max_detection_conf": 0.948
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.625,
+          "bbox": [0.7854, 0.8662, 0.2083, 0.1131]
+        },
+        {
+          "category": "1",
+          "conf": 0.526,
+          "bbox": [0.013, 0.8154, 0.2607, 0.1314]
+        },
+        {
+          "category": "1",
+          "conf": 0.301,
+          "bbox": [0.7872, 0.9098, 0.2061, 0.0657]
+        },
+        {
+          "category": "1",
+          "conf": 0.138,
+          "bbox": [0.0422, 0.6942, 0.485, 0.2595]
+        },
+        {
+          "category": "1",
+          "conf": 0.131,
+          "bbox": [0.0255, 0.7701, 0.3641, 0.1819]
+        },
+        {
+          "category": "1",
+          "conf": 0.103,
+          "bbox": [0.0466, 0.6141, 0.9513, 0.3443]
+        }
+      ],
+      "file": "CATH23__2019-11-30__00-39-38(2).JPG",
+      "max_detection_conf": 0.625
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.754,
+          "bbox": [0.9262, 0.2495, 0.0736, 0.5887]
+        },
+        {
+          "category": "1",
+          "conf": 0.31,
+          "bbox": [0.2631, 0.7618, 0.2578, 0.1379]
+        },
+        {
+          "category": "1",
+          "conf": 0.286,
+          "bbox": [0.035, 0.7523, 0.4925, 0.1829]
+        },
+        {
+          "category": "2",
+          "conf": 0.264,
+          "bbox": [0.9278, 0.242, 0.0709, 0.6019]
+        },
+        {
+          "category": "1",
+          "conf": 0.103,
+          "bbox": [0.0306, 0.6258, 0.4757, 0.2831]
+        }
+      ],
+      "file": "CATH23__2019-11-30__01-30-54(1).JPG",
+      "max_detection_conf": 0.754
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1647, 0.021, 0.6545, 0.8918]
+        }
+      ],
+      "file": "CATH23__2019-11-30__01-30-55(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0129, 0.0206, 0.955, 0.9536]
+        }
+      ],
+      "file": "CATH23__2019-11-30__01-30-58(3).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0, 0.0188, 0.9867, 0.9572]
+        },
+        {
+          "category": "1",
+          "conf": 0.171,
+          "bbox": [0.0151, 0.2176, 0.7315, 0.7426]
+        }
+      ],
+      "file": "CATH23__2019-11-30__01-30-59(4).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0, 0.0158, 0.9829, 0.9584]
+        },
+        {
+          "category": "1",
+          "conf": 0.283,
+          "bbox": [0, 0.0205, 0.6027, 0.9349]
+        }
+      ],
+      "file": "CATH23__2019-11-30__01-31-00(1).JPG",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0001, 0.0134, 0.9919, 0.9698]
+        },
+        {
+          "category": "1",
+          "conf": 0.276,
+          "bbox": [0.0103, 0.0795, 0.6315, 0.8847]
+        }
+      ],
+      "file": "CATH23__2019-11-30__01-31-01(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0185, 1, 0.9608]
+        }
+      ],
+      "file": "CATH23__2019-11-30__01-31-03(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0318, 0.0204, 0.9518, 0.9576]
+        }
+      ],
+      "file": "CATH23__2019-11-30__01-32-53(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.995,
+          "bbox": [0.039, 0.0208, 0.9383, 0.9509]
+        },
+        {
+          "category": "1",
+          "conf": 0.154,
+          "bbox": [0.1112, 0.2401, 0.6398, 0.7185]
+        }
+      ],
+      "file": "CATH23__2019-11-30__01-32-54(2).JPG",
+      "max_detection_conf": 0.995
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.004, 0.3483, 0.3175, 0.6321]
+        }
+      ],
+      "file": "CATH23__2019-11-30__01-33-11(1).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-11-30__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.964,
+          "bbox": [0.9513, 0.7418, 0.0195, 0.0346]
+        },
+        {
+          "category": "1",
+          "conf": 0.787,
+          "bbox": [0.3958, 0.6306, 0.0313, 0.1164]
+        },
+        {
+          "category": "1",
+          "conf": 0.321,
+          "bbox": [0.9461, 0.7393, 0.0264, 0.0458]
+        },
+        {
+          "category": "1",
+          "conf": 0.113,
+          "bbox": [0.9515, 0.7398, 0.0427, 0.0435]
+        }
+      ],
+      "file": "CATH23__2019-12-01__12-00-00(1).JPG",
+      "max_detection_conf": 0.964
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.319,
+          "bbox": [0.9489, 0.7435, 0.0228, 0.0441]
+        }
+      ],
+      "file": "CATH23__2019-12-02__12-00-00(1).JPG",
+      "max_detection_conf": 0.319
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-03__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-04__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-05__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-06__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0187, 1, 0.9656]
+        },
+        {
+          "category": "1",
+          "conf": 0.523,
+          "bbox": [0.5076, 0.8232, 0.4682, 0.1575]
+        }
+      ],
+      "file": "CATH23__2019-12-07__07-45-56(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0174, 1, 0.9576]
+        }
+      ],
+      "file": "CATH23__2019-12-07__07-46-00(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0252, 1, 0.9475]
+        }
+      ],
+      "file": "CATH23__2019-12-07__07-46-01(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0028, 0.0173, 0.9855, 0.9629]
+        }
+      ],
+      "file": "CATH23__2019-12-07__07-46-02(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-07__07-46-03(4).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.187,
+          "bbox": [0.4186, 0.9555, 0.0366, 0.0232]
+        }
+      ],
+      "file": "CATH23__2019-12-07__12-00-00(1).JPG",
+      "max_detection_conf": 0.187
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.204,
+          "bbox": [0.4211, 0.9524, 0.03, 0.0246]
+        },
+        {
+          "category": "2",
+          "conf": 0.115,
+          "bbox": [0.9714, 0.2346, 0.0284, 0.3513]
+        }
+      ],
+      "file": "CATH23__2019-12-08__12-00-00(1).JPG",
+      "max_detection_conf": 0.204
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.132,
+          "bbox": [0.9565, 0.1884, 0.0419, 0.2895]
+        },
+        {
+          "category": "1",
+          "conf": 0.117,
+          "bbox": [0.4417, 0.664, 0.1566, 0.1175]
+        }
+      ],
+      "file": "CATH23__2019-12-09__12-00-00(1).JPG",
+      "max_detection_conf": 0.132
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.224,
+          "bbox": [0.4453, 0.6698, 0.1633, 0.1163]
+        },
+        {
+          "category": "1",
+          "conf": 0.128,
+          "bbox": [0.4437, 0.6721, 0.1102, 0.1016]
+        }
+      ],
+      "file": "CATH23__2019-12-10__12-00-00(1).JPG",
+      "max_detection_conf": 0.224
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.105,
+          "bbox": [0.4175, 0.9526, 0.046, 0.0247]
+        }
+      ],
+      "file": "CATH23__2019-12-11__12-00-00(1).JPG",
+      "max_detection_conf": 0.105
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-12__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-13__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.117,
+          "bbox": [0.6189, 0.4402, 0.1196, 0.1267]
+        }
+      ],
+      "file": "CATH23__2019-12-14__12-00-00(1).JPG",
+      "max_detection_conf": 0.117
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-15__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-16__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-17__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-18__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-19__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6085, 0.5712, 0.3701, 0.2206]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-29(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2515, 0.6046, 0.3564, 0.2711]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-32(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2087, 0.6207, 0.2213, 0.2592]
+        },
+        {
+          "category": "1",
+          "conf": 0.94,
+          "bbox": [0.8252, 0.0205, 0.1738, 0.6479]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-37(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1853, 0.5763, 0.1856, 0.3086]
+        },
+        {
+          "category": "2",
+          "conf": 0.73,
+          "bbox": [0.844, 0.0294, 0.1559, 0.7464]
+        },
+        {
+          "category": "1",
+          "conf": 0.34,
+          "bbox": [0.8403, 0.0227, 0.1586, 0.7671]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-43(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.992,
+          "bbox": [0.4269, 0.0206, 0.5654, 0.9349]
+        },
+        {
+          "category": "1",
+          "conf": 0.334,
+          "bbox": [0.2163, 0.5433, 0.65, 0.4329]
+        },
+        {
+          "category": "1",
+          "conf": 0.16,
+          "bbox": [0.0424, 0.0152, 0.8218, 0.9358]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-44(5).JPG",
+      "max_detection_conf": 0.992
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0, 0.0207, 1, 0.9619]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-49(6).JPG",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0008, 0.0174, 0.9978, 0.9531]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-51(7).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0, 0.0206, 1, 0.9604]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-52(8).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0008, 0.0205, 0.9992, 0.9569]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-52(9).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.294, 0.4289, 0.4533, 0.5388]
+        },
+        {
+          "category": "1",
+          "conf": 0.995,
+          "bbox": [0.1062, 0.5683, 0.2611, 0.3144]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-54(10).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1314, 0.5569, 0.4887, 0.4089]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-58(11).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.0053, 0.63, 0.441, 0.3455]
+        },
+        {
+          "category": "1",
+          "conf": 0.192,
+          "bbox": [0.2901, 0.5957, 0.0422, 0.0562]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-54-59(12).JPG",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0069, 0.2295, 0.6794, 0.7493]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-02(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.1801, 1, 0.7959]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-10(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.1049, 0.9999, 0.8699]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-14(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0013, 0.0186, 0.9929, 0.9562]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-15(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.98,
+          "bbox": [0, 0.012, 0.619, 0.9567]
+        },
+        {
+          "category": "1",
+          "conf": 0.311,
+          "bbox": [0.0902, 0.0137, 0.7956, 0.9562]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-17(5).JPG",
+      "max_detection_conf": 0.98
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.952,
+          "bbox": [0.001, 0.0097, 0.5801, 0.9646]
+        },
+        {
+          "category": "1",
+          "conf": 0.485,
+          "bbox": [0, 0.0136, 0.973, 0.9574]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-20(6).JPG",
+      "max_detection_conf": 0.952
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0204, 1, 0.9624]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-22(7).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0222, 0.9993, 0.9612]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-23(8).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0, 0.0173, 0.9932, 0.955]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-26(9).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.977,
+          "bbox": [0, 0.0136, 0.9896, 0.961]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-27(10).JPG",
+      "max_detection_conf": 0.977
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0176, 0.9963, 0.9657]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-29(11).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0475, 1, 0.9398]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-32(12).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0879, 0.3223, 0.4728, 0.6478]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-33(13).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0024, 0.5933, 0.4574, 0.384]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-34(14).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0019, 0.0239, 0.991, 0.9418]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-39(15).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0, 0.0207, 0.998, 0.9577]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-40(16).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0, 0.021, 0.9918, 0.9472]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-42(17).JPG",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0, 0.0213, 0.7482, 0.9558]
+        }
+      ],
+      "file": "CATH23__2019-12-19__16-55-43(18).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-20__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-21__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-22__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-23__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-24__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-25__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-26__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-27__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-28__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-29__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-30__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-12-31__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-01__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-02__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-03__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-04__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-05__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-06__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-07__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-08__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.726,
+          "bbox": [0, 0.4425, 1, 0.5352]
+        },
+        {
+          "category": "2",
+          "conf": 0.348,
+          "bbox": [0, 0.4396, 1, 0.5327]
+        }
+      ],
+      "file": "CATH23__2020-01-09__12-00-00(1).JPG",
+      "max_detection_conf": 0.726
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.187,
+          "bbox": [0.012, 0.5118, 0.9835, 0.4648]
+        }
+      ],
+      "file": "CATH23__2020-01-10__12-00-00(1).JPG",
+      "max_detection_conf": 0.187
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-11__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-12__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-13__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-14__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-15__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.187,
+          "bbox": [0.0096, 0.5709, 0.9903, 0.4025]
+        }
+      ],
+      "file": "CATH23__2020-01-16__12-00-00(1).JPG",
+      "max_detection_conf": 0.187
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.16,
+          "bbox": [0.0144, 0.5651, 0.9856, 0.4075]
+        }
+      ],
+      "file": "CATH23__2020-01-17__12-00-00(1).JPG",
+      "max_detection_conf": 0.16
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-18__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-19__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-20__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-21__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.115,
+          "bbox": [0.0148, 0.5741, 0.9851, 0.3959]
+        }
+      ],
+      "file": "CATH23__2020-01-22__12-00-00(1).JPG",
+      "max_detection_conf": 0.115
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-23__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.167,
+          "bbox": [0.984, 0.2042, 0.0155, 0.1336]
+        },
+        {
+          "category": "2",
+          "conf": 0.148,
+          "bbox": [0.9725, 0.1998, 0.0274, 0.2824]
+        }
+      ],
+      "file": "CATH23__2020-01-24__12-00-00(1).JPG",
+      "max_detection_conf": 0.167
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.137,
+          "bbox": [0.9821, 0.2173, 0.0164, 0.0913]
+        },
+        {
+          "category": "1",
+          "conf": 0.107,
+          "bbox": [0.0113, 0.5471, 0.9875, 0.4272]
+        }
+      ],
+      "file": "CATH23__2020-01-25__12-00-00(1).JPG",
+      "max_detection_conf": 0.137
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.25,
+          "bbox": [0.9681, 0.1701, 0.0318, 0.3152]
+        },
+        {
+          "category": "2",
+          "conf": 0.218,
+          "bbox": [0.9724, 0.1752, 0.0275, 0.0924]
+        },
+        {
+          "category": "1",
+          "conf": 0.207,
+          "bbox": [0.972, 0.1867, 0.0272, 0.0795]
+        }
+      ],
+      "file": "CATH23__2020-01-26__12-00-00(1).JPG",
+      "max_detection_conf": 0.25
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.965,
+          "bbox": [0.003, 0.4604, 0.1298, 0.2407]
+        },
+        {
+          "category": "2",
+          "conf": 0.678,
+          "bbox": [0.9749, 0.1733, 0.0248, 0.0719]
+        },
+        {
+          "category": "2",
+          "conf": 0.443,
+          "bbox": [0.9705, 0.1714, 0.0295, 0.2967]
+        },
+        {
+          "category": "2",
+          "conf": 0.169,
+          "bbox": [0.9736, 0.1749, 0.0264, 0.1865]
+        }
+      ],
+      "file": "CATH23__2020-01-27__09-44-12(1).JPG",
+      "max_detection_conf": 0.965
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.673,
+          "bbox": [0.9753, 0.1735, 0.0246, 0.0714]
+        },
+        {
+          "category": "2",
+          "conf": 0.489,
+          "bbox": [0.9696, 0.1715, 0.0304, 0.2692]
+        }
+      ],
+      "file": "CATH23__2020-01-27__09-44-14(2).JPG",
+      "max_detection_conf": 0.673
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.669,
+          "bbox": [0.9728, 0.166, 0.027, 0.0797]
+        },
+        {
+          "category": "1",
+          "conf": 0.203,
+          "bbox": [0.9657, 0.1679, 0.0342, 0.1002]
+        }
+      ],
+      "file": "CATH23__2020-01-27__12-00-00(1).JPG",
+      "max_detection_conf": 0.669
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-28__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-29__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-01-30__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.853,
+          "bbox": [0.8755, 0.602, 0.0954, 0.0491]
+        }
+      ],
+      "file": "CATH23__2020-01-31__12-00-00(1).JPG",
+      "max_detection_conf": 0.853
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-02-01__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-02-02__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.211,
+          "bbox": [0, 0.0283, 1, 0.9717]
+        }
+      ],
+      "file": "CATH23__2020-02-03__12-00-00(1).JPG",
+      "max_detection_conf": 0.211
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-02-04__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.876,
+          "bbox": [0, 0.0386, 0.9978, 0.9366]
+        }
+      ],
+      "file": "CATH23__2020-02-05__12-00-00(1).JPG",
+      "max_detection_conf": 0.876
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.869,
+          "bbox": [0, 0.0306, 0.9985, 0.9452]
+        }
+      ],
+      "file": "CATH23__2020-02-06__12-00-00(1).JPG",
+      "max_detection_conf": 0.869
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.887,
+          "bbox": [0, 0.0368, 0.9984, 0.936]
+        }
+      ],
+      "file": "CATH23__2020-02-07__12-00-00(1).JPG",
+      "max_detection_conf": 0.887
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.897,
+          "bbox": [0, 0.048, 0.9906, 0.9218]
+        }
+      ],
+      "file": "CATH23__2020-02-08__12-00-00(1).JPG",
+      "max_detection_conf": 0.897
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.888,
+          "bbox": [0.0008, 0.0388, 0.9929, 0.937]
+        }
+      ],
+      "file": "CATH23__2020-02-09__12-00-00(1).JPG",
+      "max_detection_conf": 0.888
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.188,
+          "bbox": [0, 0.0282, 0.9965, 0.9718]
+        }
+      ],
+      "file": "CATH23__2020-02-10__12-00-00(1).JPG",
+      "max_detection_conf": 0.188
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.889,
+          "bbox": [0, 0.0483, 0.9994, 0.9241]
+        }
+      ],
+      "file": "CATH23__2020-02-11__12-00-00(1).JPG",
+      "max_detection_conf": 0.889
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.236,
+          "bbox": [0.0258, 0.0195, 0.9742, 0.9805]
+        }
+      ],
+      "file": "CATH23__2020-02-12__12-00-00(1).JPG",
+      "max_detection_conf": 0.236
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.17,
+          "bbox": [0.0761, 0.0083, 0.9239, 0.9884]
+        }
+      ],
+      "file": "CATH23__2020-02-13__12-00-00(1).JPG",
+      "max_detection_conf": 0.17
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.292,
+          "bbox": [0, 0.0271, 1, 0.9729]
+        }
+      ],
+      "file": "CATH23__2020-02-14__12-00-00(1).JPG",
+      "max_detection_conf": 0.292
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.391,
+          "bbox": [0, 0.0157, 1, 0.9843]
+        }
+      ],
+      "file": "CATH23__2020-02-15__12-00-00(1).JPG",
+      "max_detection_conf": 0.391
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.334,
+          "bbox": [0, 0.0148, 1, 0.9852]
+        }
+      ],
+      "file": "CATH23__2020-02-16__12-00-00(1).JPG",
+      "max_detection_conf": 0.334
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.895,
+          "bbox": [0, 0.0427, 0.9979, 0.9278]
+        }
+      ],
+      "file": "CATH23__2020-02-17__12-00-00(1).JPG",
+      "max_detection_conf": 0.895
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.914,
+          "bbox": [0, 0.0189, 0.9924, 0.9568]
+        }
+      ],
+      "file": "CATH23__2020-02-18__12-00-00(1).JPG",
+      "max_detection_conf": 0.914
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.897,
+          "bbox": [0, 0, 0.9575, 0.9918]
+        }
+      ],
+      "file": "CATH23__2020-02-19__12-00-00(1).JPG",
+      "max_detection_conf": 0.897
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.903,
+          "bbox": [0, 0.0197, 0.9933, 0.9534]
+        }
+      ],
+      "file": "CATH23__2020-02-20__12-00-00(1).JPG",
+      "max_detection_conf": 0.903
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.354,
+          "bbox": [0, 0.0167, 0.9251, 0.967]
+        }
+      ],
+      "file": "CATH23__2020-02-21__12-00-00(1).JPG",
+      "max_detection_conf": 0.354
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.341,
+          "bbox": [0, 0.0319, 0.9987, 0.9436]
+        }
+      ],
+      "file": "CATH23__2020-02-22__12-00-00(1).JPG",
+      "max_detection_conf": 0.341
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.921,
+          "bbox": [0, 0.0028, 0.9318, 0.9897]
+        }
+      ],
+      "file": "CATH23__2020-02-23__12-00-00(1).JPG",
+      "max_detection_conf": 0.921
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.906,
+          "bbox": [0, 0.0309, 1, 0.9431]
+        }
+      ],
+      "file": "CATH23__2020-02-24__12-00-00(1).JPG",
+      "max_detection_conf": 0.906
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.348,
+          "bbox": [0, 0.0486, 0.9965, 0.9304]
+        }
+      ],
+      "file": "CATH23__2020-02-25__12-00-00(1).JPG",
+      "max_detection_conf": 0.348
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.93,
+          "bbox": [0, 0, 0.9043, 0.9716]
+        },
+        {
+          "category": "1",
+          "conf": 0.184,
+          "bbox": [0.3009, 0.0089, 0.699, 0.9772]
+        }
+      ],
+      "file": "CATH23__2020-02-26__12-00-00(1).JPG",
+      "max_detection_conf": 0.93
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.301,
+          "bbox": [0, 0.0476, 0.9983, 0.9362]
+        }
+      ],
+      "file": "CATH23__2020-02-27__12-00-00(1).JPG",
+      "max_detection_conf": 0.301
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.312,
+          "bbox": [0, 0.0298, 1, 0.9702]
+        }
+      ],
+      "file": "CATH23__2020-02-28__12-00-00(1).JPG",
+      "max_detection_conf": 0.312
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.221,
+          "bbox": [0.0027, 0.0422, 0.9925, 0.9498]
+        }
+      ],
+      "file": "CATH23__2020-02-29__12-00-00(1).JPG",
+      "max_detection_conf": 0.221
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.357,
+          "bbox": [0, 0.0142, 0.9393, 0.9756]
+        }
+      ],
+      "file": "CATH23__2020-03-01__12-00-00(1).JPG",
+      "max_detection_conf": 0.357
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.927,
+          "bbox": [0, 0.014, 0.9981, 0.9663]
+        }
+      ],
+      "file": "CATH23__2020-03-02__12-00-00(1).JPG",
+      "max_detection_conf": 0.927
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.934,
+          "bbox": [0, 0.0089, 0.8245, 0.9787]
+        },
+        {
+          "category": "1",
+          "conf": 0.123,
+          "bbox": [0.2571, 0.0234, 0.7428, 0.9563]
+        }
+      ],
+      "file": "CATH23__2020-03-03__12-00-00(1).JPG",
+      "max_detection_conf": 0.934
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.918,
+          "bbox": [0, 0.0104, 0.8314, 0.976]
+        },
+        {
+          "category": "1",
+          "conf": 0.139,
+          "bbox": [0.3055, 0.0129, 0.6944, 0.9618]
+        }
+      ],
+      "file": "CATH23__2020-03-04__12-00-00(1).JPG",
+      "max_detection_conf": 0.918
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.936,
+          "bbox": [0, 0.015, 0.9936, 0.9655]
+        }
+      ],
+      "file": "CATH23__2020-03-05__12-00-00(1).JPG",
+      "max_detection_conf": 0.936
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.941,
+          "bbox": [0, 0.0055, 0.8863, 0.9841]
+        }
+      ],
+      "file": "CATH23__2020-03-06__12-00-00(1).JPG",
+      "max_detection_conf": 0.941
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.936,
+          "bbox": [0, 0, 0.9287, 0.9735]
+        }
+      ],
+      "file": "CATH23__2020-03-07__12-00-00(1).JPG",
+      "max_detection_conf": 0.936
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.942,
+          "bbox": [0, 0.0067, 0.9029, 0.9815]
+        }
+      ],
+      "file": "CATH23__2020-03-08__12-00-00(1).JPG",
+      "max_detection_conf": 0.942
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.958,
+          "bbox": [0, 0.0107, 0.9295, 0.9703]
+        }
+      ],
+      "file": "CATH23__2020-03-09__12-00-00(1).JPG",
+      "max_detection_conf": 0.958
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.95,
+          "bbox": [0, 0.0061, 0.8967, 0.9827]
+        },
+        {
+          "category": "1",
+          "conf": 0.206,
+          "bbox": [0.2939, 0.0184, 0.706, 0.9666]
+        }
+      ],
+      "file": "CATH23__2020-03-10__12-00-00(1).JPG",
+      "max_detection_conf": 0.95
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.958,
+          "bbox": [0, 0.0118, 0.8998, 0.9735]
+        }
+      ],
+      "file": "CATH23__2020-03-11__12-00-00(1).JPG",
+      "max_detection_conf": 0.958
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.93,
+          "bbox": [0, 0.0203, 0.9924, 0.9254]
+        }
+      ],
+      "file": "CATH23__2020-03-12__12-00-00(1).JPG",
+      "max_detection_conf": 0.93
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.952,
+          "bbox": [0, 0.0106, 0.9331, 0.9758]
+        }
+      ],
+      "file": "CATH23__2020-03-13__12-00-00(1).JPG",
+      "max_detection_conf": 0.952
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.962,
+          "bbox": [0, 0.0094, 0.9007, 0.9722]
+        }
+      ],
+      "file": "CATH23__2020-03-14__12-00-00(1).JPG",
+      "max_detection_conf": 0.962
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.96,
+          "bbox": [0, 0.0093, 0.9007, 0.9761]
+        },
+        {
+          "category": "1",
+          "conf": 0.1,
+          "bbox": [0.2805, 0.0272, 0.7194, 0.9524]
+        }
+      ],
+      "file": "CATH23__2020-03-15__12-00-00(1).JPG",
+      "max_detection_conf": 0.96
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.927,
+          "bbox": [0, 0.0147, 0.9994, 0.9684]
+        }
+      ],
+      "file": "CATH23__2020-03-16__12-00-00(1).JPG",
+      "max_detection_conf": 0.927
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.914,
+          "bbox": [0, 0.0143, 1, 0.967]
+        }
+      ],
+      "file": "CATH23__2020-03-17__12-00-00(1).JPG",
+      "max_detection_conf": 0.914
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.952,
+          "bbox": [0, 0.0097, 0.842, 0.9771]
+        },
+        {
+          "category": "1",
+          "conf": 0.289,
+          "bbox": [0.2435, 0.0057, 0.7564, 0.9669]
+        }
+      ],
+      "file": "CATH23__2020-03-18__12-00-00(1).JPG",
+      "max_detection_conf": 0.952
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.92,
+          "bbox": [0, 0.015, 1, 0.9683]
+        }
+      ],
+      "file": "CATH23__2020-03-19__12-00-00(1).JPG",
+      "max_detection_conf": 0.92
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.929,
+          "bbox": [0, 0.0146, 0.9926, 0.9684]
+        }
+      ],
+      "file": "CATH23__2020-03-20__12-00-00(1).JPG",
+      "max_detection_conf": 0.929
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.918,
+          "bbox": [0, 0.015, 0.9983, 0.9683]
+        }
+      ],
+      "file": "CATH23__2020-03-21__12-00-00(1).JPG",
+      "max_detection_conf": 0.918
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.922,
+          "bbox": [0, 0.0362, 0.9941, 0.9378]
+        }
+      ],
+      "file": "CATH23__2020-03-22__12-00-00(1).JPG",
+      "max_detection_conf": 0.922
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.905,
+          "bbox": [0, 0.005, 0.9431, 0.9794]
+        }
+      ],
+      "file": "CATH23__2020-03-23__12-00-00(1).JPG",
+      "max_detection_conf": 0.905
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.92,
+          "bbox": [0, 0.0163, 1, 0.9647]
+        }
+      ],
+      "file": "CATH23__2020-03-24__12-00-00(1).JPG",
+      "max_detection_conf": 0.92
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.925,
+          "bbox": [0, 0.0033, 0.9338, 0.98]
+        }
+      ],
+      "file": "CATH23__2020-03-25__12-00-00(1).JPG",
+      "max_detection_conf": 0.925
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.918,
+          "bbox": [0, 0.0176, 1, 0.9635]
+        }
+      ],
+      "file": "CATH23__2020-03-26__12-00-00(1).JPG",
+      "max_detection_conf": 0.918
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.921,
+          "bbox": [0, 0.0235, 0.9986, 0.9555]
+        }
+      ],
+      "file": "CATH23__2020-03-27__12-00-00(1).JPG",
+      "max_detection_conf": 0.921
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.939,
+          "bbox": [0.0041, 0.0214, 0.985, 0.932]
+        }
+      ],
+      "file": "CATH23__2020-03-28__12-00-00(1).JPG",
+      "max_detection_conf": 0.939
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.917,
+          "bbox": [0, 0.0344, 1, 0.9405]
+        }
+      ],
+      "file": "CATH23__2020-03-29__12-00-00(1).JPG",
+      "max_detection_conf": 0.917
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.905,
+          "bbox": [0, 0.0422, 0.9978, 0.9321]
+        }
+      ],
+      "file": "CATH23__2020-03-30__12-00-00(1).JPG",
+      "max_detection_conf": 0.905
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.907,
+          "bbox": [0.0001, 0.0237, 0.9937, 0.9544]
+        }
+      ],
+      "file": "CATH23__2020-03-31__12-00-00(1).JPG",
+      "max_detection_conf": 0.907
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.905,
+          "bbox": [0, 0.0158, 1, 0.9621]
+        }
+      ],
+      "file": "CATH23__2020-04-01__12-00-00(1).JPG",
+      "max_detection_conf": 0.905
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.913,
+          "bbox": [0, 0.0416, 0.9984, 0.9334]
+        }
+      ],
+      "file": "CATH23__2020-04-02__12-00-00(1).JPG",
+      "max_detection_conf": 0.913
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.928,
+          "bbox": [0, 0.0176, 0.9998, 0.9599]
+        }
+      ],
+      "file": "CATH23__2020-04-03__12-00-00(1).JPG",
+      "max_detection_conf": 0.928
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.902,
+          "bbox": [0, 0.0198, 1, 0.9554]
+        }
+      ],
+      "file": "CATH23__2020-04-04__12-00-00(1).JPG",
+      "max_detection_conf": 0.902
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.933,
+          "bbox": [0.0062, 0.0203, 0.9828, 0.9366]
+        }
+      ],
+      "file": "CATH23__2020-04-05__12-00-00(1).JPG",
+      "max_detection_conf": 0.933
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.908,
+          "bbox": [0, 0.0346, 1, 0.9418]
+        }
+      ],
+      "file": "CATH23__2020-04-06__12-00-00(1).JPG",
+      "max_detection_conf": 0.908
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.901,
+          "bbox": [0, 0.0324, 1, 0.9428]
+        }
+      ],
+      "file": "CATH23__2020-04-07__12-00-00(1).JPG",
+      "max_detection_conf": 0.901
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.922,
+          "bbox": [0, 0.0146, 0.9978, 0.9677]
+        }
+      ],
+      "file": "CATH23__2020-04-08__12-00-00(1).JPG",
+      "max_detection_conf": 0.922
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.904,
+          "bbox": [0, 0.0325, 1, 0.9426]
+        }
+      ],
+      "file": "CATH23__2020-04-09__12-00-00(1).JPG",
+      "max_detection_conf": 0.904
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.903,
+          "bbox": [0, 0.0148, 1, 0.9642]
+        }
+      ],
+      "file": "CATH23__2020-04-10__12-00-00(1).JPG",
+      "max_detection_conf": 0.903
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.893,
+          "bbox": [0, 0.0194, 1, 0.95]
+        }
+      ],
+      "file": "CATH23__2020-04-11__12-00-00(1).JPG",
+      "max_detection_conf": 0.893
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.907,
+          "bbox": [0, 0.0141, 0.996, 0.9674]
+        }
+      ],
+      "file": "CATH23__2020-04-12__12-00-00(1).JPG",
+      "max_detection_conf": 0.907
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.88,
+          "bbox": [0, 0.0171, 1, 0.9552]
+        }
+      ],
+      "file": "CATH23__2020-04-13__12-00-00(1).JPG",
+      "max_detection_conf": 0.88
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.907,
+          "bbox": [0, 0.0182, 1, 0.953]
+        }
+      ],
+      "file": "CATH23__2020-04-14__12-00-00(1).JPG",
+      "max_detection_conf": 0.907
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.891,
+          "bbox": [0, 0.0407, 1, 0.9358]
+        }
+      ],
+      "file": "CATH23__2020-04-15__12-00-00(1).JPG",
+      "max_detection_conf": 0.891
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.922,
+          "bbox": [0, 0, 0.956, 0.9743]
+        }
+      ],
+      "file": "CATH23__2020-04-16__12-00-00(1).JPG",
+      "max_detection_conf": 0.922
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.912,
+          "bbox": [0, 0.0005, 0.9417, 0.9827]
+        }
+      ],
+      "file": "CATH23__2020-04-17__12-00-00(1).JPG",
+      "max_detection_conf": 0.912
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.893,
+          "bbox": [0, 0.0443, 0.9998, 0.933]
+        }
+      ],
+      "file": "CATH23__2020-04-18__12-00-00(1).JPG",
+      "max_detection_conf": 0.893
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.908,
+          "bbox": [0, 0.0014, 0.9382, 0.9784]
+        }
+      ],
+      "file": "CATH23__2020-04-19__12-00-00(1).JPG",
+      "max_detection_conf": 0.908
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.161,
+          "bbox": [0, 0.0293, 1, 0.9476]
+        }
+      ],
+      "file": "CATH23__2020-04-20__12-00-00(1).JPG",
+      "max_detection_conf": 0.161
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-04-21__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-04-22__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.118,
+          "bbox": [0, 0.0369, 1, 0.9323]
+        }
+      ],
+      "file": "CATH23__2020-04-23__12-00-00(1).JPG",
+      "max_detection_conf": 0.118
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.12,
+          "bbox": [0.0093, 0.0238, 0.9756, 0.9331]
+        }
+      ],
+      "file": "CATH23__2020-04-24__12-00-00(1).JPG",
+      "max_detection_conf": 0.12
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.121,
+          "bbox": [0, 0.0197, 0.9502, 0.9541]
+        }
+      ],
+      "file": "CATH23__2020-04-25__12-00-00(1).JPG",
+      "max_detection_conf": 0.121
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.442,
+          "bbox": [0, 0.0213, 1, 0.9753]
+        }
+      ],
+      "file": "CATH23__2020-04-26__12-00-00(1).JPG",
+      "max_detection_conf": 0.442
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.28,
+          "bbox": [0, 0.0301, 1, 0.9699]
+        }
+      ],
+      "file": "CATH23__2020-04-27__12-00-00(1).JPG",
+      "max_detection_conf": 0.28
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.345,
+          "bbox": [0, 0.0231, 1, 0.9769]
+        }
+      ],
+      "file": "CATH23__2020-04-28__12-00-00(1).JPG",
+      "max_detection_conf": 0.345
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.318,
+          "bbox": [0, 0.0228, 1, 0.9571]
+        }
+      ],
+      "file": "CATH23__2020-04-29__12-00-00(1).JPG",
+      "max_detection_conf": 0.318
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.729,
+          "bbox": [0, 0.0187, 0.9918, 0.9691]
+        }
+      ],
+      "file": "CATH23__2020-04-30__12-00-00(1).JPG",
+      "max_detection_conf": 0.729
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.687,
+          "bbox": [0.0391, 0.0336, 0.9399, 0.9373]
+        },
+        {
+          "category": "1",
+          "conf": 0.113,
+          "bbox": [0.5114, 0.0326, 0.4885, 0.9267]
+        }
+      ],
+      "file": "CATH23__2020-05-01__12-00-00(1).JPG",
+      "max_detection_conf": 0.687
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.298,
+          "bbox": [0, 0.0319, 0.8986, 0.9307]
+        }
+      ],
+      "file": "CATH23__2020-05-02__12-00-00(1).JPG",
+      "max_detection_conf": 0.298
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.392,
+          "bbox": [0, 0.2645, 0.9851, 0.7238]
+        }
+      ],
+      "file": "CATH23__2020-05-03__12-00-00(1).JPG",
+      "max_detection_conf": 0.392
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-04__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-05__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.92,
+          "bbox": [0, 0.0104, 0.8663, 0.9669]
+        }
+      ],
+      "file": "CATH23__2020-05-06__12-00-00(1).JPG",
+      "max_detection_conf": 0.92
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.349,
+          "bbox": [0, 0.0247, 0.8893, 0.9486]
+        }
+      ],
+      "file": "CATH23__2020-05-07__12-00-00(1).JPG",
+      "max_detection_conf": 0.349
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-08__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-09__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.262,
+          "bbox": [0.3233, 0.4285, 0.0209, 0.021]
+        },
+        {
+          "category": "1",
+          "conf": 0.165,
+          "bbox": [0.3232, 0.426, 0.0311, 0.0241]
+        }
+      ],
+      "file": "CATH23__2020-05-10__12-00-00(1).JPG",
+      "max_detection_conf": 0.262
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-11__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.288,
+          "bbox": [0.6229, 0.5865, 0.0225, 0.0297]
+        }
+      ],
+      "file": "CATH23__2020-05-12__12-00-00(1).JPG",
+      "max_detection_conf": 0.288
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-13__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-14__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-15__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-16__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.502,
+          "bbox": [0.0042, 0.6012, 0.1113, 0.1383]
+        }
+      ],
+      "file": "CATH23__2020-05-16__21-03-04(1).JPG",
+      "max_detection_conf": 0.502
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.875,
+          "bbox": [0.0027, 0.6074, 0.1044, 0.1312]
+        }
+      ],
+      "file": "CATH23__2020-05-16__21-03-15(2).JPG",
+      "max_detection_conf": 0.875
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-17__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-18__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-19__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-20__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.223,
+          "bbox": [0.419, 0.7202, 0.0653, 0.04]
+        }
+      ],
+      "file": "CATH23__2020-05-21__12-00-00(1).JPG",
+      "max_detection_conf": 0.223
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-22__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-23__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-24__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-25__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-26__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-27__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-28__03-56-39(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-28__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-05-29__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.187,
+          "bbox": [0.4074, 0.7147, 0.0825, 0.109]
+        }
+      ],
+      "file": "CATH23__2020-05-30__12-00-00(1).JPG",
+      "max_detection_conf": 0.187
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.945,
+          "bbox": [0.4129, 0.7257, 0.0785, 0.1116]
+        },
+        {
+          "category": "1",
+          "conf": 0.198,
+          "bbox": [0.3931, 0.7113, 0.1059, 0.1397]
+        }
+      ],
+      "file": "CATH23__2020-05-31__12-00-00(1).JPG",
+      "max_detection_conf": 0.945
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.15,
+          "bbox": [0.6363, 0.8136, 0.0328, 0.0394]
+        }
+      ],
+      "file": "CATH23__2020-06-01__12-00-00(1).JPG",
+      "max_detection_conf": 0.15
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.71,
+          "bbox": [0.5969, 0.8103, 0.0857, 0.0572]
+        }
+      ],
+      "file": "CATH23__2020-06-02__12-00-00(1).JPG",
+      "max_detection_conf": 0.71
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-03__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.416,
+          "bbox": [0.4426, 0.7385, 0.0438, 0.0901]
+        },
+        {
+          "category": "1",
+          "conf": 0.226,
+          "bbox": [0.5966, 0.8066, 0.0866, 0.0672]
+        },
+        {
+          "category": "1",
+          "conf": 0.166,
+          "bbox": [0.4185, 0.7188, 0.071, 0.1094]
+        }
+      ],
+      "file": "CATH23__2020-06-04__12-00-00(1).JPG",
+      "max_detection_conf": 0.416
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.231,
+          "bbox": [0.4487, 0.7164, 0.0445, 0.1155]
+        }
+      ],
+      "file": "CATH23__2020-06-05__12-00-00(1).JPG",
+      "max_detection_conf": 0.231
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.111,
+          "bbox": [0.4176, 0.7284, 0.076, 0.1054]
+        }
+      ],
+      "file": "CATH23__2020-06-06__12-00-00(1).JPG",
+      "max_detection_conf": 0.111
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-07__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-08__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-09__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-10__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.913,
+          "bbox": [0.452, 0.7421, 0.0426, 0.0902]
+        },
+        {
+          "category": "1",
+          "conf": 0.459,
+          "bbox": [0.4288, 0.7352, 0.0633, 0.0982]
+        },
+        {
+          "category": "1",
+          "conf": 0.223,
+          "bbox": [0.4493, 0.7276, 0.078, 0.1045]
+        }
+      ],
+      "file": "CATH23__2020-06-11__12-00-00(1).JPG",
+      "max_detection_conf": 0.913
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-12__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.2084, 0.9915, 0.7705]
+        }
+      ],
+      "file": "CATH23__2020-06-12__12-10-26(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-12__12-10-28(2).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-13__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-14__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.656,
+          "bbox": [0.4303, 0.7511, 0.0607, 0.0944]
+        },
+        {
+          "category": "1",
+          "conf": 0.187,
+          "bbox": [0.4161, 0.7304, 0.0692, 0.1078]
+        },
+        {
+          "category": "1",
+          "conf": 0.12,
+          "bbox": [0.4074, 0.7168, 0.0938, 0.1355]
+        }
+      ],
+      "file": "CATH23__2020-06-15__12-00-00(1).JPG",
+      "max_detection_conf": 0.656
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-16__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.281,
+          "bbox": [0.4383, 0.7469, 0.0461, 0.0826]
+        }
+      ],
+      "file": "CATH23__2020-06-17__12-00-00(1).JPG",
+      "max_detection_conf": 0.281
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-18__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-19__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.154,
+          "bbox": [0.4172, 0.7086, 0.1524, 0.1237]
+        }
+      ],
+      "file": "CATH23__2020-06-20__12-00-00(1).JPG",
+      "max_detection_conf": 0.154
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-21__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-22__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.266,
+          "bbox": [0.4465, 0.743, 0.041, 0.0918]
+        },
+        {
+          "category": "1",
+          "conf": 0.157,
+          "bbox": [0.421, 0.7367, 0.065, 0.0962]
+        }
+      ],
+      "file": "CATH23__2020-06-23__12-00-00(1).JPG",
+      "max_detection_conf": 0.266
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-23__13-44-46(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.177,
+          "bbox": [0.4486, 0.752, 0.0363, 0.0888]
+        }
+      ],
+      "file": "CATH23__2020-06-24__12-00-00(1).JPG",
+      "max_detection_conf": 0.177
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.38,
+          "bbox": [0.4376, 0.7414, 0.0889, 0.092]
+        },
+        {
+          "category": "1",
+          "conf": 0.128,
+          "bbox": [0.4058, 0.7205, 0.1297, 0.1157]
+        }
+      ],
+      "file": "CATH23__2020-06-25__12-00-00(1).JPG",
+      "max_detection_conf": 0.38
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.232,
+          "bbox": [0.4458, 0.746, 0.0394, 0.0889]
+        }
+      ],
+      "file": "CATH23__2020-06-26__12-00-00(1).JPG",
+      "max_detection_conf": 0.232
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-27__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.3964, 0.309, 0.5846]
+        }
+      ],
+      "file": "CATH23__2020-06-27__16-12-06(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.5243, 0.6181, 0.4527]
+        }
+      ],
+      "file": "CATH23__2020-06-27__16-12-08(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.5107, 0.5797, 0.4632]
+        }
+      ],
+      "file": "CATH23__2020-06-27__16-12-10(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.4481, 0.5774, 0.5286]
+        }
+      ],
+      "file": "CATH23__2020-06-27__16-12-11(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2426, 0.3435, 0.7559, 0.6326]
+        }
+      ],
+      "file": "CATH23__2020-06-27__16-12-12(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.337,
+          "bbox": [0.4825, 0.7047, 0.1117, 0.0863]
+        },
+        {
+          "category": "1",
+          "conf": 0.26,
+          "bbox": [0.4184, 0.7056, 0.1856, 0.1167]
+        },
+        {
+          "category": "1",
+          "conf": 0.221,
+          "bbox": [0.032, 0.799, 0.1106, 0.0894]
+        },
+        {
+          "category": "1",
+          "conf": 0.126,
+          "bbox": [0.4483, 0.7019, 0.1837, 0.0973]
+        }
+      ],
+      "file": "CATH23__2020-06-27__16-12-15(6).JPG",
+      "max_detection_conf": 0.337
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.11,
+          "bbox": [0.0406, 0.802, 0.0981, 0.0816]
+        }
+      ],
+      "file": "CATH23__2020-06-27__16-12-16(7).JPG",
+      "max_detection_conf": 0.11
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-28__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-29__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-06-30__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-07-01__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.179,
+          "bbox": [0.4169, 0.7031, 0.1956, 0.1253]
+        }
+      ],
+      "file": "CATH23__2020-07-02__12-00-00(1).JPG",
+      "max_detection_conf": 0.179
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.363,
+          "bbox": [0.4458, 0.7383, 0.0354, 0.092]
+        }
+      ],
+      "file": "CATH23__2020-07-03__12-00-00(1).JPG",
+      "max_detection_conf": 0.363
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-07-04__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.144,
+          "bbox": [0.4152, 0.7075, 0.1612, 0.1192]
+        }
+      ],
+      "file": "CATH23__2020-07-05__12-00-00(1).JPG",
+      "max_detection_conf": 0.144
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.261,
+          "bbox": [0.6266, 0.8069, 0.0618, 0.0555]
+        }
+      ],
+      "file": "CATH23__2020-07-06__12-00-00(1).JPG",
+      "max_detection_conf": 0.261
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-07-07__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.37,
+          "bbox": [0.4431, 0.7189, 0.0526, 0.1171]
+        },
+        {
+          "category": "1",
+          "conf": 0.159,
+          "bbox": [0.4484, 0.7508, 0.0411, 0.0824]
+        }
+      ],
+      "file": "CATH23__2020-07-08__12-00-00(1).JPG",
+      "max_detection_conf": 0.37
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.5707, 0.0224, 0.4292, 0.9515]
+        },
+        {
+          "category": "2",
+          "conf": 0.37,
+          "bbox": [0.7594, 0.0416, 0.2391, 0.927]
+        }
+      ],
+      "file": "CATH23__2020-07-08__14-18-50(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.997,
+          "bbox": [0.0053, 0.0145, 0.6355, 0.9612]
+        },
+        {
+          "category": "2",
+          "conf": 0.114,
+          "bbox": [0.043, 0.3626, 0.6552, 0.6238]
+        }
+      ],
+      "file": "CATH23__2020-07-08__14-18-51(2).JPG",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.315,
+          "bbox": [0.8916, 0.5781, 0.0378, 0.0435]
+        }
+      ],
+      "file": "CATH23__2020-07-08__14-18-53(3).JPG",
+      "max_detection_conf": 0.315
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2020-07-08__14-19-34(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.993,
+          "bbox": [0.0036, 0.0179, 0.9929, 0.9588]
+        },
+        {
+          "category": "1",
+          "conf": 0.729,
+          "bbox": [0.1604, 0.0203, 0.8381, 0.963]
+        }
+      ],
+      "file": "CATH23__2020-07-08__14-19-37(2).JPG",
+      "max_detection_conf": 0.993
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.975,
+          "bbox": [0.0192, 0.0226, 0.9243, 0.9523]
+        },
+        {
+          "category": "1",
+          "conf": 0.681,
+          "bbox": [0.1221, 0.0224, 0.8778, 0.9675]
+        },
+        {
+          "category": "2",
+          "conf": 0.236,
+          "bbox": [0, 0.0172, 0.3751, 0.9489]
+        }
+      ],
+      "file": "CATH23__2020-07-08__14-19-40(3).JPG",
+      "max_detection_conf": 0.975
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.998,
+          "bbox": [0.0033, 0.0341, 0.4984, 0.9438]
+        },
+        {
+          "category": "2",
+          "conf": 0.185,
+          "bbox": [0.0117, 0.0226, 0.208, 0.3313]
+        }
+      ],
+      "file": "CATH23__2020-07-08__14-19-41(4).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.718,
+          "bbox": [0.0027, 0.0123, 0.996, 0.9876]
+        },
+        {
+          "category": "2",
+          "conf": 0.23,
+          "bbox": [0.0221, 0.0343, 0.928, 0.9421]
+        }
+      ],
+      "file": "CATH23__2020-07-08__14-19-43(5).JPG",
+      "max_detection_conf": 0.718
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.649,
+          "bbox": [0, 0.0107, 0.9985, 0.9893]
+        },
+        {
+          "category": "2",
+          "conf": 0.281,
+          "bbox": [0, 0.0226, 0.9444, 0.9523]
+        }
+      ],
+      "file": "CATH23__2020-07-08__14-19-45(6).JPG",
+      "max_detection_conf": 0.649
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.8147, 0.0256, 0.1844, 0.942]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-13(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.4889, 0.0146, 0.4887, 0.966]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-14(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.5817, 0.0165, 0.409, 0.9588]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-16(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.6289, 0.0183, 0.3669, 0.9556]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-18(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.4287, 0, 0.4754, 0.9756]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-19(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.3952, 0.0176, 0.5252, 0.9584]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-21(6).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.3995, 0.0141, 0.4033, 0.9693]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-22(7).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.4926, 0.0196, 0.5071, 0.9545]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-23(8).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-04__11-23-25(9).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.8013, 0.0201, 0.1986, 0.9595]
+        },
+        {
+          "category": "2",
+          "conf": 0.293,
+          "bbox": [0.8869, 0.1184, 0.1088, 0.8457]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-33(10).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.986,
+          "bbox": [0, 0.02, 1, 0.9473]
+        },
+        {
+          "category": "2",
+          "conf": 0.167,
+          "bbox": [0, 0.2493, 0.0683, 0.6127]
+        },
+        {
+          "category": "2",
+          "conf": 0.101,
+          "bbox": [0.0008, 0.2371, 0.1197, 0.6915]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-34(11).JPG",
+      "max_detection_conf": 0.986
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.1397, 0.0164, 0.854, 0.96]
+        },
+        {
+          "category": "2",
+          "conf": 0.764,
+          "bbox": [0.4391, 0.1041, 0.5608, 0.8724]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-36(12).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.342,
+          "bbox": [0.4674, 0.7555, 0.0713, 0.0853]
+        },
+        {
+          "category": "1",
+          "conf": 0.127,
+          "bbox": [0.4667, 0.7534, 0.0514, 0.0506]
+        }
+      ],
+      "file": "CATH23__2019-07-04__11-23-38(13).JPG",
+      "max_detection_conf": 0.342
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-04__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.996,
+          "bbox": [0.0076, 0.8424, 0.1606, 0.1366]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-17(1).JPG",
+      "max_detection_conf": 0.996
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-04__13-39-19(2).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0, 0.4693, 0.5957, 0.5062]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-20(3).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0028, 0.229, 0.9943, 0.7461]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-21(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0206, 0.9958, 0.9584]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-23(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.0225, 0.9954, 0.959]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-24(6).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5626, 0.4106, 0.2137, 0.5739]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-26(7).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6592, 0.4511, 0.1989, 0.5318]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-27(8).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.715, 0.4608, 0.2568, 0.5143]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-29(9).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.718, 0.5596, 0.2103, 0.4164]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-30(10).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7232, 0.4438, 0.1778, 0.5341]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-32(11).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7227, 0.4859, 0.18, 0.4918]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-34(12).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.713, 0.4487, 0.2862, 0.5275]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-38(13).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7183, 0.4477, 0.2526, 0.527]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-42(14).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7164, 0.4595, 0.2772, 0.5166]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-45(15).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6784, 0.4928, 0.2872, 0.4836]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-52(16).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7268, 0.4662, 0.2001, 0.5125]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-55(17).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6936, 0.5823, 0.1618, 0.3942]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-57(18).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5629, 0.6047, 0.2893, 0.3723]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-39-59(19).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5168, 0.6083, 0.308, 0.3685]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-02(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4007, 0.5065, 0.3757, 0.471]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-03(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3224, 0.5664, 0.4597, 0.4112]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-06(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3349, 0.5912, 0.4415, 0.3875]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-07(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2677, 0.5985, 0.4999, 0.3785]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-18(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2447, 0.6013, 0.5193, 0.3775]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-19(6).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.28, 0.5877, 0.5014, 0.3912]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-20(7).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2737, 0.5841, 0.5067, 0.3945]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-21(8).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2829, 0.5855, 0.4961, 0.3951]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-23(9).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2888, 0.5875, 0.4853, 0.3942]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-24(10).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2867, 0.5918, 0.486, 0.3894]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-26(11).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2843, 0.5961, 0.4841, 0.3827]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-34(12).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2905, 0.5971, 0.4784, 0.3821]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-35(13).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2795, 0.5979, 0.4915, 0.3817]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-38(14).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1988, 0.5112, 0.5494, 0.468]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-41(15).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.2433, 0.4446, 0.4898, 0.5373]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-44(16).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1588, 0.4732, 0.5555, 0.5062]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-46(17).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1402, 0.602, 0.5767, 0.3776]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-49(18).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.111, 0.5496, 0.5971, 0.4285]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-50(19).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0968, 0.5177, 0.6068, 0.4619]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-51(20).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0676, 0.5743, 0.6119, 0.4068]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-52(21).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0488, 0.5294, 0.6231, 0.4514]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-54(22).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0841, 0.5796, 0.585, 0.4005]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-40-56(23).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.1834, 0.6253, 0.4872, 0.3544]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-00(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0863, 0.4907, 0.5891, 0.4851]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-04(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0091, 0.5378, 0.6599, 0.4411]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-06(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0393, 0.4843, 0.6266, 0.4936]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-08(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0547, 0.4622, 0.6077, 0.5166]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-09(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.5511, 0.6621, 0.43]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-11(6).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.5162, 0.6523, 0.4629]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-13(7).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.4819, 0.6581, 0.4975]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-15(8).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.4903, 0.6622, 0.4884]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-17(9).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.5017, 0.6544, 0.4771]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-19(10).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.5251, 0.6509, 0.4523]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-20(11).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.4793, 0.6492, 0.4982]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-22(12).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0096, 0.4291, 0.6339, 0.547]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-24(13).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0684, 0.4364, 0.5862, 0.5431]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-26(14).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0354, 0.4418, 0.6143, 0.5355]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-41(15).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0013, 0.4681, 0.6598, 0.5125]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-43(16).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.5505, 0.6514, 0.428]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-46(17).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.4553, 0.6527, 0.5215]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-47(18).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.006, 0.6181, 0.6471, 0.361]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-51(19).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0022, 0.5947, 0.6439, 0.3858]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-53(20).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.4916, 0.6468, 0.4899]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-54(21).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.4928, 0.6559, 0.4857]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-56(22).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.055, 0.4749, 0.6109, 0.5049]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-57(23).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.3237, 0.4304, 0.3724, 0.5516]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-41-59(24).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4743, 0.3933, 0.2135, 0.5835]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-42-01(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5326, 0.4522, 0.276, 0.5238]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-42-02(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5566, 0.5072, 0.4429, 0.4713]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-42-03(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6118, 0.5272, 0.3881, 0.4485]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-42-04(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6651, 0.5213, 0.3342, 0.4553]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-42-05(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7351, 0.5204, 0.2648, 0.4559]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-42-07(6).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.8415, 0.5049, 0.1578, 0.4725]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-42-08(7).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.176,
+          "bbox": [0.6495, 0.8129, 0.0979, 0.0755]
+        }
+      ],
+      "file": "CATH23__2019-07-04__13-42-10(8).JPG",
+      "max_detection_conf": 0.176
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-05__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.88,
+          "bbox": [0.4703, 0.7459, 0.0718, 0.0903]
+        },
+        {
+          "category": "1",
+          "conf": 0.343,
+          "bbox": [0.4681, 0.7117, 0.0864, 0.1317]
+        },
+        {
+          "category": "1",
+          "conf": 0.125,
+          "bbox": [0.474, 0.6988, 0.1365, 0.1391]
+        }
+      ],
+      "file": "CATH23__2019-07-06__12-00-00(1).JPG",
+      "max_detection_conf": 0.88
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.181,
+          "bbox": [0.4793, 0.7306, 0.0699, 0.1044]
+        },
+        {
+          "category": "1",
+          "conf": 0.142,
+          "bbox": [0.4762, 0.7036, 0.0906, 0.1258]
+        }
+      ],
+      "file": "CATH23__2019-07-07__12-00-00(1).JPG",
+      "max_detection_conf": 0.181
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.71,
+          "bbox": [0.4793, 0.7422, 0.0637, 0.0894]
+        },
+        {
+          "category": "1",
+          "conf": 0.462,
+          "bbox": [0.4799, 0.715, 0.0814, 0.1145]
+        },
+        {
+          "category": "1",
+          "conf": 0.199,
+          "bbox": [0.6525, 0.8129, 0.1175, 0.0639]
+        }
+      ],
+      "file": "CATH23__2019-07-08__12-00-00(1).JPG",
+      "max_detection_conf": 0.71
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.896,
+          "bbox": [0.6549, 0.8095, 0.1023, 0.0806]
+        }
+      ],
+      "file": "CATH23__2019-07-09__12-00-00(1).JPG",
+      "max_detection_conf": 0.896
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.245,
+          "bbox": [0.4844, 0.7475, 0.0746, 0.0908]
+        }
+      ],
+      "file": "CATH23__2019-07-10__12-00-00(1).JPG",
+      "max_detection_conf": 0.245
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6145, 0.0421, 0.3842, 0.7448]
+        }
+      ],
+      "file": "CATH23__2019-07-11__08-58-25(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.3645, 0.8446, 0.613]
+        }
+      ],
+      "file": "CATH23__2019-07-11__08-58-27(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.108,
+          "bbox": [0.691, 0.8223, 0.064, 0.0476]
+        },
+        {
+          "category": "1",
+          "conf": 0.105,
+          "bbox": [0.12, 0.8106, 0.1148, 0.1012]
+        }
+      ],
+      "file": "CATH23__2019-07-11__08-58-29(3).JPG",
+      "max_detection_conf": 0.108
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.202,
+          "bbox": [0.4869, 0.7512, 0.0693, 0.097]
+        }
+      ],
+      "file": "CATH23__2019-07-11__12-00-00(1).JPG",
+      "max_detection_conf": 0.202
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-12__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-13__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.172,
+          "bbox": [0.4864, 0.7549, 0.0706, 0.0921]
+        },
+        {
+          "category": "1",
+          "conf": 0.104,
+          "bbox": [0.5101, 0.7699, 0.0452, 0.0769]
+        }
+      ],
+      "file": "CATH23__2019-07-14__12-00-00(1).JPG",
+      "max_detection_conf": 0.172
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.305,
+          "bbox": [0.4903, 0.7193, 0.0734, 0.1193]
+        },
+        {
+          "category": "1",
+          "conf": 0.161,
+          "bbox": [0.07, 0.037, 0.0971, 0.263]
+        },
+        {
+          "category": "1",
+          "conf": 0.149,
+          "bbox": [0.4849, 0.6854, 0.1526, 0.1545]
+        },
+        {
+          "category": "1",
+          "conf": 0.122,
+          "bbox": [0.4824, 0.7534, 0.0772, 0.0924]
+        }
+      ],
+      "file": "CATH23__2019-07-15__12-00-00(1).JPG",
+      "max_detection_conf": 0.305
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.227,
+          "bbox": [0.4916, 0.761, 0.0636, 0.0859]
+        }
+      ],
+      "file": "CATH23__2019-07-16__12-00-00(1).JPG",
+      "max_detection_conf": 0.227
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.858,
+          "bbox": [0.1228, 0.8054, 0.1022, 0.1082]
+        },
+        {
+          "category": "1",
+          "conf": 0.35,
+          "bbox": [0.4882, 0.7584, 0.0672, 0.0877]
+        }
+      ],
+      "file": "CATH23__2019-07-17__12-00-00(1).JPG",
+      "max_detection_conf": 0.858
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.931,
+          "bbox": [0.4823, 0.7499, 0.0945, 0.0973]
+        },
+        {
+          "category": "1",
+          "conf": 0.299,
+          "bbox": [0.4831, 0.7346, 0.1305, 0.1169]
+        },
+        {
+          "category": "1",
+          "conf": 0.143,
+          "bbox": [0.5142, 0.7538, 0.0592, 0.0884]
+        }
+      ],
+      "file": "CATH23__2019-07-18__12-00-00(1).JPG",
+      "max_detection_conf": 0.931
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.278,
+          "bbox": [0.1212, 0.7886, 0.0922, 0.1207]
+        }
+      ],
+      "file": "CATH23__2019-07-19__02-31-35(1).JPG",
+      "max_detection_conf": 0.278
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.757,
+          "bbox": [0.5042, 0.7394, 0.0551, 0.1084]
+        },
+        {
+          "category": "1",
+          "conf": 0.207,
+          "bbox": [0.5074, 0.7366, 0.0797, 0.1134]
+        },
+        {
+          "category": "1",
+          "conf": 0.119,
+          "bbox": [0.4903, 0.7575, 0.063, 0.0953]
+        },
+        {
+          "category": "1",
+          "conf": 0.111,
+          "bbox": [0.47, 0.7262, 0.1059, 0.1274]
+        }
+      ],
+      "file": "CATH23__2019-07-19__12-00-00(1).JPG",
+      "max_detection_conf": 0.757
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.466,
+          "bbox": [0.4856, 0.7527, 0.0772, 0.0817]
+        }
+      ],
+      "file": "CATH23__2019-07-20__12-00-00(1).JPG",
+      "max_detection_conf": 0.466
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-21__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.358,
+          "bbox": [0.5195, 0.7166, 0.0538, 0.1225]
+        }
+      ],
+      "file": "CATH23__2019-07-22__12-00-00(1).JPG",
+      "max_detection_conf": 0.358
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-23__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.163,
+          "bbox": [0.5117, 0.7429, 0.0509, 0.1025]
+        },
+        {
+          "category": "1",
+          "conf": 0.112,
+          "bbox": [0.1243, 0.7909, 0.0916, 0.1208]
+        },
+        {
+          "category": "1",
+          "conf": 0.103,
+          "bbox": [0.4896, 0.7304, 0.0758, 0.1152]
+        }
+      ],
+      "file": "CATH23__2019-07-24__12-00-00(1).JPG",
+      "max_detection_conf": 0.163
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.104,
+          "bbox": [0.1215, 0.8024, 0.0945, 0.1009]
+        }
+      ],
+      "file": "CATH23__2019-07-25__12-00-00(1).JPG",
+      "max_detection_conf": 0.104
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.286,
+          "bbox": [0.5203, 0.7445, 0.0482, 0.0955]
+        },
+        {
+          "category": "1",
+          "conf": 0.11,
+          "bbox": [0.494, 0.7494, 0.0715, 0.0905]
+        },
+        {
+          "category": "1",
+          "conf": 0.11,
+          "bbox": [0.5239, 0.7147, 0.0536, 0.1265]
+        }
+      ],
+      "file": "CATH23__2019-07-26__12-00-00(1).JPG",
+      "max_detection_conf": 0.286
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.208,
+          "bbox": [0.4899, 0.7431, 0.073, 0.0991]
+        },
+        {
+          "category": "1",
+          "conf": 0.133,
+          "bbox": [0.5146, 0.72, 0.051, 0.1199]
+        }
+      ],
+      "file": "CATH23__2019-07-27__12-00-00(1).JPG",
+      "max_detection_conf": 0.208
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.323,
+          "bbox": [0.1216, 0.8041, 0.088, 0.1021]
+        }
+      ],
+      "file": "CATH23__2019-07-27__13-12-42(1).JPG",
+      "max_detection_conf": 0.323
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-28__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-29__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.242,
+          "bbox": [0.4831, 0.76, 0.0785, 0.0863]
+        },
+        {
+          "category": "1",
+          "conf": 0.116,
+          "bbox": [0.2746, 0.7754, 0.1203, 0.0939]
+        }
+      ],
+      "file": "CATH23__2019-07-30__10-27-07(1).JPG",
+      "max_detection_conf": 0.242
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-30__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-07-31__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.107,
+          "bbox": [0.5159, 0.7179, 0.0511, 0.1267]
+        }
+      ],
+      "file": "CATH23__2019-08-01__12-00-00(1).JPG",
+      "max_detection_conf": 0.107
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.657,
+          "bbox": [0.4863, 0.7444, 0.0808, 0.0998]
+        }
+      ],
+      "file": "CATH23__2019-08-02__12-00-00(1).JPG",
+      "max_detection_conf": 0.657
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.127,
+          "bbox": [0.5197, 0.7156, 0.0445, 0.1269]
+        }
+      ],
+      "file": "CATH23__2019-08-03__12-00-00(1).JPG",
+      "max_detection_conf": 0.127
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.263,
+          "bbox": [0.5138, 0.7143, 0.0531, 0.1228]
+        },
+        {
+          "category": "1",
+          "conf": 0.184,
+          "bbox": [0.4894, 0.7311, 0.0746, 0.1069]
+        }
+      ],
+      "file": "CATH23__2019-08-04__12-00-00(1).JPG",
+      "max_detection_conf": 0.263
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-05__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.462,
+          "bbox": [0.4843, 0.7514, 0.0772, 0.0852]
+        }
+      ],
+      "file": "CATH23__2019-08-06__12-00-00(1).JPG",
+      "max_detection_conf": 0.462
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-07__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.224,
+          "bbox": [0.6862, 0.8057, 0.0781, 0.0526]
+        }
+      ],
+      "file": "CATH23__2019-08-08__12-00-00(1).JPG",
+      "max_detection_conf": 0.224
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-09__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-10__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-11__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.645,
+          "bbox": [0.4839, 0.7123, 0.0811, 0.1236]
+        },
+        {
+          "category": "1",
+          "conf": 0.102,
+          "bbox": [0.4873, 0.699, 0.1439, 0.1359]
+        }
+      ],
+      "file": "CATH23__2019-08-12__12-00-00(1).JPG",
+      "max_detection_conf": 0.645
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.613,
+          "bbox": [0.6798, 0.809, 0.0869, 0.0694]
+        },
+        {
+          "category": "1",
+          "conf": 0.186,
+          "bbox": [0.4913, 0.7554, 0.0679, 0.085]
+        }
+      ],
+      "file": "CATH23__2019-08-13__12-00-00(1).JPG",
+      "max_detection_conf": 0.613
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.316,
+          "bbox": [0.483, 0.7225, 0.0876, 0.1203]
+        }
+      ],
+      "file": "CATH23__2019-08-14__12-00-00(1).JPG",
+      "max_detection_conf": 0.316
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.524,
+          "bbox": [0.4869, 0.7439, 0.0737, 0.1015]
+        },
+        {
+          "category": "1",
+          "conf": 0.105,
+          "bbox": [0.4844, 0.7024, 0.1007, 0.1478]
+        }
+      ],
+      "file": "CATH23__2019-08-15__12-00-00(1).JPG",
+      "max_detection_conf": 0.524
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-16__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-17__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-18__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-19__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-20__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.118,
+          "bbox": [0.4825, 0.7062, 0.0827, 0.1379]
+        }
+      ],
+      "file": "CATH23__2019-08-21__12-00-00(1).JPG",
+      "max_detection_conf": 0.118
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.177,
+          "bbox": [0.6744, 0.8094, 0.0954, 0.0752]
+        }
+      ],
+      "file": "CATH23__2019-08-22__12-00-00(1).JPG",
+      "max_detection_conf": 0.177
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-23__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.327,
+          "bbox": [0.4849, 0.7472, 0.0765, 0.0963]
+        }
+      ],
+      "file": "CATH23__2019-08-24__12-00-00(1).JPG",
+      "max_detection_conf": 0.327
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-25__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.842,
+          "bbox": [0.4927, 0.7391, 0.064, 0.1035]
+        },
+        {
+          "category": "1",
+          "conf": 0.28,
+          "bbox": [0.4562, 0.73, 0.1069, 0.1169]
+        }
+      ],
+      "file": "CATH23__2019-08-26__12-00-00(1).JPG",
+      "max_detection_conf": 0.842
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.0003, 0.352, 0.3037, 0.6223]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-42(1).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0022, 0.0186, 0.5151, 0.9581]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-44(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0016, 0.0257, 0.4954, 0.96]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-45(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0, 0.018, 0.4454, 0.9631]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-46(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0002, 0.0146, 0.513, 0.9683]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-47(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0026, 0.0116, 0.4836, 0.9794]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-50(6).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0028, 0.0145, 0.4656, 0.969]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-52(7).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0001, 0.0222, 0.6695, 0.9632]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-54(8).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0032, 0.0619, 0.8477, 0.919]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-55(9).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4967, 0.254, 0.4411, 0.7241]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-57(10).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6525, 0.3117, 0.2217, 0.6774]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-43-59(11).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5977, 0.3693, 0.2778, 0.6108]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-44-00(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5408, 0.3967, 0.2782, 0.5827]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-44-01(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.493, 0.3981, 0.3271, 0.5819]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-44-03(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5814, 0.4124, 0.2277, 0.5684]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-44-26(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5626, 0.4725, 0.192, 0.4463]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-44-35(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5554, 0.4722, 0.1397, 0.4547]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-44-36(6).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5414, 0.474, 0.1732, 0.4514]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-44-38(7).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.513, 0.4834, 0.2056, 0.4388]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-44-52(8).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.5456, 0.486, 0.1755, 0.4417]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-44-57(9).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.5567, 0.5438, 0.1377, 0.3508]
+        },
+        {
+          "category": "1",
+          "conf": 0.205,
+          "bbox": [0.5255, 0.7164, 0.0692, 0.1429]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-45-15(1).JPG",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6075, 0.5404, 0.3178, 0.3436]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-45-29(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6028, 0.5445, 0.3916, 0.3427]
+        }
+      ],
+      "file": "CATH23__2019-08-26__14-45-30(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.674,
+          "bbox": [0.4829, 0.7502, 0.0801, 0.0896]
+        }
+      ],
+      "file": "CATH23__2019-08-27__12-00-00(1).JPG",
+      "max_detection_conf": 0.674
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.676,
+          "bbox": [0.5108, 0.7476, 0.0486, 0.092]
+        },
+        {
+          "category": "1",
+          "conf": 0.101,
+          "bbox": [0.4874, 0.7402, 0.0727, 0.0901]
+        }
+      ],
+      "file": "CATH23__2019-08-28__12-00-00(1).JPG",
+      "max_detection_conf": 0.676
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-28__12-33-32(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.217,
+          "bbox": [0.6646, 0.8032, 0.1089, 0.071]
+        }
+      ],
+      "file": "CATH23__2019-08-29__12-00-00(1).JPG",
+      "max_detection_conf": 0.217
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-30__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-08-31__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-01__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-02__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.685,
+          "bbox": [0.1079, 0.7601, 0.0979, 0.1515]
+        }
+      ],
+      "file": "CATH23__2019-09-03__12-00-00(1).JPG",
+      "max_detection_conf": 0.685
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.99,
+          "bbox": [0.8967, 0.7287, 0.102, 0.2526]
+        },
+        {
+          "category": "1",
+          "conf": 0.203,
+          "bbox": [0.1108, 0.7941, 0.1244, 0.1184]
+        },
+        {
+          "category": "1",
+          "conf": 0.147,
+          "bbox": [0.1219, 0.808, 0.0947, 0.0868]
+        }
+      ],
+      "file": "CATH23__2019-09-03__18-55-50(1).JPG",
+      "max_detection_conf": 0.99
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.048, 0.6702, 0.9487, 0.3082]
+        }
+      ],
+      "file": "CATH23__2019-09-03__18-55-53(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-04__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-05__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-06__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.849,
+          "bbox": [0.4853, 0.7516, 0.0749, 0.0966]
+        },
+        {
+          "category": "1",
+          "conf": 0.182,
+          "bbox": [0.4804, 0.7197, 0.0956, 0.1337]
+        }
+      ],
+      "file": "CATH23__2019-09-07__12-00-00(1).JPG",
+      "max_detection_conf": 0.849
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-08__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.932,
+          "bbox": [0.4851, 0.7065, 0.0816, 0.1411]
+        }
+      ],
+      "file": "CATH23__2019-09-09__12-00-00(1).JPG",
+      "max_detection_conf": 0.932
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.391,
+          "bbox": [0.4837, 0.747, 0.0753, 0.0937]
+        },
+        {
+          "category": "1",
+          "conf": 0.127,
+          "bbox": [0.4845, 0.7558, 0.0542, 0.0642]
+        },
+        {
+          "category": "1",
+          "conf": 0.12,
+          "bbox": [0.4828, 0.7023, 0.0879, 0.1429]
+        }
+      ],
+      "file": "CATH23__2019-09-10__12-00-00(1).JPG",
+      "max_detection_conf": 0.391
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.103,
+          "bbox": [0.2618, 0.7748, 0.0627, 0.0425]
+        }
+      ],
+      "file": "CATH23__2019-09-11__12-00-00(1).JPG",
+      "max_detection_conf": 0.103
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-12__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.184,
+          "bbox": [0.4905, 0.7431, 0.059, 0.0923]
+        }
+      ],
+      "file": "CATH23__2019-09-13__12-00-00(1).JPG",
+      "max_detection_conf": 0.184
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-14__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-14__19-53-58(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.7877, 0.2327, 0.2122, 0.4393]
+        }
+      ],
+      "file": "CATH23__2019-09-14__19-54-13(1).JPG",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.6295, 0.1105, 0.3704, 0.6783]
+        }
+      ],
+      "file": "CATH23__2019-09-14__19-54-14(2).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0483, 0.0178, 0.8496, 0.9595]
+        },
+        {
+          "category": "1",
+          "conf": 0.279,
+          "bbox": [0.4041, 0.0608, 0.5021, 0.8934]
+        }
+      ],
+      "file": "CATH23__2019-09-14__19-54-15(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0037, 0.0207, 0.7555, 0.9642]
+        }
+      ],
+      "file": "CATH23__2019-09-14__19-54-17(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-14__19-54-19(5).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.551,
+          "bbox": [0.4876, 0.7111, 0.0789, 0.1136]
+        },
+        {
+          "category": "1",
+          "conf": 0.121,
+          "bbox": [0.4849, 0.738, 0.0654, 0.0989]
+        },
+        {
+          "category": "1",
+          "conf": 0.1,
+          "bbox": [0.4892, 0.7541, 0.052, 0.0642]
+        }
+      ],
+      "file": "CATH23__2019-09-15__12-00-00(1).JPG",
+      "max_detection_conf": 0.551
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.305,
+          "bbox": [0.4867, 0.7148, 0.0838, 0.1208]
+        }
+      ],
+      "file": "CATH23__2019-09-16__12-00-00(1).JPG",
+      "max_detection_conf": 0.305
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.839,
+          "bbox": [0.481, 0.7053, 0.0889, 0.1441]
+        }
+      ],
+      "file": "CATH23__2019-09-17__12-00-00(1).JPG",
+      "max_detection_conf": 0.839
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-18__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-19__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-20__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.0064, 0.443, 0.1451, 0.3306]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-38-46(1).JPG",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0038, 0.4397, 0.4327, 0.5385]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-38-47(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0102, 0.4425, 0.6082, 0.5345]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-38-48(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.204, 0.4496, 0.5404, 0.5199]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-38-49(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.4372, 0.4377, 0.5399, 0.4967]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-38-50(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7213, 0.4476, 0.2781, 0.4311]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-38-52(6).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.14,
+          "bbox": [0.9819, 0.4771, 0.0168, 0.104]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-38-53(7).JPG",
+      "max_detection_conf": 0.14
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.997,
+          "bbox": [0.9396, 0.3395, 0.0596, 0.2532]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-39-51(1).JPG",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7969, 0.2797, 0.2023, 0.5238]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-39-52(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.7523, 0.1428, 0.247, 0.8428]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-39-53(3).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6807, 0.1116, 0.3188, 0.868]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-39-55(4).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6777, 0.112, 0.3222, 0.8666]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-39-57(5).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6744, 0.1125, 0.3255, 0.8711]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-39-59(6).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6833, 0.1135, 0.3166, 0.8764]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-40-00(1).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.6905, 0.018, 0.2992, 0.9621]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-40-02(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.998,
+          "bbox": [0.6481, 0.0307, 0.2725, 0.9536]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-43-26(1).JPG",
+      "max_detection_conf": 0.998
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.999,
+          "bbox": [0.0037, 0.0166, 0.6513, 0.9679]
+        }
+      ],
+      "file": "CATH23__2019-09-20__20-43-28(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-20__20-43-29(3).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-20__20-43-31(4).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-21__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.141,
+          "bbox": [0.4908, 0.7509, 0.0516, 0.0817]
+        },
+        {
+          "category": "1",
+          "conf": 0.112,
+          "bbox": [0.4897, 0.7046, 0.0756, 0.1288]
+        }
+      ],
+      "file": "CATH23__2019-09-22__12-00-00(1).JPG",
+      "max_detection_conf": 0.141
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.896,
+          "bbox": [0.4893, 0.7055, 0.0807, 0.1505]
+        },
+        {
+          "category": "1",
+          "conf": 0.154,
+          "bbox": [0.4871, 0.7024, 0.1164, 0.1769]
+        },
+        {
+          "category": "1",
+          "conf": 0.117,
+          "bbox": [0.488, 0.7429, 0.0688, 0.0922]
+        }
+      ],
+      "file": "CATH23__2019-09-23__12-00-00(1).JPG",
+      "max_detection_conf": 0.896
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.466,
+          "bbox": [0.4927, 0.7037, 0.0795, 0.1249]
+        }
+      ],
+      "file": "CATH23__2019-09-24__12-00-00(1).JPG",
+      "max_detection_conf": 0.466
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.185,
+          "bbox": [0.5484, 0.8106, 0.1883, 0.1263]
+        }
+      ],
+      "file": "CATH23__2019-09-25__12-00-00(1).JPG",
+      "max_detection_conf": 0.185
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.776,
+          "bbox": [0.4891, 0.7058, 0.0808, 0.1359]
+        },
+        {
+          "category": "1",
+          "conf": 0.258,
+          "bbox": [0.2532, 0.8424, 0.0447, 0.0562]
+        },
+        {
+          "category": "1",
+          "conf": 0.162,
+          "bbox": [0.4882, 0.7495, 0.0712, 0.0841]
+        }
+      ],
+      "file": "CATH23__2019-09-26__12-00-00(1).JPG",
+      "max_detection_conf": 0.776
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.554,
+          "bbox": [0.4971, 0.699, 0.1379, 0.1346]
+        }
+      ],
+      "file": "CATH23__2019-09-27__12-00-00(1).JPG",
+      "max_detection_conf": 0.554
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-28__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-29__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-09-30__12-00-00(1).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.982,
+          "bbox": [0.1605, 0.3703, 0.139, 0.2122]
+        },
+        {
+          "category": "1",
+          "conf": 0.672,
+          "bbox": [0.1613, 0.3711, 0.0439, 0.1096]
+        },
+        {
+          "category": "1",
+          "conf": 0.2,
+          "bbox": [0.1864, 0.4221, 0.1115, 0.1489]
+        },
+        {
+          "category": "1",
+          "conf": 0.12,
+          "bbox": [0.1614, 0.3623, 0.0536, 0.1792]
+        }
+      ],
+      "file": "CATH23__2019-10-01__12-00-00(1).JPG",
+      "max_detection_conf": 0.982
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.696,
+          "bbox": [0.5244, 0.6638, 0.1043, 0.0852]
+        },
+        {
+          "category": "1",
+          "conf": 0.378,
+          "bbox": [0.523, 0.6607, 0.1536, 0.0979]
+        },
+        {
+          "category": "2",
+          "conf": 0.293,
+          "bbox": [0.8344, 0.0177, 0.0918, 0.1427]
+        },
+        {
+          "category": "1",
+          "conf": 0.237,
+          "bbox": [0.8363, 0.0205, 0.0735, 0.1313]
+        },
+        {
+          "category": "2",
+          "conf": 0.181,
+          "bbox": [0.8361, 0.0186, 0.147, 0.1438]
+        },
+        {
+          "category": "1",
+          "conf": 0.145,
+          "bbox": [0.5288, 0.6657, 0.0611, 0.0798]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-50-57(1).JPG",
+      "max_detection_conf": 0.696
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.999,
+          "bbox": [0.0081, 0.0133, 0.6118, 0.9608]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-50-59(2).JPG",
+      "max_detection_conf": 0.999
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.436,
+          "bbox": [0.522, 0.6599, 0.1092, 0.0913]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-51-00(1).JPG",
+      "max_detection_conf": 0.436
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-01__13-51-04(2).JPG",
+      "max_detection_conf": 0
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.682,
+          "bbox": [0.5224, 0.6608, 0.1107, 0.0894]
+        },
+        {
+          "category": "1",
+          "conf": 0.436,
+          "bbox": [0.5193, 0.6466, 0.1544, 0.1087]
+        },
+        {
+          "category": "1",
+          "conf": 0.196,
+          "bbox": [0.519, 0.6652, 0.071, 0.0897]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-51-07(3).JPG",
+      "max_detection_conf": 0.682
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.75,
+          "bbox": [0.5249, 0.662, 0.1196, 0.0925]
+        },
+        {
+          "category": "1",
+          "conf": 0.191,
+          "bbox": [0.5208, 0.6636, 0.0744, 0.0863]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-51-15(4).JPG",
+      "max_detection_conf": 0.75
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.706,
+          "bbox": [0.5255, 0.6649, 0.0623, 0.09]
+        },
+        {
+          "category": "1",
+          "conf": 0.558,
+          "bbox": [0.5266, 0.6628, 0.1071, 0.0906]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-51-21(5).JPG",
+      "max_detection_conf": 0.706
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.995,
+          "bbox": [0.0028, 0.0193, 0.2292, 0.9596]
+        },
+        {
+          "category": "2",
+          "conf": 0.101,
+          "bbox": [0.0038, 0.0203, 0.6682, 0.9545]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-51-23(6).JPG",
+      "max_detection_conf": 0.995
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.997,
+          "bbox": [0.0026, 0.0194, 0.1247, 0.9562]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-51-23(7).JPG",
+      "max_detection_conf": 0.997
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.824,
+          "bbox": [0.5238, 0.666, 0.0767, 0.0886]
+        },
+        {
+          "category": "1",
+          "conf": 0.591,
+          "bbox": [0.5221, 0.6586, 0.1392, 0.1029]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-51-25(8).JPG",
+      "max_detection_conf": 0.824
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.778,
+          "bbox": [0.526, 0.6658, 0.0901, 0.091]
+        },
+        {
+          "category": "1",
+          "conf": 0.702,
+          "bbox": [0.523, 0.6602, 0.1404, 0.1027]
+        },
+        {
+          "category": "1",
+          "conf": 0.298,
+          "bbox": [0.5267, 0.6658, 0.0567, 0.0862]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-51-27(9).JPG",
+      "max_detection_conf": 0.778
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.43,
+          "bbox": [0.5562, 0.422, 0.4403, 0.2369]
+        },
+        {
+          "category": "1",
+          "conf": 0.227,
+          "bbox": [0.1752, 0.3294, 0.8159, 0.4833]
+        },
+        {
+          "category": "1",
+          "conf": 0.121,
+          "bbox": [0.1045, 0.4128, 0.89, 0.2972]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-52-41(1).JPG",
+      "max_detection_conf": 0.43
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.848,
+          "bbox": [0.4131, 0.6543, 0.0628, 0.0908]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-52-42(2).JPG",
+      "max_detection_conf": 0.848
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.874,
+          "bbox": [0.2915, 0.6423, 0.0658, 0.0841]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-53-08(1).JPG",
+      "max_detection_conf": 0.874
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.966,
+          "bbox": [0.2916, 0.643, 0.0668, 0.0876]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-53-09(2).JPG",
+      "max_detection_conf": 0.966
+    },
+    {
+      "detections": [
+        {
+          "category": "1",
+          "conf": 0.189,
+          "bbox": [0.001, 0.405, 0.0236, 0.0992]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-53-11(3).JPG",
+      "max_detection_conf": 0.189
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.964,
+          "bbox": [0.0056, 0.0314, 0.9864, 0.9419]
+        },
+        {
+          "category": "2",
+          "conf": 0.296,
+          "bbox": [0.3414, 0.4266, 0.6558, 0.5366]
+        },
+        {
+          "category": "2",
+          "conf": 0.164,
+          "bbox": [0.9273, 0.4187, 0.0678, 0.1264]
+        },
+        {
+          "category": "1",
+          "conf": 0.164,
+          "bbox": [0.0004, 0.0775, 0.672, 0.8925]
+        },
+        {
+          "category": "2",
+          "conf": 0.128,
+          "bbox": [0.6027, 0.4415, 0.3958, 0.5376]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-53-19(4).JPG",
+      "max_detection_conf": 0.964
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.98,
+          "bbox": [0, 0.021, 0.9292, 0.9531]
+        },
+        {
+          "category": "2",
+          "conf": 0.57,
+          "bbox": [0.6523, 0.4019, 0.3476, 0.5621]
+        },
+        {
+          "category": "2",
+          "conf": 0.357,
+          "bbox": [0.228, 0.1626, 0.7719, 0.7995]
+        },
+        {
+          "category": "1",
+          "conf": 0.195,
+          "bbox": [0.6583, 0.3969, 0.3383, 0.5823]
+        },
+        {
+          "category": "2",
+          "conf": 0.101,
+          "bbox": [0.005, 0.2808, 0.7301, 0.7002]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-53-21(5).JPG",
+      "max_detection_conf": 0.98
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.94,
+          "bbox": [0.0232, 0.0271, 0.9702, 0.9662]
+        },
+        {
+          "category": "2",
+          "conf": 0.762,
+          "bbox": [0, 0.0287, 0.6048, 0.9534]
+        },
+        {
+          "category": "2",
+          "conf": 0.686,
+          "bbox": [0.4347, 0.0271, 0.5563, 0.9554]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-53-23(6).JPG",
+      "max_detection_conf": 0.94
+    },
+    {
+      "detections": [
+        {
+          "category": "2",
+          "conf": 0.993,
+          "bbox": [0, 0.0126, 0.5615, 0.9655]
+        },
+        {
+          "category": "2",
+          "conf": 0.965,
+          "bbox": [0.0602, 0.0274, 0.924, 0.9726]
+        }
+      ],
+      "file": "CATH23__2019-10-01__13-53-25(7).JPG",
+      "max_detection_conf": 0.993
+    },
+    {
+      "detections": [],
+      "file": "CATH23__2019-10-01__13-53-26(8).JPG",
+      "max_detection_conf": 0
+    }
+  ]
+}
