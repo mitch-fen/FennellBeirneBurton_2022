@@ -12,7 +12,7 @@ library(lubridate)
 # REMEMBER -> ONLY LABELED IMAGES ARE EXPORTED FROM THE DATABASE...NOT BLANKS.
 # All images were manually classified, so we assume anything without a classification to be blank!
 
-## Image classifications ####
+## Image classifications ##
 id <- read.csv("InputData/images_idents_clean.csv", header=T)
 
 # Remove deleted image classifications
@@ -23,7 +23,7 @@ table(id$latin_name, id$misfire)
 id <- id[id$misfire!="t",]
 id <- id[id$latin_name!="No animal",]
 
-## Merge the mega detector output ####
+## Merge the mega detector output ##
 file.list <- list.files("./InputData/MD_output")
 mega <- do.call(rbind, lapply(list.files("./InputData/MD_output", full.names = T), read.csv))
 
@@ -95,7 +95,7 @@ mega_cut[duplicated(mega),]
 # Do we ever multiple designations per image?
 table(mega$file, mega$cat) # yes all the time!
 
-## Filter by confidence threshold ####
+## Filter by confidence threshold ##
 #Improves things
 table(mega$file[mega$conf>0.9], mega$cat[mega$conf>0.9])
 
@@ -178,11 +178,11 @@ str(mega_simple)
 tmp1 <- as.data.frame(table(as.character(mega_simple$file)))
 table(tmp1$Freq)
 
-## Create analysis dataframe ####
+## Create analysis dataframe ##
 final <- rbind(id_simple, mega_simple)
 
 
-### 5. Analyze human detections! ####
+### 5. Analyze human detections ####
 
 # Deal with Vehicles
 # Sometimes vehicles in MD will also classify person (on a bike, in window of car, etc.)
@@ -203,7 +203,7 @@ abline(h=max(tmp$Freq), lty=2)
 table(final$method)
 
 
-## True positive ####
+## True positive ##
 # If it is ID'd as human manually - does MD pick it up?
 tmp1 <- final[final$method=="human_id" & final$id=="Human",]
 
@@ -218,7 +218,7 @@ abline(h=max(true.pos$Images), lty=2)
 
 true.pos$Percentage <- round(true.pos$Images/max(true.pos$Images)*100,1)
 
-## True negative ####
+## True negative ##
 # Subset what was labeled as not human 
 tmp1 <- final[final$method=="human_id" & (!final$id=="Human"),]
 table(tmp1$id)
@@ -241,7 +241,7 @@ true.neg$Percentage <- round(true.neg$Images/max(true.neg$Images)*100,1)
 barplot(true.neg$Images, las=2, names.arg=true.neg$Method, main = "True.Neg")
 abline(h=max(true.neg$Images), lty=2)
 
-## False positive ####
+## False positive ##
 # Everything that is NOT HUMAN
 tmp1 <- final[final$method=="human_id" & (!final$id=="Human"),]
 table(tmp1$id)
@@ -256,7 +256,7 @@ false.pos$Percentage <- round(false.pos$Images/max(false.pos$Images)*100,1)
 barplot(false.pos$Images, las=2, names.arg=false.pos$Method, main = "False.Pos")
 abline(h=max(false.pos$Images), lty=2)
 
-## False negative ####
+## False negative ##
 # Labelled as human, missed by MD
 tmp1 <- final[final$method=="human_id" & final$id=="Human",]
 
@@ -273,7 +273,7 @@ false.neg$Percentage <- round(false.neg$Images/max(false.neg$Images)*100,1)
 barplot(false.neg$Images, las=2, names.arg=false.neg$Method, main = "False.Neg")
 abline(h=max(false.neg$Images), lty=2)
 
-## Summary stats ####
+## Summary stats ###
 true.pos #94.7
 true.neg #99.3
 false.neg #5.3
@@ -301,7 +301,7 @@ F_score_hum <- (2*prec*sens)/(prec+sens)
 
 head(final)
 
- ## plot by station ####
+ ## plot by station ##
 # Split by station
 final$Deployment.Location.ID <- substr(final$file, 1,6)
 library(dplyr)
@@ -324,12 +324,12 @@ CR_by_site <- CR_final %>%
 
 abline(lm(megadetector~human_id, data = CR_by_site), lty = 1, col = "blue")
 
-## Quick regression of human image performance ####
+## Quick regression of human image performance ##
 lm(megadetector~human_id, data = CR_by_site) #0.96 corr coef
 
 ### 6. Analyze animal detections ####
 
-## True positive ####
+## True positive ##
 # If it is ID'd as animal by manual ID, does MD pick it up?
 tmp1 <- final[final$method=="human_id" & final$id=="Animal",]
 
@@ -341,7 +341,7 @@ par(mfrow=c(1,4))
 barplot(true.pos$Images, las=1, names.arg=true.pos$Method)
 abline(h=max(true.pos$Images), lty=2)
 
-## True -negative ####
+## True -negative ##
 # Subset what was labeled as not animal 
 tmp1 <- final[final$method=="human_id" & (!final$id=="Animal"),]
 table(tmp1$id)
@@ -362,7 +362,7 @@ true.neg <- data.frame("Method"=c("Human_id","Megadetector"), "Images"=c(length(
 barplot(true.neg$Images, las=1, names.arg=true.neg$Method)
 abline(h=max(true.neg$Images), lty=2)
 
-## False positive ####
+## False positive ##
 # Everything that is NOT animal
 tmp1 <- final[final$method=="human_id" & (!final$id=="Animal"),]
 table(tmp1$id)
@@ -376,7 +376,7 @@ false.pos <- data.frame("Method"=c("Human_id","Megadetector"), "Images"=c(length
 barplot(false.pos$Images, las=1, names.arg=false.pos$Method)
 abline(h=max(false.pos$Images), lty=2)
 
-## False negative ####
+## False negative ##
 tmp1 <- final[final$method=="human_id" & final$id=="Animal",]
 
 tmp2 <- final[final$method=="megadetector" & (!final$id=="Animal") & final$file %in% tmp1$file,]
@@ -389,7 +389,7 @@ false.neg <- data.frame("Method"=c("Human_id","Megadetector"), "Images"=c(length
 barplot(false.neg$Images, las=1, names.arg=false.neg$Method)
 abline(h=max(false.neg$Images), lty=2)
 
-## Summary stats ####
+## Summary stats ##
 
 true.pos$Percentage <- round(true.pos$Images/max(true.pos$Images)*100,1)
 true.pos #92.3
@@ -442,7 +442,7 @@ CR_by_site <- CR_final %>%
 
 abline(lm(megadetector~human_id, data = CR_by_site), lty = 1, col = "blue")
 
-## Quick regression of animal image performance ####
+## Quick regression of animal image performance ##
 lm(megadetector~human_id, data = CR_by_site) #0.89 corr coef
 
 
@@ -474,7 +474,7 @@ length(setdiff(id_humans$orig_file, mega_humans$file))
 setdiff(id_humans$orig_file, mega_humans$file)
 
 
-## Independence loop for manual ID ####
+## 7.1 Independence loop for manual ID ####
 dat <- id_humans
 independent <- 5
 
@@ -554,7 +554,7 @@ ind.dat$Species <-as.factor(ind.dat$Species)
 ind.dat.id <- ind.dat
 
 
-## Independence loop for MegaDetector ID ####
+## 7.2 Independence loop for MegaDetector ID ####
 library(stringr)
 
 dat <- mega_humans
@@ -649,7 +649,7 @@ ind.dat$Species <-as.factor(ind.dat$Species)
 ind.dat.mega <- ind.dat
 
 
-## Save both mega and human ID'd independent data to file ####
+## Save both mega and human ID'd independent data to file ##
 write.csv(ind.dat.mega, "D:/Mitch/MD-calibration/ind.dat.mega.csv", row.names = F)
 write.csv(ind.dat.id, "D:/Mitch/MD-calibration/ind.dat.id.csv", row.names = F)
 
@@ -662,10 +662,10 @@ setdiff(ind.dat.id$orig_file, ind.dat.mega$file)
 # -> Matrix chunk of exploration .RMD
 
 
-eff <- read.csv("CATH_Deployments_Mar08.csv", header=T) # Read in deployment data
-eff <- filter(eff, Deployment.Location.ID != "CATH33" & Deployment.Location.ID != "CATH08" & Deployment.Location.ID != "CATH25" & Deployment.Location.ID != "CATH22") # Match with sites from beginning
+eff <- read.csv("InputData/CATH_Deployments.csv", header=T) # Read in deployment data
+eff <- filter(eff, Deployment.Location.ID != "CATH33" & Deployment.Location.ID != "CATH08" & Deployment.Location.ID != "CATH25" & Deployment.Location.ID != "CATH22") # Remove sites with missing data and name errors
 
-## Formatting ####
+## Formatting ##
 # Date formatting
 tz <- "UTC"
 as.Date(ymd_hms(eff$Camera.Deployment.Begin.Date[1], truncated=3))
@@ -689,7 +689,7 @@ for(i in 1:nrow(tmp))
   }
 }
 
-## Weekly matrix of human classified data (human counts) ####
+## Weekly matrix of human classified data (human counts) ##
 ind.dat.id$Species <- factor(ind.dat.id$Species)
 
 
@@ -723,7 +723,7 @@ for(i in 1:nrow(week.obs))
 write.csv(week.obs, paste0("CATH_manual_Independent_weekly_observations.csv"), row.names = F) 
 write.csv(week.count, paste0("CATH_manual_Independent_weekly_counts.csv"), row.names = F) 
 
-## Weekly matrix of megadetector classified data (human counts) ####
+## Weekly matrix of megadetector classified data (human counts) ##
 ind.dat.mega$Species <- factor(ind.dat.mega$Species)
 tmp <- bind_rows(daily.lookup)
 
@@ -756,7 +756,7 @@ for(i in 1:nrow(week.obs))
 write.csv(week.obs, paste0("CATH_megadetector_Independent_weekly_observations.csv"), row.names = F) 
 write.csv(week.count, paste0("CATH_megadetector_Independent_weekly_counts.csv"), row.names = F) 
 
-## Compare site-week output matrices ####
+## Compare site-week output matrices ##
 
 # Read in weekly detection counts from above
 weekly.manual <- read.csv("CATH_manual_Independent_weekly_observations.csv", header = T)
@@ -809,7 +809,7 @@ weekly.by.site.summ$percent.diff[is.na(weekly.by.site.summ$percent.diff)] <- 0
 weekly.by.site.summ <- weekly.by.site.summ %>% 
   filter_all(all_vars(!is.infinite(.))) # Remove site weeks where infinite error due to division by 0
 
-# Summary stats ####
+# Summary stats ##
 mean(weekly.by.site.summ$percent.diff) #0.45% mean difference
 
 mean(weekly.by.site.summ$Human.Manual)
@@ -825,12 +825,12 @@ max(weekly.by.site.summ$diff) #3
 
 
 
-## Run a quick regression on the relationship between MD and Manual ####
+## Run a quick regression on the relationship between MD and Manual ##
 mod1 <- lm(Human.Manual~Human.MD, data = weekly.by.site.summ)
 mod1
 summary(mod1)
 
-## Summary plots (publication figures) ####
+## 9. Summary plots (publication figures) ####
 
 # Figure 1
 final$Deployment.Location.ID <- substr(final$file, 1,6)
@@ -883,4 +883,173 @@ plot(weekly.by.site.summ$Human.Manual~
 abline(a=0, b=1, lty=2)
 #abline(lm(Human.MD~Human.Manual, data = weekly.by.site.summ), col = "blue") # Too busy with overlapping lines
 
+## 10. Precision Recall Curve (Fig S1) ####
+library(MESS)
+library(ggplot2)
+## Looping version ##
+
+# Create output DF for plotting curve
+
+pr_rec_df <- data.frame(matrix(ncol = 4, nrow = 0))
+names <- c("conf","prec","recall","F-score")
+colnames(pr_rec_df) <- names
+
+# Iterate human detecton analysis using confidence thresholds from 0 - 0.9
+for (c in seq(0, 0.9, 0.1)){
+  table(mega$file[mega$conf>c], mega$cat[mega$conf>c])
+  
+  mega_cut_0.1 <- mega[mega$conf>c,]
+  
+  # Add in missing (blank and misfire) files to manual ID #
+  # Merge the dataframes
+  id_simple <- id_cut[,c("orig_file", "group_count", "latin_name", "behaviour") ]
+  colnames(id_simple) <- c("file", "count", "id", "type")
+  id_simple$method <- "human_id"
+  id_simple$Probability <- NA
+  
+  # Simplify species ID's to "Human or Animal"
+  id_simple$id <- as.character(id_simple$id)
+  id_simple$id[id_simple$id=="Homo sapiens"] <- "Human"
+  id_simple$id[!id_simple$id=="Human"] <- "Animal"
+  
+  # Add in the blanks to the HUMAN ID DATAFRAME
+  missing <- data.frame(file=missing$file, count=0, id="Blank", type=NA, method="human_id", "Probability"=NA)
+  missing<- missing[duplicated(missing)==FALSE,]
+  
+  # Join
+  id_simple <- rbind(id_simple, missing)
+  
+  # Add in cut classifications to MD ID's due to thresholding above #
+  # Add them in as blanks
+  missing <- id_simple[!id_simple$file %in% mega_cut_0.1$file,]
+  missing <- data.frame(file=missing$file, cat="Blank", conf=NA, Method="mega")
+  missing<- missing[duplicated(missing)==FALSE,]
+  mega_cut_0.1 <-rbind(mega_cut_0.1, missing)
+  
+  # Simplify
+  mega_simple_0.1 <- mega_cut_0.1 %>% 
+    group_by(file, cat) %>% 
+    dplyr::summarise(count=n(), Probability = mean(conf, na.rm=TRUE)) 
+  
+  mega_simple_0.1 <- as.data.frame(mega_simple_0.1)
+  
+  # Fix up column names
+  colnames(mega_simple_0.1) <- c("file", "id", "count", "Probability")
+  
+  mega_simple_0.1$type <- NA
+  mega_simple_0.1$method <- "megadetector"
+  mega_simple_0.1 <- mega_simple_0.1[, c("file","count", "id", "type", "method", "Probability")]
+  
+  ## Create analysis dataframe ##
+  final <- rbind(id_simple, mega_simple_0.1)
+  
+  ## Analyze human detections! ##
+  
+  # Deal with Vehicles
+  # Sometimes vehicles in MD will also classify person (on a bike, in window of car, etc.)
+  table(final$type)
+  final$id[final$type=="mountain biking"] <- "Vehicle"
+  final$id[final$type=="truck/car"] <- "Vehicle"
+  final$id[final$type=="quad/motorbike"] <- "Vehicle"
+  final$id[final$type=="snowmobile"] <- "Vehicle"
+  
+  ## True positive ###
+  # If it is ID'd as human manually - does MD pick it up?
+  tmp1 <- final[final$method=="human_id" & final$id=="Human",]
+  
+  tmp2 <- final[final$method=="megadetector" & final$id=="Human" & final$file %in% tmp1$file,]
+  
+  true.pos <- data.frame("Method"=c("Human_id","Megadetector"), "Images"=c(length(unique(tmp1$file)),length(unique(tmp2$file)))) 
+  
+  true.pos$Percentage <- round(true.pos$Images/max(true.pos$Images)*100,1)
+  
+  ## True negative ###
+  # Subset what was labeled as not human 
+  tmp1 <- final[final$method=="human_id" & (!final$id=="Human"),]
+  table(tmp1$id)
+  
+  # What mega detector thought not human (blank or animal or vehicle) 
+  tmp2 <- final[final$method=="megadetector" & (!final$id=="Human") & final$file %in% tmp1$file,]
+  # But some of these may have "human too"
+  tmp4 <- final[final$method=="megadetector" & final$id=="Human" & final$file %in% tmp1$file,]
+  tmp2[tmp2$file %in% tmp4$file,] #YES ARGH
+  
+  # Remove the files that actually had humans labeled too
+  tmp2 <- tmp2[!tmp2$file %in% tmp4$file,]
+  
+  table(tmp2$id)
+  
+  true.neg <- data.frame("Method"=c("Human_id","Megadetector"), "Images"=c(length(unique(tmp1$file)),length(unique(tmp2$file)))) 
+  true.neg$Percentage <- round(true.neg$Images/max(true.neg$Images)*100,1)
+  
+  ## False positive ###
+  # Everything that is NOT HUMAN
+  tmp1 <- final[final$method=="human_id" & (!final$id=="Human"),]
+  table(tmp1$id)
+  # Images in that subset which HAVE been labeled human by MD
+  tmp2 <- final[final$method=="megadetector" & final$id=="Human" & final$file %in% tmp1$file,]
+  table(tmp2$id)
+  
+  false.pos <- data.frame("Method"=c("Human_id","Megadetector"), "Images"=c(length(unique(tmp1$file)),length(unique(tmp2$file)))) 
+  false.pos$Percentage <- round(false.pos$Images/max(false.pos$Images)*100,1)
+  
+  ## False negative ###
+  # Labelled as human, missed by MD
+  tmp1 <- final[final$method=="human_id" & final$id=="Human",]
+  
+  tmp2 <- final[final$method=="megadetector" & (!final$id=="Human") & final$file %in% tmp1$file,]
+  # But some of these may have "human too"
+  tmp4 <- final[final$method=="megadetector" & final$id=="Human" & final$file %in% tmp1$file,]
+  tmp2 <- tmp2[!tmp2$file %in% tmp4$file,] #YES ARGH
+  
+  
+  false.neg <- data.frame("Method"=c("Human_id","Megadetector"), "Images"=c(length(unique(tmp1$file)),length(unique(tmp2$file)))) 
+  false.neg$Percentage <- round(false.neg$Images/max(false.neg$Images)*100,1)
+  
+  ## Summary stats ##
+  true.pos 
+  true.neg 
+  false.neg 
+  false.pos 
+  
+  #Accuracy
+  accu <- (true.pos$Images[2]+true.neg$Images[2])/
+    (true.pos$Images[2]+true.neg$Images[2]+false.pos$Images[2]+false.neg$Images[2])
+  
+  # Misclassification rate
+  misclass <- 1-accu
+  
+  #Sensitivity (recall)
+  sens <- (true.pos$Images[2])/(true.pos$Images[2]+false.neg$Images[2])
+  
+  #Specificity
+  spec <- (true.neg$Images[2])/(true.neg$Images[2]+false.pos$Images[2])
+  
+  #Precision
+  prec <- (true.pos$Images[2])/(true.pos$Images[2]+false.pos$Images[2])
+  
+  # F-score
+  F_score_hum <- (2*prec*sens)/(prec+sens)
+  
+  r <- c*10
+  pr_rec_df[r,] <- c(c, prec, sens, F_score_hum)
+}
+
+# Add first and last point for curve
+pr_rec_df_2 <- rbind(pr_rec_df, c(NA, 0.9931458, 0, NA)) # Highest precision point carried left to axis
+pr_rec_df_2 <- rbind(c(NA, 0.46580692, 1, 0.63556382), pr_rec_df_2) # Positives/(Positives + Negatives)
+
+# Area under PR Curve (PR-AUC)
+AUC <- MESS::auc(pr_rec_df_2$recall, pr_rec_df_2$prec) # Using trapezoidal method, can also use spline for higher accuracy
+
+# Create PR Curve
+ggplot(pr_rec_df_2) +
+  geom_path() +
+  aes(x = recall, y = prec) +
+  ylim(0,1) +
+  xlim(0,1) +
+  labs(y = "Precision", x = "Recall") +
+  geom_segment(aes(y = min(prec), yend = min(prec), x = 0, xend = 1), lty = 2) +
+  geom_text(x = 0.75, y = 0.25, label = paste0("AUC = ", round(AUC,4))) +
+  theme_classic()
 

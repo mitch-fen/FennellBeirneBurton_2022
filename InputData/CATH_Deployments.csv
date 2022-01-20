@@ -1,0 +1,69 @@
+Project.ID,Deployment.Location.ID,Deployment.ID,Treatment.Strata,Camera.Deployment.Begin.Date,Camera.Deployment.End.Date,Time.Zone,Bait.Type,Feature.Type,Camera.Failure.Details,Quiet.Period.Setting,Camera.Make,Height,Angle
+Cathedral,CATH08,D1,On-trail ,2019-07-02 0:00,2019-08-21 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,53,Parallel
+Cathedral,CATH08,D2,On-trail ,2019-08-21 0:00,2019-11-09 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,53,Parallel
+Cathedral,CATH08,D3,On-trail ,2019-11-09 0:00,2020-05-30 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,53,Parallel
+Cathedral,CATH09,D1,Off-trail,2019-07-02 0:00,2020-09-12 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,75,Parallel
+Cathedral,CATH10,D1,Off-trail,2019-07-02 0:00,2020-05-06 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,76,Parallel
+Cathedral,CATH11,D1,Off-trail,2019-07-03 0:00,2020-10-01 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,48,Parallel
+Cathedral,CATH12,D1,On-Trail/Road,2019-07-04 0:00,2020-07-06 0:00,UTC-7,None,"Road, dirt",,0,Reconyx HP2X,65,Parallel
+Cathedral,CATH12,D2,On-Trail/Road,2020-07-06 0:00,2020-10-01 0:00,UTC-7,None,"Road, dirt",,0,Reconyx HP2X,65,Parallel
+Cathedral,CATH13,D1,On-trail ,2019-07-03 0:00,2019-10-02 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,80,Parallel
+Cathedral,CATH13b,D1,On-trail ,2019-10-02 0:00,2020-07-06 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,62,Parallel
+Cathedral,CATH13b,D2,On-trail ,2020-07-06 0:00,2020-08-10 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,62,Parallel
+Cathedral,CATH13b,D3,On-trail ,2020-08-10 0:00,2020-09-30 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,62,Parallel
+Cathedral,CATH14,D1,Off-trail,2019-07-03 0:00,2019-10-02 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,50,Parallel
+Cathedral,CATH14,D2,Off-trail,2019-10-02 0:00,2020-07-06 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,50,Parallel
+Cathedral,CATH14,D3,Off-trail,2020-07-06 0:00,2020-08-10 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,50,Parallel
+Cathedral,CATH14,D4,Off-trail,2020-08-10 0:00,2020-09-30 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,50,Parallel
+Cathedral,CATH15,D1,Off-trail,2019-07-03 0:00,2020-06-28 0:00,UTC-7,None,"Trail, game",Camera Hardware Malfunction,0,Reconyx HP2X,40,Parallel
+Cathedral,CATH15,D2,Off-trail.,2020-07-06 0:00,2020-09-30 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,40,Parallel
+Cathedral,CATH16,D1,Off-trail,2019-07-04 0:00,2020-08-12 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,40,Parallel
+Cathedral,CATH17,D1,Off-trail,2019-07-02 0:00,2019-10-02 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,150,Parallel
+Cathedral,CATH17,D2,Off-trail,2019-10-02 0:00,2020-08-11 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,150,Parallel
+Cathedral,CATH17,D3,Off-trail,2020-08-11 0:00,2020-09-30 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,150,Parallel
+Cathedral,CATH18,D1,On-trail ,2019-07-03 0:00,2019-10-02 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,42,Parallel
+Cathedral,CATH18,D2,On-trail ,2019-10-02 0:00,2020-08-11 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,42,Parallel
+Cathedral,CATH18,D3,On-trail,2020-08-11 0:00,2020-09-30 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,42,Parallel
+Cathedral,CATH19,D1,On-trail,2019-07-03 0:00,2019-10-02 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,77,Parallel
+Cathedral,CATH19,D2,On-trail,2019-10-02 0:00,2020-07-07 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,77,Parallel
+Cathedral,CATH19,D3,On-trail,2020-07-07 0:00,2020-08-12 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,77,Parallel
+Cathedral,CATH19,D4,On-trail,2020-08-12 0:00,2020-09-30 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,77,Parallel
+Cathedral,CATH20,D1,On-trail,2019-07-02 0:00,2019-10-01 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,65,Parallel
+Cathedral,CATH20,D2,On-trail,2019-10-01 0:00,2020-07-08 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,65,Parallel
+Cathedral,CATH20,D3,On-trail,2020-07-08 0:00,2020-08-12 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,65,Parallel
+Cathedral,CATH21,D1,On-trail,2019-07-04 0:00,2020-07-22 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,60,Parallel
+Cathedral,CATH22,D1,On-trail ,2019-07-04 0:00,2019-10-01 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,66,Parallel
+Cathedral,CATH22,D2,On-trail ,2019-10-01 0:00,2020-07-08 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,66,Parallel
+Cathedral,CATH23,D1,Off-trail,2019-07-04 0:00,2019-10-01 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,56,Parallel
+Cathedral,CATH23,D2,Off-trail,2019-10-01 0:00,2020-07-08 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,56,Parallel
+Cathedral,CATH24,D1,On-trail ,2019-07-04 0:00,2020-07-08 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,72,Parallel
+Cathedral,CATH25,D1,Off-trail,2019-07-04 0:00,2020-07-08 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,38,Parallel
+Cathedral,CATH26,D1,On-trail ,2019-07-05 0:00,2019-10-02 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,76,Parallel
+Cathedral,CATH26,D2,On-trail ,2019-10-02 0:00,2020-07-07 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,76,Parallel
+Cathedral,CATH27,D1,Off-trail,2019-07-04 0:00,2020-07-22 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,175,Parallel
+Cathedral,CATH28,D1,On-trail ,2019-07-04 0:00,2020-07-22 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,50,Parallel
+Cathedral,CATH29,D1,On-trail ,2019-07-05 0:00,2019-09-30 0:00,UTC-7,None,"Road, dirt",,0,Reconyx HP2X,87,Parallel
+Cathedral,CATH29,D2,On-trail,2019-09-30 0:00,2020-07-06 0:00,UTC-7,None,"Road, dirt",,0,Reconyx HP2X,87,Parallel
+Cathedral,CATH29,D3,On-trail,2020-07-06 0:00,2020-10-01 0:00,UTC-7,None,"Road, dirt",,0,Reconyx HP2X,87,Parallel
+Cathedral,CATH30,D1,Off-trail,2019-07-05 0:00,2020-07-07 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,83,Parallel
+Cathedral,CATH31,D1,On-trail,2019-08-19 0:00,2020-05-05 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,120,Parallel
+Cathedral,CATH31,D2,On-trail,2020-05-05 0:00,2020-07-22 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,120,Parallel
+Cathedral,CATH32,D1,On-trail ,2019-07-05 0:00,2019-10-02 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,90,Parallel
+Cathedral,CATH32,D2,On-trail ,2019-10-02 0:00,2020-07-07 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,90,Parallel
+Cathedral,CATH32,D3,On-trail ,2020-07-07 0:00,2020-09-30 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,90,Parallel
+Cathedral,CATH33,D1,Off-trail,2019-07-05 0:00,2019-10-02 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,60,Parallel
+Cathedral,CATH33,D2,Off-trail,2019-10-02 0:00,2020-07-07 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,60,Parallel
+Cathedral,CATH34,D1,Off-trail,2019-08-19 0:00,2020-05-05 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,100,Parallel
+Cathedral,CATH35,D1,On-trail ,2019-08-19 0:00,2020-05-05 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,80,Parallel
+Cathedral,CATH35,D2,On-trail ,2020-05-05 0:00,2020-07-22 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,80,Parallel
+Cathedral,CATH36,D1,Off-trail,2019-08-20 0:00,2020-07-11 0:00,UTC-7,None,"Trail, game",Wildlife Damage,0,Reconyx HP2X,100,Parallel
+Cathedral,CATH37,D1,Off-trail,2019-08-20 0:00,2020-09-29 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,110,Parallel
+Cathedral,CATH38,D1,Off-trail,2019-08-20 0:00,2020-09-29 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,110,Parallel
+Cathedral,CATH39,D1,Off-trail,2019-08-20 0:00,2020-09-29 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,85,Parallel
+Cathedral,CATH40,D1,Off-trail,2019-08-21 0:00,2020-09-12 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,60,Parallel
+Cathedral,CATH41,D1,On-trail,2019-08-21 0:00,2020-09-12 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,120,Parallel
+Cathedral,CATH42,D1,Off-trail,2019-08-21 0:00,2020-09-12 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,130,Parallel
+Cathedral,CATH43,D1,On-trail,2019-08-21 0:00,2020-09-12 0:00,UTC-7,None,"Trail, hiking/people",,0,Reconyx HP2X,100,Parallel
+Cathedral,CATH44,D1,Off-trail,2019-08-21 0:00,2020-09-13 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,30,Parallel
+Cathedral,CATH45,D1,Off-trail,2019-08-22 0:00,2020-09-13 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,50,Parallel
+Cathedral,CATH46,D1,Off-trail,2019-08-22 0:00,2020-09-13 0:00,UTC-7,None,"Trail, game",,0,Reconyx HP2X,30,Parallel
